@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-zyd@=-hnn_(xp^ux7_u7*3n^xrji2jl@^gxn=!4d8^a8l#=xe(
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['8000-kode-ws-da8738562.hebbale.academy']
 
 
 # Application definition
@@ -37,6 +37,8 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'corsheaders',
+    'rest_framework',
 ]
 
 MIDDLEWARE = [
