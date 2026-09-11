@@ -1,0 +1,159 @@
+@import "tailwindcss";
+
+@theme {
+  --color-asphalt: #1b1f24;        /* primary text, headings, primary button fill, header band */
+  --color-gravel: #565b61;         /* secondary/muted text, meta labels, counts */
+  --color-fog: #f5f4f0;            /* app background only */
+  --color-board: #ffffff;          /* section boards, answer tiles, sticky CTA bar */
+  --color-kerb: #d9d5cb;           /* 1px separators inside a board, inactive progress line */
+  --color-kerb-deep: #a8a496;      /* interactive borders (unselected tiles, secondary button) */
+  --color-arishina: #f2b705;       /* turmeric/signage yellow — board fill, "arrived" badge, active km-stone. NEVER text on light bg */
+  --color-kumkuma: #8f1d22;        /* vermilion — "diversion" status, obstacle accent bars. NEVER a primary CTA color */
+  --color-kumkuma-lift: #ef5350;   /* lifted vermilion for text on dark (asphalt) ground — base kumkuma is ~1.8:1 there; 4.75:1 here (brand wordmark only) */
+
+  --radius-tile: 3px;              /* buttons, answer tiles, status badges, chips, tabs */
+  --radius-board: 6px;             /* destination board, section boards */
+}
+
+@theme inline {
+  --font-display: var(--font-anek-latin), var(--font-anek-kannada),
+    var(--font-noto-sans), var(--font-noto-kannada), system-ui, sans-serif;
+  --font-body: var(--font-noto-sans), var(--font-noto-kannada), system-ui,
+    sans-serif;
+}
+
+/* derived tints */
+:root {
+  --arishina-soft: color-mix(in oklch, var(--color-arishina) 10%, transparent);
+  --kumkuma-soft: color-mix(in oklch, var(--color-kumkuma) 12%, transparent);
+  --asphalt-soft: color-mix(in oklch, var(--color-asphalt) 6%, transparent);
+}
+
+/* ─── base ─────────────────────────────────────────────────────────── */
+body {
+  background: var(--color-fog);
+  color: var(--color-asphalt);
+  font-family: var(--font-body);
+  font-size: 16px;
+  line-height: 1.6;
+  text-rendering: optimizeLegibility;
+}
+
+p {
+  text-wrap: pretty;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  text-wrap: balance;
+}
+
+/* ─── motion (question step-in) ────────────────────────────────────── */
+@keyframes step-in {
+  from {
+    opacity: 0;
+    transform: translateY(8px);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+.animate-step-in {
+  animation: step-in 0.2s ease-out;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+
+/* ─── shared surfaces ────────────────────────────────────────────────*/
+.board {
+  border-radius: var(--radius-board);
+  border: 1px solid var(--color-kerb);
+  background: var(--color-board);
+}
+
+.board-l-kumkuma {
+  border-left: 4px solid var(--color-kumkuma);
+}
+
+.board-l-arishina {
+  border-left: 4px solid var(--color-arishina);
+}
+
+.board-l-gravel {
+  border-left: 4px solid var(--color-gravel);
+}
+
+.pill {
+  border-radius: var(--radius-tile);
+  padding: 6px 12px;
+}
+
+.pill,
+.label {
+  font-family: var(--font-display);
+  font-size: 13.5px;
+  font-weight: 600;
+}
+
+.title {
+  font-family: var(--font-display);
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 1.3;
+}
+
+/* ─── shared focus rings (route-sign outline) ──────────────────────── */
+.focus-ring:focus-visible {
+  outline: 3px solid var(--color-asphalt);
+  outline-offset: 2px;
+}
+
+.focus-ring-invert:focus-visible {
+  outline: 3px solid var(--color-arishina);
+  outline-offset: 2px;
+}
+
+/* ─── center-line divider (road marking, not a gradient wash) ──────── */
+.center-line {
+  height: 4px;
+  background: repeating-linear-gradient(
+    90deg,
+    var(--color-arishina) 0 20px,
+    transparent 20px 32px
+  );
+}
+
+/* ─── destination board — flag wash (diagonal) ──────────────────────*/
+.board-flag {
+  background: linear-gradient(
+    135deg,
+    var(--color-arishina) 0%,
+    var(--color-arishina) 50%,
+    color-mix(in oklch, var(--color-kumkuma) 78%, var(--color-arishina)) 100%
+  );
+}
+
+/* ─── brand wordmark — Karnataka flag stripes clipped to the text ────*/
+.brand-flag {
+  background: linear-gradient(
+    180deg,
+    var(--color-arishina) 0%,
+    var(--color-arishina) 50%,
+    var(--color-kumkuma-lift) 50%,
+    var(--color-kumkuma-lift) 100%
+  );
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
