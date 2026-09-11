@@ -1,0 +1,33 @@
+services:
+  web:
+    build:
+      context: ./web
+      args:
+        - NEXT_PUBLIC_API_URL=http://localhost:8000
+    ports:
+      - "3000:3000"
+    environment:
+      - API_URL=http://backend:8000
+    restart: unless-stopped
+
+  backend:
+    build: ./backend
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./data:/app/data:ro
+      - backend-db:/app/db
+    environment:
+      - DJANGO_SECRET_KEY=change-me-in-production
+      - DJANGO_DEBUG=0
+      - DJANGO_DB_PATH=/app/db/db.sqlite3
+      - CORS_ORIGINS=http://localhost:3000
+      - DJANGO_ALLOWED_HOSTS=localhost,backend,127.0.0.1
+      - DATA_DIR=/app/data
+      - FRESH_DB=1
+      - DJANGO_SUPERUSER_MOBILE=${DJANGO_SUPERUSER_MOBILE:-}
+      - DJANGO_SUPERUSER_PASSWORD=${DJANGO_SUPERUSER_PASSWORD:-}
+    restart: unless-stopped
+
+volumes:
+  backend-db:
