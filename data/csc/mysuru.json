@@ -1,0 +1,676 @@
+{
+  "source": "Representative dataset modelled on the published Karnataka One / Grama One / CSC / Nadakacheri network patterns for Mysuru district; NOT scraped from official listings.",
+  "last_verified": "2026-09-09",
+  "coverage_note": {
+    "en": "Representative list of 37 service centres across Mysuru city (570xxx) and the district's taluk towns. Names, addresses and coordinates are approximations for testing and must be re-verified against the official Karnataka One / Grama One / CSC directories before use in production. Phone numbers are intentionally omitted.",
+    "kn": "ಮೈಸೂರು ನಗರ (570xxx) ಮತ್ತು ಜಿಲ್ಲೆಯ ತಾಲೂಕು ಪಟ್ಟಣಗಳಾದ್ಯಂತ 37 ಪ್ರತಿನಿಧಿ ಸೇವಾ ಕೇಂದ್ರಗಳ ಪಟ್ಟಿ. ಹೆಸರುಗಳು, ವಿಳಾಸಗಳು ಮತ್ತು ನಿರ್ದೇಶಾಂಕಗಳು ಪರೀಕ್ಷೆಗಾಗಿ ಸರಿಸುಮಾರು ಅಂದಾಜು ಮಾತ್ರ; ಬಳಕೆಯ ಮೊದಲು ಅಧಿಕೃತ ಕರ್ನಾಟಕ ಒನ್ / ಗ್ರಾಮ ಒನ್ / ಸಿಎಸ್‌ಸಿ ಪಟ್ಟಿಗಳೊಂದಿಗೆ ಮತ್ತೆ ಪರಿಶೀಲಿಸಬೇಕು. ದೂರವಾಣಿ ಸಂಖ್ಯೆಗಳನ್ನು ಉದ್ದೇಶಪೂರ್ವಕವಾಗಿ ಬಿಡಲಾಗಿದೆ."
+  },
+  "centers": [
+    {
+      "id": "mys-ko-devaraja",
+      "name": {
+        "en": "Karnataka One — Devaraja",
+        "kn": "ಕರ್ನಾಟಕ ಒನ್ — ದೇವರಾಜ"
+      },
+      "type": "karnataka_one",
+      "address": {
+        "en": "Near Devaraja Market, Devaraja Mohalla",
+        "kn": "ದೇವರಾಜ ಮೋಹಲ್ಲಾ ಬಳಿ"
+      },
+      "locality": "Devaraja Mohalla",
+      "city": "Mysuru",
+      "taluk": "Mysuru",
+      "pincode": "570001",
+      "lat": 12.3052,
+      "lng": 76.6551
+    },
+    {
+      "id": "mys-ko-cauvery",
+      "name": {
+        "en": "Karnataka One — Cauvery Layout",
+        "kn": "ಕರ್ನಾಟಕ ಒನ್ — ಕಾವೇರಿ ಲೇಔಟ್"
+      },
+      "type": "karnataka_one",
+      "address": {
+        "en": "Cauvery Layout, Mysuru",
+        "kn": "ಕಾವೇರಿ ಲೇಔಟ್, ಮೈಸೂರು"
+      },
+      "locality": "Cauvery Layout",
+      "city": "Mysuru",
+      "taluk": "Mysuru",
+      "pincode": "570002",
+      "lat": 12.309,
+      "lng": 76.653
+    },
+    {
+      "id": "mys-ko-kuvempu",
+      "name": {
+        "en": "Karnataka One — Kuvempunagar",
+        "kn": "ಕರ್ನಾಟಕ ಒನ್ — ಕುವೆಂಪುನಗರ"
+      },
+      "type": "karnataka_one",
+      "address": {
+        "en": "Kuvempunagar 4th Stage, Mysuru",
+        "kn": "ಕುವೆಂಪುನಗರ 4ನೇ ಹಂತ, ಮೈಸೂರು"
+      },
+      "locality": "Kuvempunagar",
+      "city": "Mysuru",
+      "taluk": "Mysuru",
+      "pincode": "570004",
+      "lat": 12.2955,
+      "lng": 76.64
+    },
+    {
+      "id": "mys-ko-jayanagar",
+      "name": {
+        "en": "Karnataka One — Jayanagar",
+        "kn": "ಕರ್ನಾಟಕ ಒನ್ — ಜಯನಗರ"
+      },
+      "type": "karnataka_one",
+      "address": {
+        "en": "Jayanagar Main Road, Mysuru",
+        "kn": "ಜಯನಗರ ಮುಖ್ಯ ರಸ್ತೆ, ಮೈಸೂರು"
+      },
+      "locality": "Jayanagar",
+      "city": "Mysuru",
+      "taluk": "Mysuru",
+      "pincode": "570005",
+      "lat": 12.29,
+      "lng": 76.635
+    },
+    {
+      "id": "mys-ko-saraswathi",
+      "name": {
+        "en": "Karnataka One — Saraswathipuram",
+        "kn": "ಕರ್ನಾಟಕ ಒನ್ — ಸರಸ್ವತಿಪುರ"
+      },
+      "type": "karnataka_one",
+      "address": {
+        "en": "Saraswathipuram, Mysuru",
+        "kn": "ಸರಸ್ವತಿಪುರ, ಮೈಸೂರು"
+      },
+      "locality": "Saraswathipuram",
+      "city": "Mysuru",
+      "taluk": "Mysuru",
+      "pincode": "570006",
+      "lat": 12.312,
+      "lng": 76.633
+    },
+    {
+      "id": "mys-ko-nrmohalla",
+      "name": {
+        "en": "Karnataka One — N.R. Mohalla",
+        "kn": "ಕರ್ನಾಟಕ ಒನ್ — ಎನ್.ಆರ್. ಮೋಹಲ್ಲಾ"
+      },
+      "type": "karnataka_one",
+      "address": {
+        "en": "N.R. Mohalla, Mysuru",
+        "kn": "ಎನ್.ಆರ್. ಮೋಹಲ್ಲಾ, ಮೈಸೂರು"
+      },
+      "locality": "N.R. Mohalla",
+      "city": "Mysuru",
+      "taluk": "Mysuru",
+      "pincode": "570007",
+      "lat": 12.318,
+      "lng": 76.643
+    },
+    {
+      "id": "mys-ko-hebbal",
+      "name": {
+        "en": "Karnataka One — Hebbal Industrial Area",
+        "kn": "ಕರ್ನಾಟಕ ಒನ್ — ಹೆಬ್ಬಾಳ್ ಕೈಗಾರಿಕಾ ಪ್ರದೇಶ"
+      },
+      "type": "karnataka_one",
+      "address": {
+        "en": "Hebbal Industrial Area, Mysuru",
+        "kn": "ಹೆಬ್ಬಾಳ್ ಕೈಗಾರಿಕಾ ಪ್ರದೇಶ, ಮೈಸೂರು"
+      },
+      "locality": "Hebbal",
+      "city": "Mysuru",
+      "taluk": "Mysuru",
+      "pincode": "570008",
+      "lat": 12.325,
+      "lng": 76.638
+    },
+    {
+      "id": "mys-ko-rajeevnagar",
+      "name": {
+        "en": "Karnataka One — Rajeev Nagar",
+        "kn": "ಕರ್ನಾಟಕ ಒನ್ — ರಾಜೀವ್ ನಗರ"
+      },
+      "type": "karnataka_one",
+      "address": {
+        "en": "Rajeev Nagar, Mysuru",
+        "kn": "ರಾಜೀವ್ ನಗರ, ಮೈಸೂರು"
+      },
+      "locality": "Rajeev Nagar",
+      "city": "Mysuru",
+      "taluk": "Mysuru",
+      "pincode": "570010",
+      "lat": 12.32,
+      "lng": 76.648
+    },
+    {
+      "id": "mys-ko-rk-nagar",
+      "name": {
+        "en": "Karnataka One — Ramakrishna Nagar",
+        "kn": "ಕರ್ನಾಟಕ ಒನ್ — ರಾಮಕೃಷ್ಣ ನಗರ"
+      },
+      "type": "karnataka_one",
+      "address": {
+        "en": "Ramakrishna Nagar, Mysuru",
+        "kn": "ರಾಮಕೃಷ್ಣ ನಗರ, ಮೈಸೂರು"
+      },
+      "locality": "Ramakrishna Nagar",
+      "city": "Mysuru",
+      "taluk": "Mysuru",
+      "pincode": "570011",
+      "lat": 12.29,
+      "lng": 76.626
+    },
+    {
+      "id": "mys-ko-bannimantap",
+      "name": {
+        "en": "Karnataka One — Bannimantap",
+        "kn": "ಕರ್ನಾಟಕ ಒನ್ — ಬನ್ನಿಮಂಟಪ"
+      },
+      "type": "karnataka_one",
+      "address": {
+        "en": "Bannimantap Main Road, Mysuru",
+        "kn": "ಬನ್ನಿಮಂಟಪ ಮುಖ್ಯ ರಸ್ತೆ, ಮೈಸೂರು"
+      },
+      "locality": "Bannimantap",
+      "city": "Mysuru",
+      "taluk": "Mysuru",
+      "pincode": "570012",
+      "lat": 12.303,
+      "lng": 76.67
+    },
+    {
+      "id": "mys-ko-metagalli",
+      "name": {
+        "en": "Karnataka One — Metagalli",
+        "kn": "ಕರ್ನಾಟಕ ಒನ್ — ಮೇತಗಳ್ಳಿ"
+      },
+      "type": "karnataka_one",
+      "address": {
+        "en": "Metagalli, KRS Road, Mysuru",
+        "kn": "ಮೇತಗಳ್ಳಿ, ಕೆಆರ್ಎಸ್ ರಸ್ತೆ, ಮೈಸೂರು"
+      },
+      "locality": "Metagalli",
+      "city": "Mysuru",
+      "taluk": "Mysuru",
+      "pincode": "570015",
+      "lat": 12.29,
+      "lng": 76.67
+    },
+    {
+      "id": "mys-ko-vijayanagar1",
+      "name": {
+        "en": "Karnataka One — Vijayanagar 1st Stage",
+        "kn": "ಕರ್ನಾಟಕ ಒನ್ — ವಿಜಯನಗರ 1ನೇ ಹಂತ"
+      },
+      "type": "karnataka_one",
+      "address": {
+        "en": "Vijayanagar 1st Stage, Mysuru",
+        "kn": "ವಿಜಯನಗರ 1ನೇ ಹಂತ, ಮೈಸೂರು"
+      },
+      "locality": "Vijayanagar 1st Stage",
+      "city": "Mysuru",
+      "taluk": "Mysuru",
+      "pincode": "570016",
+      "lat": 12.287,
+      "lng": 76.625
+    },
+    {
+      "id": "mys-ko-vijayanagar2",
+      "name": {
+        "en": "Karnataka One — Vijayanagar 2nd Stage",
+        "kn": "ಕರ್ನಾಟಕ ಒನ್ — ವಿಜಯನಗರ 2ನೇ ಹಂತ"
+      },
+      "type": "karnataka_one",
+      "address": {
+        "en": "Vijayanagar 2nd Stage, Mysuru",
+        "kn": "ವಿಜಯನಗರ 2ನೇ ಹಂತ, ಮೈಸೂರು"
+      },
+      "locality": "Vijayanagar 2nd Stage",
+      "city": "Mysuru",
+      "taluk": "Mysuru",
+      "pincode": "570017",
+      "lat": 12.283,
+      "lng": 76.618
+    },
+    {
+      "id": "mys-ko-gokulam",
+      "name": {
+        "en": "Karnataka One — Gokulam",
+        "kn": "ಕರ್ನಾಟಕ ಒನ್ — ಗೋಕುಲಂ"
+      },
+      "type": "karnataka_one",
+      "address": {
+        "en": "Gokulam Main Road, Mysuru",
+        "kn": "ಗೋಕುಲಂ ಮುಖ್ಯ ರಸ್ತೆ, ಮೈಸೂರು"
+      },
+      "locality": "Gokulam",
+      "city": "Mysuru",
+      "taluk": "Mysuru",
+      "pincode": "570019",
+      "lat": 12.325,
+      "lng": 76.656
+    },
+    {
+      "id": "mys-ko-jpnagar",
+      "name": {
+        "en": "Karnataka One — J.P. Nagar",
+        "kn": "ಕರ್ನಾಟಕ ಒನ್ — ಜೆ.ಪಿ. ನಗರ"
+      },
+      "type": "karnataka_one",
+      "address": {
+        "en": "J.P. Nagar, Mysuru",
+        "kn": "ಜೆ.ಪಿ. ನಗರ, ಮೈಸೂರು"
+      },
+      "locality": "J.P. Nagar",
+      "city": "Mysuru",
+      "taluk": "Mysuru",
+      "pincode": "570020",
+      "lat": 12.27,
+      "lng": 76.65
+    },
+    {
+      "id": "mys-ko-srirampura",
+      "name": {
+        "en": "Karnataka One — Srirampura",
+        "kn": "ಕರ್ನಾಟಕ ಒನ್ — ಶ್ರೀರಾಂಪುರ"
+      },
+      "type": "karnataka_one",
+      "address": {
+        "en": "Srirampura, Mysuru",
+        "kn": "ಶ್ರೀರಾಂಪುರ, ಮೈಸೂರು"
+      },
+      "locality": "Srirampura",
+      "city": "Mysuru",
+      "taluk": "Mysuru",
+      "pincode": "570022",
+      "lat": 12.335,
+      "lng": 76.64
+    },
+    {
+      "id": "mys-ko-hinkal",
+      "name": {
+        "en": "Karnataka One — Hinkal",
+        "kn": "ಕರ್ನಾಟಕ ಒನ್ — ಹಿಂಕಳ್"
+      },
+      "type": "karnataka_one",
+      "address": {
+        "en": "Hinkal, Mysuru",
+        "kn": "ಹಿಂಕಳ್, ಮೈಸೂರು"
+      },
+      "locality": "Hinkal",
+      "city": "Mysuru",
+      "taluk": "Mysuru",
+      "pincode": "570023",
+      "lat": 12.31,
+      "lng": 76.608
+    },
+    {
+      "id": "mys-ko-yelwal",
+      "name": {
+        "en": "Karnataka One — Yelwal",
+        "kn": "ಕರ್ನಾಟಕ ಒನ್ — ಯೆಲ್ವಾಳ"
+      },
+      "type": "karnataka_one",
+      "address": {
+        "en": "Yelwal, Mysuru North",
+        "kn": "ಯೆಲ್ವಾಳ, ಮೈಸೂರು ಉತ್ತರ"
+      },
+      "locality": "Yelwal",
+      "city": "Mysuru",
+      "taluk": "Mysuru",
+      "pincode": "570026",
+      "lat": 12.345,
+      "lng": 76.61
+    },
+    {
+      "id": "mys-ko-bogadi",
+      "name": {
+        "en": "Karnataka One — Bogadi",
+        "kn": "ಕರ್ನಾಟಕ ಒನ್ — ಬೋಗಾದಿ"
+      },
+      "type": "karnataka_one",
+      "address": {
+        "en": "Bogadi Main Road, Mysuru",
+        "kn": "ಬೋಗಾದಿ ಮುಖ್ಯ ರಸ್ತೆ, ಮೈಸೂರು"
+      },
+      "locality": "Bogadi",
+      "city": "Mysuru",
+      "taluk": "Mysuru",
+      "pincode": "570029",
+      "lat": 12.28,
+      "lng": 76.59
+    },
+    {
+      "id": "mys-go-kadakola",
+      "name": {
+        "en": "Grama One — Kadakola",
+        "kn": "ಗ್ರಾಮ ಒನ್ — ಕಡಕೋಲ"
+      },
+      "type": "grama_one",
+      "address": {
+        "en": "Kadakola Town, Nanjangud Taluk",
+        "kn": "ಕಡಕೋಲ ಪಟ್ಟಣ, ನಂಜನಗೂಡು ತಾಲೂಕು"
+      },
+      "locality": "Kadakola",
+      "city": "Kadakola",
+      "taluk": "Nanjangud",
+      "pincode": "570028",
+      "lat": 12.25,
+      "lng": 76.64
+    },
+    {
+      "id": "mys-nk-mysuru",
+      "name": {
+        "en": "Nadakacheri (ATR) — Mysuru Taluk",
+        "kn": "ನಾಡಕಚೇರಿ (ಎಟಿಆರ್) — ಮೈಸೂರು ತಾಲೂಕು"
+      },
+      "type": "nadakacheri",
+      "address": {
+        "en": "Taluk Office Complex, Mysuru",
+        "kn": "ತಾಲೂಕು ಕಚೇರಿ ಸಂಕೀರ್ಣ, ಮೈಸೂರು"
+      },
+      "locality": "Mysuru Taluk Office",
+      "city": "Mysuru",
+      "taluk": "Mysuru",
+      "pincode": "570001",
+      "lat": 12.3052,
+      "lng": 76.6551
+    },
+    {
+      "id": "mys-csc-ootakallu",
+      "name": {
+        "en": "CSC Centre — Ootakallu Road",
+        "kn": "ಸಿಎಸ್‌ಸಿ ಕೇಂದ್ರ — ಊಟಕಲ್ಲು ರಸ್ತೆ"
+      },
+      "type": "csc",
+      "address": {
+        "en": "Ootakallu Road, Mysuru",
+        "kn": "ಊಟಕಲ್ಲು ರಸ್ತೆ, ಮೈಸೂರು"
+      },
+      "locality": "Ootakallu",
+      "city": "Mysuru",
+      "taluk": "Mysuru",
+      "pincode": "570012",
+      "lat": 12.303,
+      "lng": 76.67
+    },
+    {
+      "id": "mys-ko-nanjangud",
+      "name": {
+        "en": "Karnataka One — Nanjangud",
+        "kn": "ಕರ್ನಾಟಕ ಒನ್ — ನಂಜನಗೂಡು"
+      },
+      "type": "karnataka_one",
+      "address": {
+        "en": "Nanjangud Town, near Srikanteshwara Temple",
+        "kn": "ನಂಜನಗೂಡು ಪಟ್ಟಣ, ಶ್ರೀಕಂಠೇಶ್ವರ ದೇವಸ್ಥಾನದ ಬಳಿ"
+      },
+      "locality": "Nanjangud Town",
+      "city": "Nanjangud",
+      "taluk": "Nanjangud",
+      "pincode": "571302",
+      "lat": 12.123,
+      "lng": 76.682
+    },
+    {
+      "id": "mys-nk-nanjangud",
+      "name": {
+        "en": "Nadakacheri (ATR) — Nanjangud",
+        "kn": "ನಾಡಕಚೇರಿ (ಎಟಿಆರ್) — ನಂಜನಗೂಡು"
+      },
+      "type": "nadakacheri",
+      "address": {
+        "en": "Taluk Office Complex, Nanjangud",
+        "kn": "ತಾಲೂಕು ಕಚೇರಿ ಸಂಕೀರ್ಣ, ನಂಜನಗೂಡು"
+      },
+      "locality": "Nanjangud Taluk Office",
+      "city": "Nanjangud",
+      "taluk": "Nanjangud",
+      "pincode": "571302",
+      "lat": 12.123,
+      "lng": 76.682
+    },
+    {
+      "id": "mys-go-tandavapura",
+      "name": {
+        "en": "Grama One — Tandavapura",
+        "kn": "ಗ್ರಾಮ ಒನ್ — ತಂಡಾವಪುರ"
+      },
+      "type": "grama_one",
+      "address": {
+        "en": "Tandavapura Town, Nanjangud Taluk",
+        "kn": "ತಂಡಾವಪುರ ಪಟ್ಟಣ, ನಂಜನಗೂಡು ತಾಲೂಕು"
+      },
+      "locality": "Tandavapura",
+      "city": "Tandavapura",
+      "taluk": "Nanjangud",
+      "pincode": "571312",
+      "lat": 12.18,
+      "lng": 76.66
+    },
+    {
+      "id": "mys-ko-tnarasipur",
+      "name": {
+        "en": "Karnataka One — T. Narasipur",
+        "kn": "ಕರ್ನಾಟಕ ಒನ್ — ಟಿ. ನರಸೀಪುರ"
+      },
+      "type": "karnataka_one",
+      "address": {
+        "en": "Tirumakudal Narsipur Town",
+        "kn": "ತಿರುಮಕೂಡಲ್ ನರಸೀಪುರ ಪಟ್ಟಣ"
+      },
+      "locality": "T. Narasipur Town",
+      "city": "T. Narasipur",
+      "taluk": "T. Narasipur",
+      "pincode": "571101",
+      "lat": 12.2167,
+      "lng": 76.9
+    },
+    {
+      "id": "mys-go-bannur",
+      "name": {
+        "en": "Grama One — Bannur",
+        "kn": "ಗ್ರಾಮ ಒನ್ — ಬನ್ನೂರು"
+      },
+      "type": "grama_one",
+      "address": {
+        "en": "Bannur Town, T. Narasipur Taluk",
+        "kn": "ಬನ್ನೂರು ಪಟ್ಟಣ, ಟಿ. ನರಸೀಪುರ ತಾಲೂಕು"
+      },
+      "locality": "Bannur",
+      "city": "Bannur",
+      "taluk": "T. Narasipur",
+      "pincode": "571103",
+      "lat": 12.24,
+      "lng": 76.97
+    },
+    {
+      "id": "mys-ko-piriyapatna",
+      "name": {
+        "en": "Karnataka One — Piriyapatna",
+        "kn": "ಕರ್ನಾಟಕ ಒನ್ — ಪಿರಿಯಾಪಟ್ನ"
+      },
+      "type": "karnataka_one",
+      "address": {
+        "en": "Piriyapatna Town",
+        "kn": "ಪಿರಿಯಾಪಟ್ನ ಪಟ್ಟಣ"
+      },
+      "locality": "Piriyapatna Town",
+      "city": "Piriyapatna",
+      "taluk": "Piriyapatna",
+      "pincode": "571102",
+      "lat": 12.3683,
+      "lng": 76.1
+    },
+    {
+      "id": "mys-go-bylakuppe",
+      "name": {
+        "en": "Grama One — Bylakuppe",
+        "kn": "ಗ್ರಾಮ ಒನ್ — ಬೈಲುಕುಪ್ಪೆ"
+      },
+      "type": "grama_one",
+      "address": {
+        "en": "Bylakuppe Settlement, Piriyapatna Taluk",
+        "kn": "ಬೈಲುಕುಪ್ಪೆ ಪಟ್ಟಣ, ಪಿರಿಯಾಪಟ್ನ ತಾಲೂಕು"
+      },
+      "locality": "Bylakuppe",
+      "city": "Bylakuppe",
+      "taluk": "Piriyapatna",
+      "pincode": "571104",
+      "lat": 12.423,
+      "lng": 76.192
+    },
+    {
+      "id": "mys-ko-hunsur",
+      "name": {
+        "en": "Karnataka One — Hunsur",
+        "kn": "ಕರ್ನಾಟಕ ಒನ್ — ಹುನಸೂರು"
+      },
+      "type": "karnataka_one",
+      "address": {
+        "en": "Hunsur Town, B.H. Road",
+        "kn": "ಹುನಸೂರು ಪಟ್ಟಣ, ಬಿ.ಎಚ್. ರಸ್ತೆ"
+      },
+      "locality": "Hunsur Town",
+      "city": "Hunsur",
+      "taluk": "Hunsur",
+      "pincode": "571105",
+      "lat": 12.31,
+      "lng": 76.28
+    },
+    {
+      "id": "mys-nk-hunsur",
+      "name": {
+        "en": "Nadakacheri (ATR) — Hunsur",
+        "kn": "ನಾಡಕಚೇರಿ (ಎಟಿಆರ್) — ಹುನಸೂರು"
+      },
+      "type": "nadakacheri",
+      "address": {
+        "en": "Taluk Office Complex, Hunsur",
+        "kn": "ತಾಲೂಕು ಕಚೇರಿ ಸಂಕೀರ್ಣ, ಹುನಸೂರು"
+      },
+      "locality": "Hunsur Taluk Office",
+      "city": "Hunsur",
+      "taluk": "Hunsur",
+      "pincode": "571105",
+      "lat": 12.31,
+      "lng": 76.28
+    },
+    {
+      "id": "mys-go-bilikere",
+      "name": {
+        "en": "Grama One — Bilikere",
+        "kn": "ಗ್ರಾಮ ಒನ್ — ಬಿಳಿಕೆರೆ"
+      },
+      "type": "grama_one",
+      "address": {
+        "en": "Bilikere Town, Hunsur Taluk",
+        "kn": "ಬಿಳಿಕೆರೆ ಪಟ್ಟಣ, ಹುನಸೂರು ತಾಲೂಕು"
+      },
+      "locality": "Bilikere",
+      "city": "Bilikere",
+      "taluk": "Hunsur",
+      "pincode": "571106",
+      "lat": 12.335,
+      "lng": 76.2
+    },
+    {
+      "id": "mys-ko-periyapatna",
+      "name": {
+        "en": "Karnataka One — Periyapatna",
+        "kn": "ಕರ್ನಾಟಕ ಒನ್ — ಪೆರಿಯಾಪಟ್ನ"
+      },
+      "type": "karnataka_one",
+      "address": {
+        "en": "Periyapatna Town",
+        "kn": "ಪೆರಿಯಾಪಟ್ನ ಪಟ್ಟಣ"
+      },
+      "locality": "Periyapatna Town",
+      "city": "Periyapatna",
+      "taluk": "Periyapatna",
+      "pincode": "571107",
+      "lat": 12.5218,
+      "lng": 76.0753
+    },
+    {
+      "id": "mys-nk-hdkote",
+      "name": {
+        "en": "Nadakacheri (ATR) — H.D. Kote",
+        "kn": "ನಾಡಕಚೇರಿ (ಎಟಿಆರ್) — ಹೆಚ್.ಡಿ. ಕೋಟೆ"
+      },
+      "type": "nadakacheri",
+      "address": {
+        "en": "Taluk Office Complex, H.D. Kote",
+        "kn": "ತಾಲೂಕು ಕಚೇರಿ ಸಂಕೀರ್ಣ, ಹೆಚ್.ಡಿ. ಕೋಟೆ"
+      },
+      "locality": "H.D. Kote Taluk Office",
+      "city": "H.D. Kote",
+      "taluk": "H.D. Kote",
+      "pincode": "571114",
+      "lat": 12.15,
+      "lng": 76.29
+    },
+    {
+      "id": "mys-go-sargur",
+      "name": {
+        "en": "Grama One — Sargur",
+        "kn": "ಗ್ರಾಮ ಒನ್ — ಸರಗುರು"
+      },
+      "type": "grama_one",
+      "address": {
+        "en": "Sargur Town, H.D. Kote Taluk",
+        "kn": "ಸರಗುರು ಪಟ್ಟಣ, ಹೆಚ್.ಡಿ. ಕೋಟೆ ತಾಲೂಕು"
+      },
+      "locality": "Sargur",
+      "city": "Sargur",
+      "taluk": "H.D. Kote",
+      "pincode": "571121",
+      "lat": 12.09,
+      "lng": 76.36
+    },
+    {
+      "id": "mys-ko-krnagar",
+      "name": {
+        "en": "Karnataka One — K.R. Nagar",
+        "kn": "ಕರ್ನಾಟಕ ಒನ್ — ಕೆ.ಆರ್. ನಗರ"
+      },
+      "type": "karnataka_one",
+      "address": {
+        "en": "Krishnarajanagara Town",
+        "kn": "ಕೃಷ್ಣರಾಜನಗರ ಪಟ್ಟಣ"
+      },
+      "locality": "K.R. Nagar Town",
+      "city": "K.R. Nagar",
+      "taluk": "K.R. Nagar",
+      "pincode": "571601",
+      "lat": 12.4536,
+      "lng": 76.0934
+    },
+    {
+      "id": "mys-go-krnagar-rural",
+      "name": {
+        "en": "Grama One — K.R. Nagar Rural",
+        "kn": "ಗ್ರಾಮ ಒನ್ — ಕೆ.ಆರ್. ನಗರ ಗ್ರಾಮೀಣ"
+      },
+      "type": "grama_one",
+      "address": {
+        "en": "K.R. Nagar Taluk (rural block)",
+        "kn": "ಕೃಷ್ಣರಾಜನಗರ ತಾಲೂಕು (ಗ್ರಾಮೀಣ)"
+      },
+      "locality": "K.R. Nagar Rural",
+      "city": "K.R. Nagar",
+      "taluk": "K.R. Nagar",
+      "pincode": "571602",
+      "lat": 12.47,
+      "lng": 76.12
+    }
+  ]
+}

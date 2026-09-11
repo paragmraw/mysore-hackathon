@@ -1,0 +1,4681 @@
+{
+  "schemes": [
+    {
+      "id": "gruha-lakshmi",
+      "code": "GLK",
+      "name": {
+        "en": "Gruha Lakshmi",
+        "kn": "ಗೃಹಲಕ್ಷ್ಮಿ"
+      },
+      "summ": {
+        "en": "₹2,000 a month for the woman who heads your household",
+        "kn": "ನಿಮ್ಮ ಮನೆಯ ಮುಖ್ಯಸ್ಥೆ ಮಹಿಳೆಗೆ ಪ್ರತಿ ತಿಂಗಳು ₹2,000"
+      },
+      "department": {
+        "en": "Women and Child Development",
+        "kn": "ಮಹಿಳಾ ಮತ್ತು ಮಕ್ಕಳ ಅಭಿವೃದ್ಧಿ ಇಲಾಖೆ"
+      },
+      "benefit_type": "cash_transfer",
+      "jurisdiction": "karnataka",
+      "benefit": {
+        "en": "₹2,000 per month by direct bank transfer to the woman recorded as head of the household on the ration card. One eligible woman per family.",
+        "kn": "ರೇಷನ್ ಕಾರ್ಡಿನಲ್ಲಿ ಮನೆಯ ಮುಖ್ಯಸ್ಥರಾಗಿ ದಾಖಲಾಗಿರುವ ಮಹಿಳೆಗೆ ನೇರ ಬ್ಯಾಂಕ್ ವರ್ಗಾವಣೆಯ ಮೂಲಕ ಪ್ರತಿ ತಿಂಗಳು ₹2,000. ಪ್ರತಿ ಕುಟುಂಬಕ್ಕೆ ಒಬ್ಬ ಅರ್ಹ ಮಹಿಳೆ."
+      },
+      "amount": {
+        "en": "₹2,000 / month",
+        "kn": "ಪ್ರತಿ ತಿಂಗಳು ₹2,000"
+      },
+      "amount_inr": 2000,
+      "amount_period": "month",
+      "deadline": {
+        "en": "Ongoing",
+        "kn": "ನಿರಂತರ"
+      },
+      "eligibility_criteria": [
+        {
+          "en": "Karnataka resident woman listed as head of household on the ration card",
+          "kn": "ರೇಷನ್ ಕಾರ್ಡಿನಲ್ಲಿ ಮನೆಯ ಮುಖ್ಯಸ್ಥರಾಗಿ ದಾಖಲಾಗಿರುವ ಕರ್ನಾಟಕದ ನಿವಾಸಿ ಮಹಿಳೆ"
+        },
+        {
+          "en": "AAY, BPL or APL ration card covered under programme rules; one woman per family",
+          "kn": "ಕಾರ್ಯಕ್ರಮದ ನಿಯಮಗಳಡಿ ಎಎವೈ, ಬಿಪಿಎಲ್ ಅಥವಾ ಎಪಿಎಲ್ ರೇಷನ್ ಕಾರ್ಡ್ ಒಳಗೊಂಡಿದೆ; ಪ್ರತಿ ಕುಟುಂಬಕ್ಕೆ ಒಬ್ಬ ಮಹಿಳೆ"
+        },
+        {
+          "en": "DBT-capable bank account in her name",
+          "kn": "ಆ ಮಹಿಳೆಯ ಹೆಸರಿನಲ್ಲಿ ಡಿಬಿಟಿಗೆ ಸಾಧ್ಯವಾಗುವ ಬ್ಯಾಂಕ್ ಖಾತೆ"
+        }
+      ],
+      "application_steps": [
+        {
+          "en": "Check that the ration card lists a woman as household head — correct it at a Grama One centre if not.",
+          "kn": "ರೇಷನ್ ಕಾರ್ಡಿನಲ್ಲಿ ಮಹಿಳೆ ಮನೆಯ ಮುಖ್ಯಸ್ಥರಾಗಿ ದಾಖಲಾಗಿದ್ದಾರೆಯೇ ಎಂದು ಪರಿಶೀಲಿಸಿ — ಇಲ್ಲದಿದ್ದರೆ ಗ್ರಾಮ ಒನ್ ಕೇಂದ್ರದಲ್ಲಿ ಸರಿಪಡಿಸಿಕೊಳ್ಳಿ."
+        },
+        {
+          "en": "Register on Seva Sindhu or at an authorised centre with Aadhaar, ration card and bank details.",
+          "kn": "ಆಧಾರ್, ರೇಷನ್ ಕಾರ್ಡ್ ಮತ್ತು ಬ್ಯಾಂಕ್ ವಿವರಗಳೊಂದಿಗೆ ಸೇವಾ ಸಿಂಧು ಅಥವಾ ಅಧಿಕೃತ ಕೇಂದ್ರದಲ್ಲಿ ನೋಂದಾಯಿಸಿ."
+        },
+        {
+          "en": "Resolve any Aadhaar–bank–ration-card mismatch; payment then begins by DBT.",
+          "kn": "ಆಧಾರ್–ಬ್ಯಾಂಕ್–ರೇಷನ್ ಕಾರ್ಡ್ ಹೊಂದಾಣಿಕೆಯನ್ನು ಬಗೆಹರಿಸಿ; ನಂತರ ಪಾವತಿ ಡಿಬಿಟಿ ಮೂಲಕ ಆರಂಭವಾಗುತ್ತದೆ."
+        }
+      ],
+      "channels": [
+        {
+          "type": "portal",
+          "label": {
+            "en": "Seva Sindhu",
+            "kn": "ಸೇವಾ ಸಿಂಧು"
+          },
+          "url": "https://sevasindhu.karnataka.gov.in/"
+        },
+        {
+          "type": "csc"
+        }
+      ],
+      "docs": [
+        {
+          "en": "Aadhaar card",
+          "kn": "ಆಧಾರ್ ಕಾರ್ಡ್"
+        },
+        {
+          "en": "Ration card showing a woman as household head",
+          "kn": "ಮನೆಯ ಮುಖ್ಯಸ್ಥರಾಗಿ ಮಹಿಳೆಯನ್ನು ತೋರಿಸುವ ರೇಷನ್ ಕಾರ್ಡ್"
+        },
+        {
+          "en": "Bank passbook linked to Aadhaar",
+          "kn": "ಆಧಾರ್‌ಗೆ ಸಂಪರ್ಕಿಸಿದ ಬ್ಯಾಂಕ್ ಪಾಸ್‌ಬುಕ್"
+        },
+        {
+          "en": "Mobile number for registration",
+          "kn": "ನೋಂದಣಿಗಾಗಿ ಮೊಬೈಲ್ ಸಂಖ್ಯೆ"
+        }
+      ],
+      "route": null,
+      "criteria_note": null,
+      "rules": {
+        "eligibility": [
+          {
+            "id": "gl-e1",
+            "check": {
+              "op": "equals",
+              "field": "gender",
+              "value": "woman"
+            },
+            "on_fail": {
+              "status": "not_eligible",
+              "reason": {
+                "code": "reason.womenOnly"
+              }
+            }
+          },
+          {
+            "id": "gl-e2",
+            "check": {
+              "op": "equals",
+              "field": "womanhead",
+              "value": "yes"
+            },
+            "on_fail": {
+              "status": "not_eligible",
+              "reason": {
+                "code": "reason.notHouseholdHead"
+              }
+            }
+          },
+          {
+            "id": "gl-e3",
+            "check": {
+              "op": "income_lte",
+              "value": 800000
+            },
+            "on_fail": {
+              "status": "not_eligible",
+              "reason": {
+                "code": "reason.incomeAbove",
+                "params": {
+                  "limit": "₹8,00,000"
+                }
+              }
+            }
+          }
+        ],
+        "exclusions": [
+          {
+            "id": "gl-x1",
+            "check": {
+              "op": "equals",
+              "field": "tax",
+              "value": "yes"
+            },
+            "reason": {
+              "code": "reason.incomeTaxPayer"
+            }
+          },
+          {
+            "id": "gl-x2",
+            "check": {
+              "op": "equals",
+              "field": "ration",
+              "value": "none"
+            },
+            "reason": {
+              "code": "reason.noRationCard"
+            }
+          }
+        ],
+        "fixes": [
+          {
+            "id": "gl-f1",
+            "check": {
+              "op": "equals",
+              "field": "bank",
+              "value": "no"
+            },
+            "reason": {
+              "code": "reason.noAadhaarLinkedBank"
+            },
+            "fix_id": "bank-aadhaar-link"
+          },
+          {
+            "id": "gl-f2",
+            "check": {
+              "op": "equals",
+              "field": "aadhaar",
+              "value": "no"
+            },
+            "reason": {
+              "code": "reason.noAadhaar"
+            },
+            "fix_id": "get-aadhaar"
+          }
+        ],
+        "deep_check": [
+          {
+            "id": "gl-dc1",
+            "check": {
+              "op": "equals",
+              "field": "dc_aadhaar_name_match",
+              "value": "no"
+            },
+            "reason": {
+              "code": "reason.dcAadhaarNameMismatch"
+            },
+            "fix_id": "aadhaar-name-bank-mismatch"
+          },
+          {
+            "id": "gl-dc2",
+            "check": {
+              "op": "equals",
+              "field": "dc_aadhaar_bank_linked",
+              "value": "no"
+            },
+            "reason": {
+              "code": "reason.dcAadhaarNotLinkedBank"
+            },
+            "fix_id": "bank-aadhaar-link"
+          },
+          {
+            "id": "gl-dc3",
+            "check": {
+              "op": "equals",
+              "field": "dc_bank_active",
+              "value": "no"
+            },
+            "reason": {
+              "code": "reason.dcBankInactive"
+            },
+            "fix_id": "bank-account-activate"
+          },
+          {
+            "id": "gl-dc4",
+            "check": {
+              "op": "equals",
+              "field": "dc_docs_ready",
+              "value": "no"
+            },
+            "reason": {
+              "code": "reason.dcDocsNotReady"
+            },
+            "fix_id": "docs-ready"
+          },
+          {
+            "id": "gl-dc5",
+            "check": {
+              "op": "equals",
+              "field": "dc_aadhaar_mobile_linked",
+              "value": "no"
+            },
+            "reason": {
+              "code": "reason.dcAadhaarMobileNotLinked"
+            },
+            "fix_id": "aadhaar-mobile-link"
+          },
+          {
+            "id": "gl-dc6",
+            "check": {
+              "op": "equals",
+              "field": "dc_ration_head",
+              "value": "no"
+            },
+            "reason": {
+              "code": "reason.dcNotRationHead"
+            },
+            "fix_id": "ration-card"
+          }
+        ]
+      },
+      "confidence_note": "screening_only",
+      "last_verified": "2026-09-09",
+      "source_url": "https://sevasindhu.karnataka.gov.in/sevasindhu/english",
+      "source_note": {
+        "en": "Screening rules derived from the programme notification and Seva Sindhu guidance (Karnataka DWCD annual-report material); confirm current criteria before applying.",
+        "kn": "ಕಾರ್ಯಕ್ರಮದ ಅಧಿಸೂಚನೆ ಮತ್ತು ಸೇವಾ ಸಿಂಧು ಮಾರ್ಗದರ್ಶನ (ಕರ್ನಾಟಕ ಮಹಿಳಾ ಮತ್ತು ಮಕ್ಕಳ ಅಭಿವೃದ್ಧಿ ಇಲಾಖೆಯ ವಾರ್ಷಿಕ ವರದಿಯ ವಸ್ತು) ಆಧಾರದ ಮೇಲೆ ಪರಿಶೀಲನಾ ನಿಯಮಗಳನ್ನು ಸಿದ್ಧಪಡಿಸಲಾಗಿದೆ; ಅರ್ಜಿ ಸಲ್ಲಿಸುವ ಮೊದಲು ಪ್ರಸ್ತುತ ಮಾನದಂಡಗಳನ್ನು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಿ."
+      }
+    },
+    {
+      "id": "swavalambi-kmdc",
+      "code": "KMV",
+      "name": {
+        "en": "Swavalambi Sarathi — KMDC",
+        "kn": "ಸ್ವಾವಲಂಬಿ ಸಾರಥಿ — ಕೆಎಂಡಿಸಿ"
+      },
+      "summ": {
+        "en": "50% subsidy, up to ₹3 lakh, to buy a vehicle for self-employment",
+        "kn": "ಸ್ವಯಂ ಉದ್ಯೋಗಕ್ಕಾಗಿ ವಾಹನ ಖರೀದಿಗೆ 50% ಸಬ್ಸಿಡಿ, ₹3 ಲಕ್ಷದವರೆಗೆ"
+      },
+      "department": {
+        "en": "Karnataka Minorities Development Corporation",
+        "kn": "ಕರ್ನಾಟಕ ಅಲ್ಪಸಂಖ್ಯಾತರ ಅಭಿವೃದ್ಧಿ ನಿಗಮ"
+      },
+      "benefit_type": "subsidy",
+      "jurisdiction": "karnataka",
+      "benefit": {
+        "en": "50% of the vehicle value or a maximum of ₹3 lakh towards a self-employment vehicle, with the balance as beneficiary contribution / bank loan under KMDC rules.",
+        "kn": "ಸ್ವಯಂ ಉದ್ಯೋಗ ವಾಹನಕ್ಕೆ ವಾಹನದ ಮೌಲ್ಯದ 50% ಅಥವಾ ಗರಿಷ್ಠ ₹3 ಲಕ್ಷ; ಉಳಿದ ಭಾಗ ಫಲಾನುಭವಿ ಕೊಡುಗೆ / ಬ್ಯಾಂಕ್ ಸಾಲವಾಗಿ ಕೆಎಂಡಿಸಿ ನಿಯಮಗಳ ಪ್ರಕಾರ."
+      },
+      "amount": {
+        "en": "50% up to ₹3,00,000",
+        "kn": "50% ದವರೆಗೆ ₹3,00,000"
+      },
+      "amount_inr": null,
+      "amount_period": "",
+      "deadline": {
+        "en": "Application window (check KMDC notifications)",
+        "kn": "ಅರ್ಜಿ ಅವಧಿ (ಕೆಎಂಡಿಸಿ ಅಧಿಸೂಚನೆಗಳನ್ನು ಪರಿಶೀಲಿಸಿ)"
+      },
+      "eligibility_criteria": [
+        {
+          "en": "Applicant belongs to a notified religious minority",
+          "kn": "ಅರ್ಜಿದಾರರು ಘೋಷಿತ ಧಾರ್ಮಿಕ ಅಲ್ಪಸಂಖ್ಯಾತ ವರ್ಗಕ್ಕೆ ಸೇರಿದ್ದಾರೆ"
+        },
+        {
+          "en": "Permanent Karnataka resident, age 18–55",
+          "kn": "ಶಾಶ್ವತ ಕರ್ನಾಟಕದ ನಿವಾಸಿ, ವಯಸ್ಸು 18–55"
+        },
+        {
+          "en": "Family income up to ₹6,00,000 a year",
+          "kn": "ವಾರ್ಷಿಕ ಕುಟುಂಬ ಆದಾಯ ₹6,00,000 ದವರೆಗೆ"
+        },
+        {
+          "en": "Valid driving licence; no disqualifying prior vehicle loan or benefit",
+          "kn": "ಮಾನ್ಯ ಚಾಲನಾ ಪರವಾನಗಿ; ಅನರ್ಹ ಹಿಂದಿನ ವಾಹನ ಸಾಲ ಅಥವಾ ಸವಲತ್ತು ಇಲ್ಲ"
+        }
+      ],
+      "application_steps": [
+        {
+          "en": "Apply through KMDC / Seva Sindhu when the application window is open.",
+          "kn": "ಅರ್ಜಿ ಅವಧಿ ತೆರೆದಿರುವಾಗ ಕೆಎಂಡಿಸಿ / ಸೇವಾ ಸಿಂಧು ಮೂಲಕ ಅರ್ಜಿ ಸಲ್ಲಿಸಿ."
+        },
+        {
+          "en": "Attach Aadhaar, minority certificate, income proof, driving licence and vehicle quotation.",
+          "kn": "ಆಧಾರ್, ಅಲ್ಪಸಂಖ್ಯಾತ ಪ್ರಮಾಣಪತ್ರ, ಆದಾಯ ಪ್ರಮಾಣ, ಚಾಲನಾ ಪರವಾನಗಿ ಮತ್ತು ವಾಹನದ ಉಲ್ಲೇಖ ದರವನ್ನು ಲಗತ್ತಿಸಿ."
+        },
+        {
+          "en": "Complete income, licence and vehicle verification; subsidy is released against the sanctioned loan.",
+          "kn": "ಆದಾಯ, ಪರವಾನಗಿ ಮತ್ತು ವಾಹನದ ಪರಿಶೀಲನೆ ಪೂರ್ಣಗೊಳಿಸಿ; ಅಂಗೀಕೃತ ಸಾಲದ ವಿರುದ್ಧ ಸಬ್ಸಿಡಿ ಬಿಡುಗಡೆಯಾಗುತ್ತದೆ."
+        }
+      ],
+      "channels": [
+        {
+          "type": "portal",
+          "label": {
+            "en": "KMDC",
+            "kn": "ಕೆಎಂಡಿಸಿ"
+          },
+          "url": "https://kmdc.karnataka.gov.in/23/subsidy-/en"
+        },
+        {
+          "type": "csc"
+        }
+      ],
+      "docs": [
+        {
+          "en": "Aadhaar card",
+          "kn": "ಆಧಾರ್ ಕಾರ್ಡ್"
+        },
+        {
+          "en": "Religious minority certificate",
+          "kn": "ಧಾರ್ಮಿಕ ಅಲ್ಪಸಂಖ್ಯಾತ ಪ್ರಮಾಣಪತ್ರ"
+        },
+        {
+          "en": "Income certificate",
+          "kn": "ಆದಾಯ ಪ್ರಮಾಣಪತ್ರ"
+        },
+        {
+          "en": "Valid driving licence",
+          "kn": "ಮಾನ್ಯ ಚಾಲನಾ ಪರವಾನಗಿ"
+        },
+        {
+          "en": "Bank passbook",
+          "kn": "ಬ್ಯಾಂಕ್ ಪಾಸ್‌ಬುಕ್"
+        },
+        {
+          "en": "Vehicle quotation",
+          "kn": "ವಾಹನದ ಉಲ್ಲೇಖ ದರ"
+        },
+        {
+          "en": "Self-declaration of no prior benefit",
+          "kn": "ನಕಲು-ಸವಕಳಿ ಇಲ್ಲದ ಸ್ವಯಂ-ಘೋಷಣೆ"
+        }
+      ],
+      "route": {
+        "group": "vehicle",
+        "value": "minority"
+      },
+      "criteria_note": null,
+      "rules": {
+        "eligibility": [
+          {
+            "id": "km-e1",
+            "check": {
+              "op": "in",
+              "field": "category",
+              "values": [
+                "minority"
+              ]
+            },
+            "on_fail": {
+              "status": "not_eligible",
+              "reason": {
+                "code": "reason.categoryNotCovered"
+              }
+            }
+          },
+          {
+            "id": "km-e2",
+            "check": {
+              "op": "num_gte",
+              "field": "age",
+              "value": 18
+            },
+            "on_fail": {
+              "status": "not_eligible",
+              "reason": {
+                "code": "reason.ageUnder",
+                "params": {
+                  "min": "18"
+                }
+              }
+            }
+          },
+          {
+            "id": "km-e3",
+            "check": {
+              "op": "num_lte",
+              "field": "age",
+              "value": 55
+            },
+            "on_fail": {
+              "status": "not_eligible",
+              "reason": {
+                "code": "reason.ageOver",
+                "params": {
+                  "max": "55"
+                }
+              }
+            }
+          },
+          {
+            "id": "km-e4",
+            "check": {
+              "op": "income_lte",
+              "value": 600000
+            },
+            "on_fail": {
+              "status": "not_eligible",
+              "reason": {
+                "code": "reason.incomeAbove",
+                "params": {
+                  "limit": "₹6,00,000"
+                }
+              }
+            }
+          },
+          {
+            "id": "km-e4b",
+            "check": {
+              "op": "equals",
+              "field": "drivinglicence",
+              "value": "no"
+            },
+            "on_fail": {
+              "status": "blocked",
+              "reason": {
+                "code": "reason.noLicence"
+              },
+              "fix_id": "driving-licence"
+            }
+          }
+        ],
+        "exclusions": [
+          {
+            "id": "km-x1",
+            "check": {
+              "op": "equals",
+              "field": "tax",
+              "value": "yes"
+            },
+            "reason": {
+              "code": "reason.incomeTaxPayer"
+            }
+          },
+          {
+            "id": "km-x2",
+            "check": {
+              "op": "equals",
+              "field": "otherpension",
+              "value": "yes"
+            },
+            "reason": {
+              "code": "reason.otherPension"
+            }
+          }
+        ],
+        "fixes": [
+          {
+            "id": "km-f1",
+            "check": {
+              "op": "equals",
+              "field": "aadhaar",
+              "value": "no"
+            },
+            "reason": {
+              "code": "reason.noAadhaar"
+            },
+            "fix_id": "get-aadhaar"
+          },
+          {
+            "id": "km-f2",
+            "check": {
+              "op": "equals",
+              "field": "bank",
+              "value": "no"
+            },
+            "reason": {
+              "code": "reason.noAadhaarLinkedBank"
+            },
+            "fix_id": "bank-aadhaar-link"
+          }
+        ],
+        "deep_check": [
+          {
+            "id": "km-dc1",
+            "check": {
+              "op": "equals",
+              "field": "dc_aadhaar_name_match",
+              "value": "no"
+            },
+            "reason": {
+              "code": "reason.dcAadhaarNameMismatch"
+            },
+            "fix_id": "aadhaar-name-bank-mismatch"
+          },
+          {
+            "id": "km-dc2",
+            "check": {
+              "op": "equals",
+              "field": "dc_aadhaar_bank_linked",
+              "value": "no"
+            },
+            "reason": {
+              "code": "reason.dcAadhaarNotLinkedBank"
+            },
+            "fix_id": "bank-aadhaar-link"
+          },
+          {
+            "id": "km-dc3",
+            "check": {
+              "op": "equals",
+              "field": "dc_bank_active",
+              "value": "no"
+            },
+            "reason": {
+              "code": "reason.dcBankInactive"
+            },
+            "fix_id": "bank-account-activate"
+          },
+          {
+            "id": "km-dc4",
+            "check": {
+              "op": "equals",
+              "field": "dc_docs_ready",
+              "value": "no"
+            },
+            "reason": {
+              "code": "reason.dcDocsNotReady"
+            },
+            "fix_id": "docs-ready"
+          }
+        ]
+      },
+      "confidence_note": "screening_only",
+      "last_verified": "2026-09-09",
+      "source_url": "https://kmdc.karnataka.gov.in/23/subsidy-/en",
+      "source_note": {
+        "en": "Screening proxy: the exclusion km-x2 treats an existing monthly pension as a stand-in for KMDC's 'no disqualifying prior vehicle loan or benefit' rule; KMDC's official exclusion list must be re-checked at application time. Rules derived from the official KMDC subsidy page and Seva Sindhu service.",
+        "kn": "ಪರಿಶೀಲನಾ ಪ್ರತಿನಿಧಿ: km-x2 ಹೊರಗಿಡುವಿನಲ್ಲಿ ಈಗಾಗಲೇ ಇರುವ ಮಾಸಿಕ ಪೆನ್ಷನ್ ಅನ್ನು ಕೆಎಂಡಿಸಿಯ 'ಅನರ್ಹ ಹಿಂದಿನ ವಾಹನ ಸಾಲ ಅಥವಾ ಸವಲತ್ತು ಇಲ್ಲ' ನಿಯಮಕ್ಕೆ ಬದಲಿ ಎಂದು ಪರಿಗಣಿಸಲಾಗಿದೆ; ಕೆಎಂಡಿಸಿಯ ಅಧಿಕೃತ ಹೊರಗಿಡುವಿನ ಪಟ್ಟಿಯನ್ನು ಅರ್ಜಿ ಸಮಯದಲ್ಲಿ ಮತ್ತೆ ಪರಿಶೀಲಿಸಬೇಕು. ಅಧಿಕೃತ ಕೆಎಂಡಿಸಿ ಸಬ್ಸಿಡಿ ಪುಟ ಮತ್ತು ಸೇವಾ ಸಿಂಧು ಸೇವೆ ಆಧಾರದ ಮೇಲೆ ನಿಯಮಗಳನ್ನು ಸಿದ್ಧಪಡಿಸಲಾಗಿದೆ."
+      }
+    },
+    {
+      "id": "anna-bhagya",
+      "code": "ABH",
+      "name": {
+        "en": "Anna Bhagya",
+        "kn": "ಅನ್ನಭಾಗ್ಯ"
+      },
+      "summ": {
+        "en": "10 kg rice a month for every eligible member on your ration card",
+        "kn": "ನಿಮ್ಮ ರೇಷನ್ ಕಾರ್ಡಿನ ಪ್ರತಿ ಅರ್ಹ ಸದಸ್ಯರಿಗೆ ಪ್ರತಿ ತಿಂಗಳು 10 ಕೆಜಿ ಅಕ್ಕಿ"
+      },
+      "department": {
+        "en": "Food, Civil Supplies & Consumer Affairs",
+        "kn": "ಆಹಾರ, ಸಿವಿಲ್ ಸಪ್ಲೈಸ್ ಮತ್ತು ಗ್ರಾಹಕರ ವ್ಯವಹಾರ ಇಲಾಖೆ"
+      },
+      "benefit_type": "in_kind",
+      "jurisdiction": "karnataka",
+      "benefit": {
+        "en": "10 kg of rice per eligible person per month through the fair-price shop under the Karnataka entitlement framework.",
+        "kn": "ಕರ್ನಾಟಕದ ಹಕ್ಕು ವ್ಯವಸ್ಥೆಯಡಿ ಮಾನ್ಯ ಅಂಗಡಿಯ ಮೂಲಕ ಪ್ರತಿ ಅರ್ಹ ವ್ಯಕ್ತಿಗೆ ಪ್ರತಿ ತಿಂಗಳು 10 ಕೆಜಿ ಅಕ್ಕಿ."
+      },
+      "amount": {
+        "en": "10 kg rice / person / month",
+        "kn": "ಪ್ರತಿ ವ್ಯಕ್ತಿಗೆ ಪ್ರತಿ ತಿಂಗಳು 10 ಕೆಜಿ ಅಕ್ಕಿ"
+      },
+      "amount_inr": null,
+      "amount_period": "",
+      "deadline": {
+        "en": "Ongoing",
+        "kn": "ನಿರಂತರ"
+      },
+      "eligibility_criteria": [
+        {
+          "en": "Karnataka AAY or BPL/priority (PHH) ration card family",
+          "kn": "ಕರ್ನಾಟಕದ ಎಎವೈ ಅಥವಾ ಬಿಪಿಎಲ್/ಆದ್ಯತೆ (PHH) ರೇಷನ್ ಕಾರ್ಡ್ ಕುಟುಂಬ"
+        },
+        {
+          "en": "Entitlement is driven by the PDS record, not a general BPL flag",
+          "kn": "ಅರ್ಹತೆ ಸಾಮಾನ್ಯ ಬಿಪಿಎಲ್ ಗುರುತಿನ ಮೇಲಲ್ಲ, ಪಿಡಿಎಸ್ ದಾಖಲೆಯ ಮೇಲೆ ಆಧಾರಿತವಾಗಿರುತ್ತದೆ"
+        }
+      ],
+      "application_steps": [
+        {
+          "en": "Obtain or correct the eligible ration card at a Grama One / CSC centre or on the Ahara portal.",
+          "kn": "ಗ್ರಾಮ ಒನ್ / ಸಿಎಸ್‌ಸಿ ಕೇಂದ್ರದಲ್ಲಿ ಅಥವಾ ಆಹಾರ ಪೋರ್ಟಲ್‌ನಲ್ಲಿ ಅರ್ಹ ರೇಷನ್ ಕಾರ್ಡ್ ಪಡೆಯಿರಿ ಅಥವಾ ಸರಿಪಡಿಸಿಕೊಳ್ಳಿ."
+        },
+        {
+          "en": "Entitlement is then delivered through your fair-price shop.",
+          "kn": "ನಂತರ ಅರ್ಹತೆ ನಿಮ್ಮ ಮಾನ್ಯ ಅಂಗಡಿಯ ಮೂಲಕ ನೀಡಲಾಗುತ್ತದೆ."
+        }
+      ],
+      "channels": [
+        {
+          "type": "portal",
+          "label": {
+            "en": "Ahara portal",
+            "kn": "ಆಹಾರ ಪೋರ್ಟಲ್"
+          },
+          "url": "https://ahara.kar.nic.in/"
+        },
+        {
+          "type": "csc"
+        }
+      ],
+      "docs": [
+        {
+          "en": "Ration card",
+          "kn": "ರೇಷನ್ ಕಾರ್ಡ್"
+        },
+        {
+          "en": "Aadhaar card",
+          "kn": "ಆಧಾರ್ ಕಾರ್ಡ್"
+        },
+        {
+          "en": "Household details",
+          "kn": "ಕುಟುಂಬದ ವಿವರಗಳು"
+        }
+      ],
+      "route": null,
+      "criteria_note": null,
+      "rules": {
+        "eligibility": [
+          {
+            "id": "ab-e1",
+            "check": {
+              "op": "in",
+              "field": "ration",
+              "values": [
+                "aay",
+                "bpl"
+              ]
+            },
+            "on_fail": {
+              "status": "not_eligible",
+              "reason": {
+                "code": "reason.rationCategoryNotCovered",
+                "params": {
+                  "needed": "AAY or BPL/priority"
+                }
+              }
+            }
+          }
+        ],
+        "exclusions": [
+          {
+            "id": "ab-x2",
+            "check": {
+              "op": "equals",
+              "field": "ration",
+              "value": "none"
+            },
+            "reason": {
+              "code": "reason.noRationCard"
+            }
+          }
+        ],
+        "fixes": [
+          {
+            "id": "ab-f1",
+            "check": {
+              "op": "equals",
+              "field": "aadhaar",
+              "value": "no"
+            },
+            "reason": {
+              "code": "reason.noAadhaar"
+            },
+            "fix_id": "get-aadhaar"
+          }
+        ],
+        "deep_check": [
+          {
+            "id": "ab-dc1",
+            "check": {
+              "op": "equals",
+              "field": "dc_aadhaar_name_match",
+              "value": "no"
+            },
+            "reason": {
+              "code": "reason.dcAadhaarNameMismatch"
+            },
+            "fix_id": "aadhaar-name-bank-mismatch"
+          },
+          {
+            "id": "ab-dc2",
+            "check": {
+              "op": "equals",
+              "field": "dc_aadhaar_bank_linked",
+              "value": "no"
+            },
+            "reason": {
+              "code": "reason.dcAadhaarNotLinkedBank"
+            },
+            "fix_id": "bank-aadhaar-link"
+          },
+          {
+            "id": "ab-dc3",
+            "check": {
+              "op": "equals",
+              "field": "dc_bank_active",
+              "value": "no"
+            },
+            "reason": {
+              "code": "reason.dcBankInactive"
+            },
+            "fix_id": "bank-account-activate"
+          },
+          {
+            "id": "ab-dc4",
+            "check": {
+              "op": "equals",
+              "field": "dc_docs_ready",
+              "value": "no"
+            },
+            "reason": {
+              "code": "reason.dcDocsNotReady"
+            },
+            "fix_id": "docs-ready"
+          }
+        ]
+      },
+      "confidence_note": "screening_only",
+      "last_verified": "2026-09-09",
+      "source_url": "https://bengaluruurban.nic.in/en/scheme/anna-bhagya/",
+      "source_note": {
+        "en": "Screening rules derived from Karnataka district-government Anna Bhagya guidance and the Karnataka Economic Survey 2025-26; the PDS record decides the actual entitlement — confirm your card's current status before applying.",
+        "kn": "ಕರ್ನಾಟಕ ಜಿಲ್ಲಾ ಸರ್ಕಾರದ ಅನ್ನಭಾಗ್ಯ ಮಾರ್ಗದರ್ಶನ ಮತ್ತು ಕರ್ನಾಟಕ ಆರ್ಥಿಕ ಸಮೀಕ್ಷೆ 2025-26 ಆಧಾರದ ಮೇಲೆ ಪರಿಶೀಲನಾ ನಿಯಮಗಳನ್ನು ಸಿದ್ಧಪಡಿಸಲಾಗಿದೆ; ವಾಸ್ತವ ಹಕ್ಕನ್ನು ಪಿಡಿಎಸ್ ದಾಖಲೆ ನಿರ್ಧರಿಸುತ್ತದೆ — ಅರ್ಜಿ ಸಲ್ಲಿಸುವ ಮೊದಲು ನಿಮ್ಮ ಕಾರ್ಡಿನ ಪ್ರಸ್ತುತ ಸ್ಥಿತಿಯನ್ನು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಿ."
+      }
+    },
+    {
+      "id": "gruha-jyothi",
+      "code": "GJT",
+      "name": {
+        "en": "Gruha Jyothi",
+        "kn": "ಗೃಹಜ್ಯೋತಿ"
+      },
+      "summ": {
+        "en": "Free electricity up to your household's entitlement",
+        "kn": "ನಿಮ್ಮ ಮನೆಯ ಅರ್ಹ ಪ್ರಮಾಣದವರೆಗೆ ಉಚಿತ ವಿದ್ಯುತ್"
+      },
+      "department": {
+        "en": "Energy",
+        "kn": "ಇಂಧನ ಇಲಾಖೆ"
+      },
+      "benefit_type": "subsidy",
+      "jurisdiction": "karnataka",
+      "benefit": {
+        "en": "Free electricity up to the applicable entitlement (200-unit ceiling with consumption-baseline formula) on eligible domestic connections registered for Gruha Jyothi.",
+        "kn": "ಗೃಹಜ್ಯೋತಿಗೆ ನೋಂದಾಯಿಸಿರುವ ಅರ್ಹ ಮನೆಯ ಸಂಪರ್ಕಗಳಿಗೆ ಅನ್ವಯ ಹಕ್ಕು ಪ್ರಮಾಣದವರೆಗೆ ಉಚಿತ ವಿದ್ಯುತ್ (200 ಘಟಕಗಳ ಮಿತಿ, ಬಳಕೆ ಮೂಲ ಸೂತ್ರದೊಂದಿಗೆ)."
+      },
+      "amount": {
+        "en": "Free electricity (up to entitlement)",
+        "kn": "ಉಚಿತ ವಿದ್ಯುತ್ (ಅರ್ಹ ಪ್ರಮಾಣದವರೆಗೆ)"
+      },
+      "amount_inr": null,
+      "amount_period": "",
+      "deadline": {
+        "en": "Ongoing",
+        "kn": "ನಿರಂತರ"
+      },
+      "eligibility_criteria": [
+        {
+          "en": "Karnataka domestic/residential connection registered for Gruha Jyothi",
+          "kn": "ಗೃಹಜ್ಯೋತಿಗೆ ನೋಂದಾಯಿಸಿರುವ ಕರ್ನಾಟಕದ ಮನೆಯ ಸಂಪರ್ಕ"
+        },
+        {
+          "en": "Eligibility calculated on the FY2022-23 average consumption plus permitted uplift",
+          "kn": "ಅರ್ಹತೆ 2022-23 ನೇ ಸಾಲಿನ ಸರಾಸರಿ ಬಳಕೆ ಮತ್ತು ಅನುಮತಿಸಿದ ಹೆಚ್ಚುವರಿ ಪ್ರಮಾಣದ ಆಧಾರದ ಮೇಲೆ ಲೆಕ್ಕವಾಗುತ್ತದೆ"
+        }
+      ],
+      "application_steps": [
+        {
+          "en": "Register through Seva Sindhu or an assisted centre with your RR/account number and Aadhaar.",
+          "kn": "ಆರ್ಆರ್/ಖಾತೆ ಸಂಖ್ಯೆ ಮತ್ತು ಆಧಾರ್ ವಿವರಗಳೊಂದಿಗೆ ಸೇವಾ ಸಿಂಧು ಅಥವಾ ಸಹಾಯ ಕೇಂದ್ರದ ಮೂಲಕ ನೋಂದಾಯಿಸಿ."
+        },
+        {
+          "en": "Confirm registration; check the entitlement on your monthly bill.",
+          "kn": "ನೋಂದಣಿಯನ್ನು ದೃಢೀಕರಿಸಿ; ನಿಮ್ಮ ಮಾಸಿಕ ಬಿಲ್‌ನಲ್ಲಿ ಅರ್ಹ ಪ್ರಮಾಣವನ್ನು ಪರಿಶೀಲಿಸಿ."
+        }
+      ],
+      "channels": [
+        {
+          "type": "portal",
+          "label": {
+            "en": "Seva Sindhu",
+            "kn": "ಸೇವಾ ಸಿಂಧು"
+          },
+          "url": "https://sevasindhu.karnataka.gov.in/"
+        },
+        {
+          "type": "csc"
+        }
+      ],
+      "docs": [
+        {
+          "en": "Electricity RR/account number",
+          "kn": "ವಿದ್ಯುತ್ ಆರ್ಆರ್/ಖಾತೆ ಸಂಖ್ಯೆ"
+        },
+        {
+          "en": "Aadhaar card",
+          "kn": "ಆಧಾರ್ ಕಾರ್ಡ್"
+        },
+        {
+          "en": "Address proof",
+          "kn": "ವಿಳಾಸದ ಪ್ರಮಾಣ"
+        }
+      ],
+      "route": null,
+      "criteria_note": {
+        "en": "The free-unit entitlement depends on your FY2022-23 consumption baseline and current ESCOM rules — verify on your bill.",
+        "kn": "ಉಚಿತ ಘಟಕಗಳ ಹಕ್ಕು 2022-23 ನೇ ಸಾಲಿನ ಬಳಕೆ ಮೂಲ ಮತ್ತು ಪ್ರಸ್ತುತ ಇಸ್ಕಾಮ್ ನಿಯಮಗಳ ಮೇಲೆ ಅವಲಂಬಿತವಾಗಿದೆ — ನಿಮ್ಮ ಬಿಲ್‌ನಲ್ಲಿ ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಿ."
+      },
+      "rules": {
+        "eligibility": [
+          {
+            "id": "gj-e1",
+            "check": {
+              "op": "in",
+              "field": "electricity",
+              "values": [
+                "yes-own-name",
+                "yes-other-name"
+              ]
+            },
+            "on_fail": {
+              "status": "not_eligible",
+              "reason": {
+                "code": "reason.noElectricityConnection"
+              }
+            }
+          },
+          {
+            "id": "gj-e2",
+            "check": {
+              "op": "equals",
+              "field": "electricity",
+              "value": "yes-other-name"
+            },
+            "on_fail": {
+              "status": "blocked",
+              "reason": {
+                "code": "reason.notInYourName"
+              },
+              "fix_id": "electricity-name-transfer"
+            }
+          }
+        ],
+        "exclusions": [],
+        "fixes": [
+          {
+            "id": "gj-f1",
+            "check": {
+              "op": "equals",
+              "field": "aadhaar",
+              "value": "no"
+            },
+            "reason": {
+              "code": "reason.noAadhaar"
+            },
+            "fix_id": "get-aadhaar"
+          }
+        ],
+        "deep_check": [
+          {
+            "id": "gj-dc1",
+            "check": {
+              "op": "equals",
+              "field": "dc_aadhaar_name_match",
+              "value": "no"
+            },
+            "reason": {
+              "code": "reason.dcAadhaarNameMismatch"
+            },
+            "fix_id": "aadhaar-name-bank-mismatch"
+          },
+          {
+            "id": "gj-dc2",
+            "check": {
+              "op": "equals",
+              "field": "dc_aadhaar_bank_linked",
+              "value": "no"
+            },
+            "reason": {
+              "code": "reason.dcAadhaarNotLinkedBank"
+            },
+            "fix_id": "bank-aadhaar-link"
+          },
+          {
+            "id": "gj-dc3",
+            "check": {
+              "op": "equals",
+              "field": "dc_bank_active",
+              "value": "no"
+            },
+            "reason": {
+              "code": "reason.dcBankInactive"
+            },
+            "fix_id": "bank-account-activate"
+          },
+          {
+            "id": "gj-dc4",
+            "check": {
+              "op": "equals",
+              "field": "dc_docs_ready",
+              "value": "no"
+            },
+            "reason": {
+              "code": "reason.dcDocsNotReady"
+            },
+            "fix_id": "docs-ready"
+          }
+        ]
+      },
+      "confidence_note": "screening_only",
+      "last_verified": "2026-09-09",
+      "source_url": "https://sevasindhu.karnataka.gov.in/sevasindhu/english",
+      "source_note": {
+        "en": "Screening rules derived from Seva Sindhu and Karnataka ESCOM programme guidance; the free-unit entitlement depends on your consumption baseline — verify the entitlement on your monthly bill.",
+        "kn": "ಸೇವಾ ಸಿಂಧು ಮತ್ತು ಕರ್ನಾಟಕದ ಇಸ್ಕಾಮ್ ಕಾರ್ಯಸೂಚಿ ಮಾರ್ಗದರ್ಶನ ಆಧಾರದ ಮೇಲೆ ಪರಿಶೀಲನಾ ನಿಯಮಗಳನ್ನು ಸಿದ್ಧಪಡಿಸಲಾಗಿದೆ; ಉಚಿತ ಘಟಕಗಳ ಹಕ್ಕು ನಿಮ್ಮ ಬಳಕೆ ಮೂಲದ ಮೇಲೆ ಅವಲಂಬಿತವಾಗಿದೆ — ನಿಮ್ಮ ಮಾಸಿಕ ಬಿಲ್‌ನಲ್ಲಿ ಹಕ್ಕನ್ನು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಿ."
+      }
+    },
+    {
+      "id": "shakti",
+      "code": "SHK",
+      "name": {
+        "en": "Shakti",
+        "kn": "ಶಕ್ತಿ"
+      },
+      "summ": {
+        "en": "Free bus travel for women and transgender persons",
+        "kn": "ಮಹಿಳೆಯರು ಮತ್ತು ಟ್ರಾನ್ಸ್‌ಜೆಂಡರ್ ವ್ಯಕ್ತಿಗಳಿಗೆ ಉಚಿತ ಬಸ್ ಪ್ರಯಾಣ"
+      },
+      "department": {
+        "en": "Transport / KSRTC",
+        "kn": "ಸಾರಿಗೆ ಇಲಾಖೆ / ಕೆಎಸ್‌ಆರ್‌ಟಿಸಿ"
+      },
+      "benefit_type": "service",
+      "jurisdiction": "karnataka",
+      "benefit": {
+        "en": "Fare-free travel on covered ordinary/express services of Karnataka's state transport corporations; premium/luxury/AC services and inter-state routes are excluded.",
+        "kn": "ಕರ್ನಾಟಕದ ರಾಜ್ಯ ಸಾರಿಗೆ ಸಂಸ್ಥೆಗಳ ಅನ್ವಯ ಸಾಮಾನ್ಯ/ಎಕ್ಸ್‌ಪ್ರೆಸ್ ಸೇವೆಗಳಲ್ಲಿ ಉಚಿತ ಪ್ರಯಾಣ; ಪ್ರೀಮಿಯಂ/ಐಷಾರಾಮಿ/ಎಸಿ ಸೇವೆಗಳು ಮತ್ತು ಅಂತರ-ರಾಜ್ಯ ಮಾರ್ಗಗಳು ಈ ಯೋಜನೆಗೆ ಸೇರುವುದಿಲ್ಲ."
+      },
+      "amount": {
+        "en": "Free travel (covered services)",
+        "kn": "ಉಚಿತ ಪ್ರಯಾಣ (ಅನ್ವಯ ಸೇವೆಗಳು)"
+      },
+      "amount_inr": null,
+      "amount_period": "",
+      "deadline": {
+        "en": "Ongoing",
+        "kn": "ನಿರಂತರ"
+      },
+      "eligibility_criteria": [
+        {
+          "en": "Karnataka-domiciled women/girls and transgender persons",
+          "kn": "ಕರ್ನಾಟಕದ ಮಹಿಳೆಯರು/ಹುಡುಗಿಯರು ಮತ್ತು ಟ್ರಾನ್ಸ್‌ಜೆಂಡರ್ ವ್ಯಕ್ತಿಗಳು"
+        },
+        {
+          "en": "Travel on a covered service with accepted government photo ID",
+          "kn": "ಮಾನ್ಯ ಸರ್ಕಾರಿ ಫೋಟೊ ಗುರುತಿನ ಚೀಟಿಯೊಂದಿಗೆ ಅನ್ವಯ ಸೇವೆಯಲ್ಲಿ ಪ್ರಯಾಣ"
+        }
+      ],
+      "application_steps": [
+        {
+          "en": "No application is needed — carry an accepted government photo ID (Aadhaar or Shakti Smart Card where issued).",
+          "kn": "ಅರ್ಜಿಯ ಅಗತ್ಯವಿಲ್ಲ — ಮಾನ್ಯ ಸರ್ಕಾರಿ ಫೋಟೊ ಗುರುತಿನ ಚೀಟಿಯನ್ನು ಒಯ್ಯಿರಿ (ಆಧಾರ್ ಅಥವಾ ನೀಡಿದ್ದಲ್ಲಿ ಶಕ್ತಿ ಸ್ಮಾರ್ಟ್ ಕಾರ್ಡ್)."
+        },
+        {
+          "en": "Board an eligible ordinary/express service and collect the zero-value ticket.",
+          "kn": "ಅರ್ಹ ಸಾಮಾನ್ಯ/ಎಕ್ಸ್‌ಪ್ರೆಸ್ ಸೇವೆಯನ್ನು ಹತ್ತಿ ಶೂನ್ಯ-ಮೌಲ್ಯದ ಟಿಕೆಟ್ ಪಡೆದುಕೊಳ್ಳಿ."
+        }
+      ],
+      "channels": [
+        {
+          "type": "portal",
+          "label": {
+            "en": "Shakti scheme page",
+            "kn": "ಶಕ್ತಿ ಯೋಜನೆ ಪುಟ"
+          },
+          "url": "https://bengaluruurban.nic.in/en/scheme/shakti-scheme/"
+        }
+      ],
+      "docs": [
+        {
+          "en": "Aadhaar or accepted government photo ID",
+          "kn": "ಆಧಾರ್ ಅಥವಾ ಮಾನ್ಯ ಸರ್ಕಾರಿ ಫೋಟೊ ಗುರುತಿನ ಚೀಟಿ"
+        }
+      ],
+      "route": null,
+      "criteria_note": null,
+      "rules": {
+        "eligibility": [
+          {
+            "id": "sh-e1",
+            "check": {
+              "op": "in",
+              "field": "gender",
+              "values": [
+                "woman",
+                "transgender"
+              ]
+            },
+            "on_fail": {
+              "status": "not_eligible",
+              "reason": {
+                "code": "reason.womenOnly"
+              }
+            }
+          }
+        ],
+        "exclusions": [],
+        "fixes": [],
+        "deep_check": [
+          {
+            "id": "sh-dc1",
+            "check": {
+              "op": "equals",
+              "field": "dc_aadhaar_name_match",
+              "value": "no"
+            },
+            "reason": {
+              "code": "reason.dcAadhaarNameMismatch"
+            },
+            "fix_id": "aadhaar-name-bank-mismatch"
+          },
+          {
+            "id": "sh-dc2",
+            "check": {
+              "op": "equals",
+              "field": "dc_aadhaar_bank_linked",
+              "value": "no"
+            },
+            "reason": {
+              "code": "reason.dcAadhaarNotLinkedBank"
+            },
+            "fix_id": "bank-aadhaar-link"
+          },
+          {
+            "id": "sh-dc3",
+            "check": {
+              "op": "equals",
+              "field": "dc_bank_active",
+              "value": "no"
+            },
+            "reason": {
+              "code": "reason.dcBankInactive"
+            },
+            "fix_id": "bank-account-activate"
+          },
+          {
+            "id": "sh-dc4",
+            "check": {
+              "op": "equals",
+              "field": "dc_docs_ready",
+              "value": "no"
+            },
+            "reason": {
+              "code": "reason.dcDocsNotReady"
+            },
+            "fix_id": "docs-ready"
+          }
+        ]
+      },
+      "confidence_note": "screening_only",
+      "last_verified": "2026-09-09",
+      "source_url": "https://bengaluruurban.nic.in/en/scheme/shakti-scheme/",
+      "source_note": {
+        "en": "Screening rules derived from Karnataka government Shakti guidance; premium/luxury/AC services and inter-state routes are excluded under the current programme design.",
+        "kn": "ಕರ್ನಾಟಕ ಸರ್ಕಾರದ ಶಕ್ತಿ ಯೋಜನೆ ಮಾರ್ಗದರ್ಶನ ಆಧಾರದ ಮೇಲೆ ಪರಿಶೀಲನಾ ನಿಯಮಗಳನ್ನು ಸಿದ್ಧಪಡಿಸಲಾಗಿದೆ; ಪ್ರಸ್ತುತ ಕಾರ್ಯಸೂಚಿಯಡಿ ಪ್ರೀಮಿಯಂ/ಐಷಾರಾಮಿ/ಎಸಿ ಸೇವೆಗಳು ಮತ್ತು ಅಂತರ-ರಾಜ್ಯ ಮಾರ್ಗಗಳು ಹೊರಗಿವೆ."
+      }
+    },
+    {
+      "id": "yuva-nidhi",
+      "code": "YVN",
+      "name": {
+        "en": "Yuva Nidhi",
+        "kn": "ಯುವ ನಿಧಿ"
+      },
+      "summ": {
+        "en": "₹3,000 a month for unemployed graduates, ₹1,500 for diploma holders",
+        "kn": "ನಿರುದ್ಯೋಗಿ ಪದವೀಧರರಿಗೆ ಪ್ರತಿ ತಿಂಗಳು ₹3,000, ಡಿಪ್ಲೊಮಾದವರಿಗೆ ₹1,500"
+      },
+      "department": {
+        "en": "Skill Development / Seva Sindhu",
+        "kn": "ಕೌಶಲ ಅಭಿವೃದ್ಧಿ / ಸೇವಾ ಸಿಂಧು"
+      },
+      "benefit_type": "cash_transfer",
+      "jurisdiction": "karnataka",
+      "benefit": {
+        "en": "Monthly unemployment assistance of ₹3,000 (degree) or ₹1,500 (diploma) for eligible Karnataka youth, paid by DBT.",
+        "kn": "ಅರ್ಹ ಕರ್ನಾಟಕದ ಯುವಕರಿಗೆ ಮಾಸಿಕ ನಿರುದ್ಯೋಗ ಸಹಾಯಧನ ₹3,000 (ಪದವಿ) ಅಥವಾ ₹1,500 (ಡಿಪ್ಲೊಮಾ), ಡಿಬಿಟಿ ಮೂಲಕ ಪಾವತಿ."
+      },
+      "amount": {
+        "en": "₹3,000 / month (graduates); ₹1,500 / month (diploma)",
+        "kn": "₹3,000 / ತಿಂಗಳು (ಪದವೀಧರರು); ₹1,500 / ತಿಂಗಳು (ಡಿಪ್ಲೊಮಾ)"
+      },
+      "amount_inr": null,
+      "amount_period": "",
+      "deadline": {
+        "en": "Ongoing",
+        "kn": "ನಿರಂತರ"
+      },
+      "eligibility_criteria": [
+        {
+          "en": "Karnataka resident with a qualifying degree/diploma from the cohort in the current notification",
+          "kn": "ಪ್ರಸ್ತುತ ಅಧಿಸೂಚನೆಯ ಸಮೂಹಕ್ಕೆ ಸೇರಿದ ಅರ್ಹ ಪದವಿ/ಡಿಪ್ಲೊಮಾ ಹೊಂದಿರುವ ಕರ್ನಾಟಕದ ನಿವಾಸಿ"
+        },
+        {
+          "en": "Unemployed and not drawing a salary or disqualifying income",
+          "kn": "ನಿರುದ್ಯೋಗಿಯಾಗಿದ್ದು, ವೇತನ ಅಥವಾ ಅನರ್ಹ ಆದಾಯ ಪಡೆಯುತ್ತಿರಬಾರದು"
+        },
+        {
+          "en": "Aadhaar-linked bank account",
+          "kn": "ಆಧಾರ್‌ಗೆ ಸಂಪರ್ಕಿಸಿದ ಬ್ಯಾಂಕ್ ಖಾತೆ"
+        }
+      ],
+      "application_steps": [
+        {
+          "en": "Apply via the current Yuva Nidhi service on Seva Sindhu or an authorised centre.",
+          "kn": "ಸೇವಾ ಸಿಂಧು ಅಥವಾ ಅಧಿಕೃತ ಕೇಂದ್ರದ ಮೂಲಕ ಪ್ರಸ್ತುತ ಯುವ ನಿಧಿ ಸೇವೆಗೆ ಅರ್ಜಿ ಸಲ್ಲಿಸಿ."
+        },
+        {
+          "en": "Complete education/identity verification and unemployment declarations.",
+          "kn": "ಶಿಕ್ಷಣ/ಗುರುತಿನ ಪರಿಶೀಲನೆ ಮತ್ತು ನಿರುದ್ಯೋಗ ಘೋಷಣೆಗಳನ್ನು ಪೂರ್ಣಗೊಳಿಸಿ."
+        },
+        {
+          "en": "Benefit begins after the verification period defined by the notification.",
+          "kn": "ಅಧಿಸೂಚನೆಯಲ್ಲಿ ನಿಗದಿಪಡಿಸಿದ ಪರಿಶೀಲನಾ ಅವಧಿಯ ನಂತರ ಸಹಾಯಧನ ಆರಂಭವಾಗುತ್ತದೆ."
+        }
+      ],
+      "channels": [
+        {
+          "type": "portal",
+          "label": {
+            "en": "Seva Sindhu",
+            "kn": "ಸೇವಾ ಸಿಂಧು"
+          },
+          "url": "https://sevasindhu.karnataka.gov.in/"
+        },
+        {
+          "type": "csc"
+        }
+      ],
+      "docs": [
+        {
+          "en": "Aadhaar card",
+          "kn": "ಆಧಾರ್ ಕಾರ್ಡ್"
+        },
+        {
+          "en": "Degree or diploma certificate",
+          "kn": "ಪದವಿ ಅಥವಾ ಡಿಪ್ಲೊಮಾ ಪ್ರಮಾಣಪತ್ರ"
+        },
+        {
+          "en": "USN or Diploma Register Number",
+          "kn": "ಯುಎಸ್‌ಎನ್ ಅಥವಾ ಡಿಪ್ಲೊಮಾ ರಿಜಿಸ್ಟರ್ ಸಂಖ್ಯೆ"
+        },
+        {
+          "en": "Bank passbook",
+          "kn": "ಬ್ಯಾಂಕ್ ಪಾಸ್‌ಬುಕ್"
+        },
+        {
+          "en": "Mobile number",
+          "kn": "ಮೊಬೈಲ್ ಸಂಖ್ಯೆ"
+        }
+      ],
+      "route": null,
+      "criteria_note": {
+        "en": "Cohort (which passing years qualify), amounts and waiting period are set by the latest notification — verify on Seva Sindhu before applying.",
+        "kn": "ಸಮೂಹ (ಯಾವ ಪಾಸ್ ವರ್ಷಗಳು ಅರ್ಹ), ಮೊತ್ತಗಳು ಮತ್ತು ನಿರೀಕ್ಷಾ ಅವಧಿಯನ್ನು ಇತ್ತೀಚಿನ ಅಧಿಸೂಚನೆ ನಿಗದಿಪಡಿಸುತ್ತದೆ — ಅರ್ಜಿ ಸಲ್ಲಿಸುವ ಮೊದಲು ಸೇವಾ ಸಿಂಧುವಿನಲ್ಲಿ ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಿ."
+      },
+      "rules": {
+        "eligibility": [
+          {
+            "id": "yn-e1",
+            "check": {
+              "op": "in",
+              "field": "education",
+              "values": [
+                "diploma",
+                "graduate",
+                "postgraduate"
+              ]
+            },
+            "on_fail": {
+              "status": "not_eligible",
+              "reason": {
+                "code": "reason.notDiplomaOrGraduate"
+              }
+            }
+          },
+          {
+            "id": "yn-e2",
+            "check": {
+              "op": "equals",
+              "field": "unemployed",
+              "value": "yes"
+            },
+            "on_fail": {
+              "status": "not_eligible",
+              "reason": {
+                "code": "reason.employed"
+              }
+            }
+          },
+          {
+            "id": "yn-e-emp",
+            "check": {
+              "op": "equals",
+              "field": "employment",
+              "value": "unemployed"
+            },
+            "on_fail": {
+              "status": "not_eligible",
+              "reason": {
+                "code": "reason.unemployedOnly"
+              }
+            }
+          }
+        ],
+        "exclusions": [
+          {
+            "id": "yn-x1",
+            "check": {
+              "op": "equals",
+              "field": "otherpension",
+              "value": "yes"
+            },
+            "reason": {
+              "code": "reason.otherPension"
+            }
+          }
+        ],
+        "fixes": [
+          {
+            "id": "yn-f1",
+            "check": {
+              "op": "equals",
+              "field": "bank",
+              "value": "no"
+            },
+            "reason": {
+              "code": "reason.noAadhaarLinkedBank"
+            },
+            "fix_id": "bank-aadhaar-link"
+          },
+          {
+            "id": "yn-f2",
+            "check": {
+              "op": "equals",
+              "field": "aadhaar",
+              "value": "no"
+            },
+            "reason": {
+              "code": "reason.noAadhaar"
+            },
+            "fix_id": "get-aadhaar"
+          }
+        ],
+        "deep_check": [
+          {
+            "id": "yn-dc1",
+            "check": {
+              "op": "equals",
+              "field": "dc_aadhaar_name_match",
+              "value": "no"
+            },
+            "reason": {
+              "code": "reason.dcAadhaarNameMismatch"
+            },
+            "fix_id": "aadhaar-name-bank-mismatch"
+          },
+          {
+            "id": "yn-dc2",
+            "check": {
+              "op": "equals",
+              "field": "dc_aadhaar_bank_linked",
+              "value": "no"
+            },
+            "reason": {
+              "code": "reason.dcAadhaarNotLinkedBank"
+            },
+            "fix_id": "bank-aadhaar-link"
+          },
+          {
+            "id": "yn-dc3",
+            "check": {
+              "op": "equals",
+              "field": "dc_bank_active",
+              "value": "no"
+            },
+            "reason": {
+              "code": "reason.dcBankInactive"
+            },
+            "fix_id": "bank-account-activate"
+          },
+          {
+            "id": "yn-dc4",
+            "check": {
+              "op": "equals",
+              "field": "dc_docs_ready",
+              "value": "no"
+            },
+            "reason": {
+              "code": "reason.dcDocsNotReady"
+            },
+            "fix_id": "docs-ready"
+          },
+          {
+            "id": "yn-dc5",
+            "check": {
+              "op": "equals",
+              "field": "dc_aadhaar_mobile_linked",
+              "value": "no"
+            },
+            "reason": {
+              "code": "reason.dcAadhaarMobileNotLinked"
+            },
+            "fix_id": "aadhaar-mobile-link"
+          },
+          {
+            "id": "yn-dc6",
+            "check": {
+              "op": "equals",
+              "field": "dc_education_cert",
+              "value": "no"
+            },
+            "reason": {
+              "code": "reason.dcEducationCertMissing"
+            },
+            "fix_id": "education-cert"
+          }
+        ]
+      },
+      "confidence_note": "screening_only",
+      "last_verified": "2026-09-09",
+      "source_url": "https://sevasindhu.karnataka.gov.in/",
+      "source_note": {
+        "en": "Screening rules derived from current Karnataka Skill Development guidance and Seva Sindhu; the qualifying cohort and waiting period must be read from the latest notification.",
+        "kn": "ಪ್ರಸ್ತುತ ಕರ್ನಾಟಕ ಕೌಶಲ ಅಭಿವೃದ್ಧಿ ಮಾರ್ಗದರ್ಶನ ಮತ್ತು ಸೇವಾ ಸಿಂಧು ಆಧಾರದ ಮೇಲೆ ಪರಿಶೀಲನಾ ನಿಯಮಗಳನ್ನು ಸಿದ್ಧಪಡಿಸಲಾಗಿದೆ; ಅರ್ಹ ಸಮೂಹ ಮತ್ತು ನಿರೀಕ್ಷಾ ಅವಧಿಯನ್ನು ಇತ್ತೀಚಿನ ಅಧಿಸೂಚನೆಯಿಂದ ಪರಿಶೀಲಿಸಬೇಕು."
+      }
+    },
+    {
+      "id": "pm-kisan",
+      "code": "PMK",
+      "name": {
+        "en": "PM-KISAN Samman Nidhi",
+        "kn": "ಪಿಎಂ-ಕಿಸಾನ್ ಸಮ್ಮಾನ್ ನಿಧಿ"
+      },
+      "summ": {
+        "en": "₹6,000 a year for landholding farmer families",
+        "kn": "ಭೂಮಿ ಹೊಂದಿರುವ ರೈತ ಕುಟುಂಬಗಳಿಗೆ ವಾರ್ಷಿಕ ₹6,000"
+      },
+      "department": {
+        "en": "Agriculture (Central)",
+        "kn": "ಕೃಷಿ ಇಲಾಖೆ (ಕೇಂದ್ರ)"
+      },
+      "benefit_type": "cash_transfer",
+      "jurisdiction": "karnataka_central",
+      "benefit": {
+        "en": "₹6,000 per year in three equal instalments by DBT to eligible landholding farmer families (husband, wife, minor children).",
+        "kn": "ಅರ್ಹ, ಭೂಮಿ ಹೊಂದಿರುವ ರೈತ ಕುಟುಂಬಗಳಿಗೆ (ಗಂಡ, ಹೆಂಡತಿ ಮತ್ತು ಅಪ್ರಾಪ್ತ ಮಕ್ಕಳು) ಮೂರು ಸಮ ಕಂತುಗಳಲ್ಲಿ ವಾರ್ಷಿಕ ₹6,000, ಡಿಬಿಟಿ ಮೂಲಕ."
+      },
+      "amount": {
+        "en": "₹6,000 / year (3 instalments)",
+        "kn": "ವಾರ್ಷಿಕ ₹6,000 (3 ಕಂತುಗಳು)"
+      },
+      "amount_inr": 6000,
+      "amount_period": "year",
+      "deadline": {
+        "en": "Ongoing",
+        "kn": "ನಿರಂತರ"
+      },
+      "eligibility_criteria": [
+        {
+          "en": "Landholding farmer family (husband, wife and minor children count as one family)",
+          "kn": "ಭೂಮಿ ಹೊಂದಿರುವ ರೈತ ಕುಟುಂಬ (ಗಂಡ, ಹೆಂಡತಿ ಮತ್ತು ಅಪ್ರಾಪ್ತ ಮಕ್ಕಳು ಒಂದೇ ಕುಟುಂಬವಾಗಿ ಎಣಿಕೆ)"
+        },
+        {
+          "en": "Land and farmer details verified by the state; mandatory e-KYC",
+          "kn": "ಭೂಮಿ ಮತ್ತು ರೈತ ವಿವರಗಳ ರಾಜ್ಯ ಪರಿಶೀಲನೆ; ಕಡ್ಡಾಯ ಇ-ಕೆವೈಸಿ"
+        },
+        {
+          "en": "DBT-capable bank account",
+          "kn": "ಡಿಬಿಟಿಗೆ ಸಾಧ್ಯವಾಗುವ ಬ್ಯಾಂಕ್ ಖಾತೆ"
+        }
+      ],
+      "application_steps": [
+        {
+          "en": "Use PM-KISAN New Farmer Registration on pmkisan.gov.in.",
+          "kn": "pmkisan.gov.in ನಲ್ಲಿ ಪಿಎಂ-ಕಿಸಾನ್ ಹೊಸ ರೈತ ನೋಂದಣಿ ಬಳಸಿ."
+        },
+        {
+          "en": "Complete Aadhaar authentication and submit land/farmer details.",
+          "kn": "ಆಧಾರ್ ದೃಢೀಕರಣ ಪೂರ್ಣಗೊಳಿಸಿ, ಭೂಮಿ/ರೈತ ವಿವರಗಳನ್ನು ಸಲ್ಲಿಸಿ."
+        },
+        {
+          "en": "Track state verification and e-KYC; instalments arrive by DBT.",
+          "kn": "ರಾಜ್ಯ ಪರಿಶೀಲನೆ ಮತ್ತು ಇ-ಕೆವೈಸಿ ಸ್ಥಿತಿಯನ್ನು ಪರಿಶೀಲಿಸಿ; ಕಂತುಗಳು ಡಿಬಿಟಿ ಮೂಲಕ ಬರುತ್ತವೆ."
+        }
+      ],
+      "channels": [
+        {
+          "type": "portal",
+          "label": {
+            "en": "PM-KISAN portal",
+            "kn": "ಪಿಎಂ-ಕಿಸಾನ್ ಪೋರ್ಟಲ್"
+          },
+          "url": "https://pmkisan.gov.in/"
+        },
+        {
+          "type": "csc"
+        }
+      ],
+      "docs": [
+        {
+          "en": "Aadhaar card",
+          "kn": "ಆಧಾರ್ ಕಾರ್ಡ್"
+        },
+        {
+          "en": "Land ownership records",
+          "kn": "ಭೂಮಿಯ ಮಾಲೀಕತ್ವದ ದಾಖಲೆಗಳು"
+        },
+        {
+          "en": "Bank passbook",
+          "kn": "ಬ್ಯಾಂಕ್ ಪಾಸ್‌ಬುಕ್"
+        },
+        {
+          "en": "Mobile number",
+          "kn": "ಮೊಬೈಲ್ ಸಂಖ್ಯೆ"
+        }
+      ],
+      "route": null,
+      "criteria_note": null,
+      "rules": {
+        "eligibility": [
+          {
+            "id": "pk-e1",
+            "check": {
+              "op": "in",
+              "field": "land",
+              "values": [
+                "lt1acre",
+                "1to5",
+                "gt5"
+              ]
+            },
+            "on_fail": {
+              "status": "not_eligible",
+              "reason": {
+                "code": "reason.noLand"
+              }
+            }
+          },
+          {
+            "id": "pk-e2",
+            "check": {
+              "op": "equals",
+              "field": "farmer",
+              "value": "yes"
+            },
+            "on_fail": {
+              "status": "not_eligible",
+              "reason": {
+                "code": "reason.notFarmer"
+              }
+            }
+          }
+        ],
+        "exclusions": [
+          {
+            "id": "pk-x1",
+            "check": {
+              "op": "equals",
+              "field": "tax",
+              "value": "yes"
+            },
+            "reason": {
+              "code": "reason.incomeTaxPayer"
+            }
+          }
+        ],
+        "fixes": [
+          {
+            "id": "pk-f1",
+            "check": {
+              "op": "equals",
+              "field": "bank",
+              "value": "no"
+            },
+            "reason": {
+              "code": "reason.noAadhaarLinkedBank"
+            },
+            "fix_id": "bank-aadhaar-link"
+          },
+          {
+            "id": "pk-f2",
+            "check": {
+              "op": "equals",
+              "field": "aadhaar",
+              "value": "no"
+            },
+            "reason": {
+              "code": "reason.noAadhaar"
+            },
+            "fix_id": "get-aadhaar"
+          }
+        ],
+        "deep_check": [
+          {
+            "id": "pk-dc1",
+            "check": {
+              "op": "equals",
+              "field": "dc_aadhaar_name_match",
+              "value": "no"
+            },
+            "reason": {
+              "code": "reason.dcAadhaarNameMismatch"
+            },
+            "fix_id": "aadhaar-name-bank-mismatch"
+          },
+          {
+            "id": "pk-dc2",
+            "check": {
+              "op": "equals",
+              "field": "dc_aadhaar_bank_linked",
+              "value": "no"
+            },
+            "reason": {
+              "code": "reason.dcAadhaarNotLinkedBank"
+            },
+            "fix_id": "bank-aadhaar-link"
+          },
+          {
+            "id": "pk-dc3",
+            "check": {
+              "op": "equals",
+              "field": "dc_bank_active",
+              "value": "no"
+            },
+            "reason": {
+              "code": "reason.dcBankInactive"
+            },
+            "fix_id": "bank-account-activate"
+          },
+          {
+            "id": "pk-dc4",
+            "check": {
+              "op": "equals",
+              "field": "dc_docs_ready",
+              "value": "no"
+            },
+            "reason": {
+              "code": "reason.dcDocsNotReady"
+            },
+            "fix_id": "docs-ready"
+          },
+          {
+            "id": "pk-dc5",
+            "check": {
+              "op": "equals",
+              "field": "dc_aadhaar_mobile_linked",
+              "value": "no"
+            },
+            "reason": {
+              "code": "reason.dcAadhaarMobileNotLinked"
+            },
+            "fix_id": "aadhaar-mobile-link"
+          },
+          {
+            "id": "pk-dc6",
+            "check": {
+              "op": "equals",
+              "field": "dc_land_own_name",
+              "value": "no"
+            },
+            "reason": {
+              "code": "reason.dcLandNotOwnName"
+            },
+            "fix_id": "land-record"
+          }
+        ]
+      },
+      "confidence_note": "screening_only",
+      "last_verified": "2026-09-09",
+      "source_url": "https://pmkisan.gov.in/",
+      "source_note": {
+        "en": "Screening rules derived from the official PM-KISAN portal. The portal's full exclusion list (institutional landholders; specified office holders, government employees and ₹10,000+ pensioners; specified practising professionals) is not screened here — re-check at application time.",
+        "kn": "ಅಧಿಕೃತ ಪಿಎಂ-ಕಿಸಾನ್ ಪೋರ್ಟಲ್ ಆಧಾರದ ಮೇಲೆ ಪರಿಶೀಲನಾ ನಿಯಮಗಳನ್ನು ಸಿದ್ಧಪಡಿಸಲಾಗಿದೆ. ಪೋರ್ಟಲ್‌ನ ಪೂರ್ಣ ಹೊರಗಿಡುವಿನ ಪಟ್ಟಿ (ಸಂಸ್ಥಾನದ ಭೂಮಾಲೀಕರು; ನಿಗದಿಪಡಿಸಿದ ಲೋಕಸೇವಕರು, ಸರ್ಕಾರಿ ನೌಕರರು ಮತ್ತು ₹10,000+ ಪೆನ್ಷನ್ ಪಡೆಯುವವರು; ನಿಗದಿಪಡಿಸಿದ ವೃತ್ತಿಪರರು) ಇಲ್ಲಿ ಪರಿಶೀಲನೆಗೊಳಪಡುವುದಿಲ್ಲ — ಅರ್ಜಿ ಸಲ್ಲಿಸುವ ಸಮಯದಲ್ಲಿ ಮತ್ತೆ ಪರಿಶೀಲಿಸಿ."
+      }
+    },
+    {
+      "id": "ab-ark",
+      "code": "ABK",
+      "name": {
+        "en": "Ayushman Bharat – Arogya Karnataka (AB-ArK)",
+        "kn": "ಆಯುಷ್ಮಾನ್ ಭಾರತ್ – ಆರೋಗ್ಯ ಕರ್ನಾಟಕ (ಎಬಿ-ಆರ್‌ಕೆ)"
+      },
+      "summ": {
+        "en": "Cashless treatment up to ₹5 lakh at empanelled hospitals",
+        "kn": "ಪಾಲುದಾರಿ ಆಸ್ಪತ್ರೆಗಳಲ್ಲಿ ₹5 ಲಕ್ಷದವರೆಗೆ ನಗದುರಹಿತ ಚಿಕಿತ್ಸೆ"
+      },
+      "department": {
+        "en": "Health & Family Welfare / SAST",
+        "kn": "ಆರೋಗ್ಯ ಮತ್ತು ಕುಟುಂಬ ಕಲ್ಯಾಣ ಇಲಾಖೆ / ಸಾಸ್ಟ್"
+      },
+      "benefit_type": "in_kind",
+      "jurisdiction": "karnataka",
+      "benefit": {
+        "en": "Cashless treatment for covered procedures/packages at empanelled facilities, subject to beneficiary category and package rules.",
+        "kn": "ಪಾಲುದಾರಿ ಆಸ್ಪತ್ರೆಗಳಲ್ಲಿ ಒಳಗೊಂಡ ಶಸ್ತಿಚಿಕಿತ್ಸೆ/ಪ್ಯಾಕೇಜುಗಳಿಗೆ ನಗದುರಹಿತ ಚಿಕಿತ್ಸೆ, ಫಲಾನುಭವಿ ವರ್ಗ ಮತ್ತು ಪ್ಯಾಕೇಜ್ ನಿಯಮಗಳಿಗೆ ಒಳಪಟ್ಟಿದೆ."
+      },
+      "amount": {
+        "en": "Cashless up to ₹5,00,000 / family / year (subject to packages)",
+        "kn": "ಪ್ರತಿ ಕುಟುಂಬಕ್ಕೆ ವಾರ್ಷಿಕ ₹5,00,000 ದವರೆಗೆ ನಗದುರಹಿತ (ಪ್ಯಾಕೇಜುಗಳಿಗೆ ಒಳಪಟ್ಟಿದೆ)"
+      },
+      "amount_inr": null,
+      "amount_period": "",
+      "deadline": {
+        "en": "Ongoing",
+        "kn": "ನಿರಂತರ"
+      },
+      "eligibility_criteria": [
+        {
+          "en": "PHH/BPL Karnataka families with Aadhaar under the applicable AB-ArK category",
+          "kn": "ಅನ್ವಯ ಎಬಿ-ಆರ್‌ಕೆ ವರ್ಗದಡಿ ಆಧಾರ್ ಹೊಂದಿರುವ ಕರ್ನಾಟಕದ ಪಿಎಚ್‌ಎಚ್/ಬಿಪಿಎಲ್ ಕುಟುಂಬಗಳು"
+        },
+        {
+          "en": "Other categories may be covered under General Patient / central-state provisions — coverage differs by category",
+          "kn": "ಇತರ ವರ್ಗಗಳು ಸಾಮಾನ್ಯ ರೋಗಿ / ಕೇಂದ್ರ-ರಾಜ್ಯ ನಿಬಂಧನೆಗಳಡಿ ಒಳಗೊಳ್ಳಬಹುದು — ಒಳಗೊಂಡಿರುವಿಕೆ ವರ್ಗದಿಂದ ವರ್ಗಕ್ಕೆ ಭಿನ್ನವಾಗಿರುತ್ತದೆ"
+        }
+      ],
+      "application_steps": [
+        {
+          "en": "Check eligibility through Arogya Karnataka / SAST or an authorised hospital.",
+          "kn": "ಆರೋಗ್ಯ ಕರ್ನಾಟಕ / ಸಾಸ್ಟ್ ಅಥವಾ ಅಧಿಕೃತ ಆಸ್ಪತ್ರೆಯ ಮೂಲಕ ಅರ್ಹತೆ ಪರಿಶೀಲಿಸಿ."
+        },
+        {
+          "en": "Complete beneficiary identification / e-KYC.",
+          "kn": "ಫಲಾನುಭವಿ ಗುರುತಿಸುವಿಕೆ / ಇ-ಕೆವೈಸಿ ಪೂರ್ಣಗೊಳಿಸಿ."
+        },
+        {
+          "en": "Use an empanelled hospital; treatment is cashless for covered packages.",
+          "kn": "ಪಾಲುದಾರಿ ಆಸ್ಪತ್ರೆಯನ್ನು ಬಳಸಿ; ಒಳಗೊಂಡ ಪ್ಯಾಕೇಜುಗಳಿಗೆ ಚಿಕಿತ್ಸೆ ನಗದುರಹಿತವಾಗಿರುತ್ತದೆ."
+        }
+      ],
+      "channels": [
+        {
+          "type": "portal",
+          "label": {
+            "en": "Arogya Karnataka",
+            "kn": "ಆರೋಗ್ಯ ಕರ್ನಾಟಕ"
+          },
+          "url": "https://arogya.karnataka.gov.in/"
+        },
+        {
+          "type": "csc"
+        }
+      ],
+      "docs": [
+        {
+          "en": "Aadhaar card",
+          "kn": "ಆಧಾರ್ ಕಾರ್ಡ್"
+        },
+        {
+          "en": "Ration card (PHH/BPL)",
+          "kn": "ರೇಷನ್ ಕಾರ್ಡ್ (ಪಿಎಚ್‌ಎಚ್/ಬಿಪಿಎಲ್)"
+        },
+        {
+          "en": "Hospital and medical documents",
+          "kn": "ಆಸ್ಪತ್ರೆ ಮತ್ತು ವೈದ್ಯಕೀಯ ದಾಖಲೆಗಳು"
+        }
+      ],
+      "route": null,
+      "criteria_note": {
+        "en": "Coverage differs by beneficiary category (PHH/BPL vs General Patient) and the current package list.",
+        "kn": "ಒಳಗೊಂಡಿರುವಿಕೆ ಫಲಾನುಭವಿ ವರ್ಗದಿಂದ (ಪಿಎಚ್‌ಎಚ್/ಬಿಪಿಎಲ್ ಮತ್ತು ಸಾಮಾನ್ಯ ರೋಗಿ) ಮತ್ತು ಪ್ರಸ್ತುತ ಪ್ಯಾಕೇಜ್ ಪಟ್ಟಿಯಿಂದ ಬದಲಾಗುತ್ತದೆ."
+      },
+      "rules": {
+        "eligibility": [],
+        "exclusions": [],
+        "fixes": [
+          {
+            "id": "abk-f1",
+            "check": {
+              "op": "equals",
+              "field": "aadhaar",
+              "value": "no"
+            },
+            "reason": {
+              "code": "reason.noAadhaar"
+            },
+            "fix_id": "get-aadhaar"
+          },
+          {
+            "id": "abk-f2",
+            "check": {
+              "op": "in",
+              "field": "ration",
+              "values": [
+                "none",
+                "apl"
+              ]
+            },
+            "reason": {
+              "code": "reason.rationCategoryNotCovered",
+              "params": {
+                "needed": "AAY or BPL/priority card"
+              }
+            },
+            "fix_id": "ration-card"
+          }
+        ],
+        "deep_check": [
+          {
+            "id": "abk-dc1",
+            "check": {
+              "op": "equals",
+              "field": "dc_aadhaar_name_match",
+              "value": "no"
+            },
+            "reason": {
+              "code": "reason.dcAadhaarNameMismatch"
+            },
+            "fix_id": "aadhaar-name-bank-mismatch"
+          },
+          {
+            "id": "abk-dc2",
+            "check": {
+              "op": "equals",
+              "field": "dc_aadhaar_bank_linked",
+              "value": "no"
+            },
+            "reason": {
+              "code": "reason.dcAadhaarNotLinkedBank"
+            },
+            "fix_id": "bank-aadhaar-link"
+          },
+          {
+            "id": "abk-dc3",
+            "check": {
+              "op": "equals",
+              "field": "dc_bank_active",
+              "value": "no"
+            },
+            "reason": {
+              "code": "reason.dcBankInactive"
+            },
+            "fix_id": "bank-account-activate"
+          },
+          {
+            "id": "abk-dc4",
+            "check": {
+              "op": "equals",
+              "field": "dc_docs_ready",
+              "value": "no"
+            },
+            "reason": {
+              "code": "reason.dcDocsNotReady"
+            },
+            "fix_id": "docs-ready"
+          }
+        ]
+      },
+      "confidence_note": "screening_only",
+      "last_verified": "2026-09-09",
+      "source_url": "https://arogya.karnataka.gov.in/",
+      "source_note": {
+        "en": "Screening rules derived from official Arogya Karnataka/SAST sources and current package lists; a missing or APL card does not block treatment outright — it is modelled as a fixable blocker pending category checks.",
+        "kn": "ಅಧಿಕೃತ ಆರೋಗ್ಯ ಕರ್ನಾಟಕ/ಸಾಸ್ಟ್ ಮೂಲಗಳು ಮತ್ತು ಪ್ರಸ್ತುತ ಪ್ಯಾಕೇಜ್ ಪಟ್ಟಿಗಳ ಆಧಾರದ ಮೇಲೆ ಪರಿಶೀಲನಾ ನಿಯಮಗಳನ್ನು ಸಿದ್ಧಪಡಿಸಲಾಗಿದೆ; ರೇಷನ್ ಕಾರ್ಡಿಲ್ಲದೆ ಅಥವಾ ಎಪಿಎಲ್ ಆಗಿದ್ದರೆ ಚಿಕಿತ್ಸೆ ನೇರವಾಗಿ ನಿಲ್ಲುವುದಿಲ್ಲ — ವರ್ಗ ಪರಿಶೀಲನೆಗೆ ಒಳಪಟ್ಟು ಸರಿಪಡಿಸಬಹುದಾದ ಅಡ್ಡಿಯಾಗಿ ಮಾದರಿಸಲಾಗಿದೆ."
+      }
+    },
+    {
+      "id": "sandhya-suraksha",
+      "code": "SSY",
+      "name": {
+        "en": "Sandhya Suraksha Yojane",
+        "kn": "ಸಂಧ್ಯಾ ಸುರಕ್ಷಾ ಯೋಜನೆ"
+      },
+      "summ": {
+        "en": "₹1,200 a month pension for eligible elderly persons",
+        "kn": "ಅರ್ಹ ವೃದ್ಧರಿಗೆ ಪ್ರತಿ ತಿಂಗಳು ₹1,200 ಪೆನ್ಷನ್"
+      },
+      "department": {
+        "en": "Revenue / Social Security & Pension",
+        "kn": "ರಾಜ್ಸ್ವ ಇಲಾಖೆ / ಸಾಮಾಜಿಕ ಭದ್ರತಾ ಮತ್ತು ಪೆನ್ಷನ್ ನಿರ್ದೇಶನಾಲಯ"
+      },
+      "benefit_type": "cash_transfer",
+      "jurisdiction": "karnataka",
+      "benefit": {
+        "en": "₹1,200 per month social-security pension for eligible persons aged 65 and above.",
+        "kn": "65 ವಯಸ್ಸು ಮತ್ತು ಅದಕ್ಕಿಂತ ಹೆಚ್ಚಿನ ಅರ್ಹ ವ್ಯಕ್ತಿಗಳಿಗೆ ಪ್ರತಿ ತಿಂಗಳು ₹1,200 ಸಾಮಾಜಿಕ ಭದ್ರತಾ ಪೆನ್ಷನ್."
+      },
+      "amount": {
+        "en": "₹1,200 / month",
+        "kn": "ಪ್ರತಿ ತಿಂಗಳು ₹1,200"
+      },
+      "amount_inr": 1200,
+      "amount_period": "month",
+      "deadline": {
+        "en": "Ongoing",
+        "kn": "ನಿರಂತರ"
+      },
+      "eligibility_criteria": [
+        {
+          "en": "Age 65 or above",
+          "kn": "ವಯಸ್ಸು 65 ಅಥವಾ ಅದಕ್ಕಿಂತ ಹೆಚ್ಚು"
+        },
+        {
+          "en": "Annual income below ₹32,000",
+          "kn": "ವಾರ್ಷಿಕ ಆದಾಯ ₹32,000ಕ್ಕಿಂತ ಕಡಿಮೆ"
+        },
+        {
+          "en": "Current target-group/occupational and residence conditions per published rules",
+          "kn": "ಪ್ರಕಟಿತ ನಿಯಮಗಳ ಪ್ರಕಾರ ಪ್ರಸ್ತುತ ಉದ್ದೇಶಿತ ಗುಂಪು/ವೃತ್ತಿ ಮತ್ತು ನಿವಾಸದ ಷರತ್ತುಗಳು"
+        }
+      ],
+      "application_steps": [
+        {
+          "en": "Apply through Nadakacheri / Atalji Janasnehi or a permitted citizen centre.",
+          "kn": "ನಾಡಕಚೇರಿ / ಅಟಲ್ ಜನಸ್ನೇಹಿ ಅಥವಾ ಅನುಮತಿಸಿದ ನಾಗರಿಕ ಕೇಂದ್ರದ ಮೂಲಕ ಅರ್ಜಿ ಸಲ್ಲಿಸಿ."
+        },
+        {
+          "en": "Submit age proof, income certificate and bank/post-office details.",
+          "kn": "ವಯಸ್ಸಿನ ಪ್ರಮಾಣ, ಆದಾಯ ಪ್ರಮಾಣಪತ್ರ ಮತ್ತು ಬ್ಯಾಂಕ್/ಅಂಚೆ ಕಚೇರಿ ವಿವರಗಳನ್ನು ಸಲ್ಲಿಸಿ."
+        },
+        {
+          "en": "Complete verification; pension starts after approval.",
+          "kn": "ಪರಿಶೀಲನೆ ಪೂರ್ಣಗೊಳಿಸಿ; ಅಂಗೀಕಾರದ ನಂತರ ಪೆನ್ಷನ್ ಆರಂಭವಾಗುತ್ತದೆ."
+        }
+      ],
+      "channels": [
+        {
+          "type": "portal",
+          "label": {
+            "en": "Revenue DSSP",
+            "kn": "ರಾಜ್ಸ್ವ ಡಿಎಸ್‌ಎಸ್‌ಪಿ"
+          },
+          "url": "https://revenue.karnataka.gov.in/124/know-more-about-directorate-of-social-security-and-pension/en"
+        },
+        {
+          "type": "csc"
+        }
+      ],
+      "docs": [
+        {
+          "en": "Aadhaar card",
+          "kn": "ಆಧಾರ್ ಕಾರ್ಡ್"
+        },
+        {
+          "en": "Age proof",
+          "kn": "ವಯಸ್ಸಿನ ಪ್ರಮಾಣ"
+        },
+        {
+          "en": "Income certificate",
+          "kn": "ಆದಾಯ ಪ್ರಮಾಣಪತ್ರ"
+        },
+        {
+          "en": "Residence proof",
+          "kn": "ನಿವಾಸದ ಪ್ರಮಾಣ"
+        },
+        {
+          "en": "Bank or post-office account",
+          "kn": "ಬ್ಯಾಂಕ್ ಅಥವಾ ಅಂಚೆ ಕಚೇರಿ ಖಾತೆ"
+        }
+      ],
+      "route": null,
+      "criteria_note": null,
+      "rules": {
+        "eligibility": [
+          {
+            "id": "ss-e1",
+            "check": {
+              "op": "num_gte",
+              "field": "age",
+              "value": 65
+            },
+            "on_fail": {
+              "status": "not_eligible",
+              "reason": {
+                "code": "reason.ageUnder",
+                "params": {
+                  "min": "65"
+                }
+              }
+            }
+          },
+          {
+            "id": "ss-e2",
+            "check": {
+              "op": "income_lte",
+              "value": 32000
+            },
+            "on_fail": {
+              "status": "not_eligible",
+              "reason": {
+                "code": "reason.incomeAbove",
+                "params": {
+                  "limit": "₹32,000"
+                }
+              }
+            }
+          }
+        ],
+        "exclusions": [
+          {
+            "id": "ss-x1",
+            "check": {
+              "op": "equals",
+              "field": "otherpension",
+              "value": "yes"
+            },
+            "reason": {
+              "code": "reason.otherPension"
+            }
+          }
+        ],
+        "fixes": [
+          {
+            "id": "ss-f1",
+            "check": {
+              "op": "equals",
+              "field": "bank",
+              "value": "no"
+            },
+            "reason": {
+              "code": "reason.noAadhaarLinkedBank"
+            },
+            "fix_id": "bank-aadhaar-link"
+          },
+          {
+            "id": "ss-f2",
+            "check": {
+              "op": "equals",
+              "field": "aadhaar",
+              "value": "no"
+            },
+            "reason": {
+              "code": "reason.noAadhaar"
+            },
+            "fix_id": "get-aadhaar"
+          }
+        ],
+        "deep_check": [
+          {
+            "id": "ss-dc1",
+            "check": {
+              "op": "equals",
+              "field": "dc_aadhaar_name_match",
+              "value": "no"
+            },
+            "reason": {
+              "code": "reason.dcAadhaarNameMismatch"
+            },
+            "fix_id": "aadhaar-name-bank-mismatch"
+          },
+          {
+            "id": "ss-dc2",
+            "check": {
+              "op": "equals",
+              "field": "dc_aadhaar_bank_linked",
+              "value": "no"
+            },
+            "reason": {
+              "code": "reason.dcAadhaarNotLinkedBank"
+            },
+            "fix_id": "bank-aadhaar-link"
+          },
+          {
+            "id": "ss-dc3",
+            "check": {
+              "op": "equals",
+              "field": "dc_bank_active",
+              "value": "no"
+            },
+            "reason": {
+              "code": "reason.dcBankInactive"
+            },
+            "fix_id": "bank-account-activate"
+          },
+          {
+            "id": "ss-dc4",
+            "check": {
+              "op": "equals",
+              "field": "dc_docs_ready",
+              "value": "no"
+            },
+            "reason": {
+              "code": "reason.dcDocsNotReady"
+            },
+            "fix_id": "docs-ready"
+          },
+          {
+            "id": "ss-dc5",
+            "check": {
+              "op": "equals",
+              "field": "dc_age_proof_ssy",
+              "value": "no"
+            },
+            "reason": {
+              "code": "reason.dcAgeProofMismatch"
+            },
+            "fix_id": "age-proof"
+          }
+        ]
+      },
+      "confidence_note": "screening_only",
+      "last_verified": "2026-09-09",
+      "source_url": "https://revenue.karnataka.gov.in/124/know-more-about-directorate-of-social-security-and-pension/en",
+      "source_note": {
+        "en": "Screening rules derived from Karnataka Revenue DSSP material; re-check the latest notification for target-group/occupational wording before applying.",
+        "kn": "ಕರ್ನಾಟಕ ರಾಜ್ಸ್ವ ಡಿಎಸ್‌ಎಸ್‌ಪಿ ವಸ್ತು ಆಧಾರದ ಮೇಲೆ ಪರಿಶೀಲನಾ ನಿಯಮಗಳನ್ನು ಸಿದ್ಧಪಡಿಸಲಾಗಿದೆ; ಅರ್ಜಿ ಸಲ್ಲಿಸುವ ಮೊದಲು ಉದ್ದೇಶಿತ ಗುಂಪು/ವೃತ್ತಿ ಪದಗಳಿಗಾಗಿ ಇತ್ತೀಚಿನ ಅಧಿಸೂಚನೆಯನ್ನು ಮತ್ತೆ ಪರಿಶೀಲಿಸಿ."
+      }
+    },
+    {
+      "id": "widow-pension",
+      "code": "WDP",
+      "name": {
+        "en": "Destitute Widow Pension",
+        "kn": "ನಿರಗತಿಕ ವಿಧವೆ ಪೆನ್ಷನ್"
+      },
+      "summ": {
+        "en": "₹800 a month for eligible widows",
+        "kn": "ಅರ್ಹ ವಿಧವೆಯರಿಗೆ ಪ್ರತಿ ತಿಂಗಳು ₹800"
+      },
+      "department": {
+        "en": "Revenue / Social Security & Pension",
+        "kn": "ರಾಜ್ಸ್ವ ಇಲಾಖೆ / ಸಾಮಾಜಿಕ ಭದ್ರತಾ ಮತ್ತು ಪೆನ್ಷನ್ ನಿರ್ದೇಶನಾಲಯ"
+      },
+      "benefit_type": "cash_transfer",
+      "jurisdiction": "karnataka",
+      "benefit": {
+        "en": "₹800 per month social-security pension for widows from eligible families.",
+        "kn": "ಅರ್ಹ ಕುಟುಂಬಗಳ ವಿಧವೆಯರಿಗೆ ಪ್ರತಿ ತಿಂಗಳು ₹800 ಸಾಮಾಜಿಕ ಭದ್ರತಾ ಪೆನ್ಷನ್."
+      },
+      "amount": {
+        "en": "₹800 / month",
+        "kn": "ಪ್ರತಿ ತಿಂಗಳು ₹800"
+      },
+      "amount_inr": 800,
+      "amount_period": "month",
+      "deadline": {
+        "en": "Ongoing",
+        "kn": "ನಿರಂತರ"
+      },
+      "eligibility_criteria": [
+        {
+          "en": "Woman who has lost her husband",
+          "kn": "ಪತಿಯನ್ನು ಕಳೆದುಕೊಂಡ ಮಹಿಳೆ"
+        },
+        {
+          "en": "Aged 18 or above, from a BPL family",
+          "kn": "18 ವಯಸ್ಸು ಅಥವಾ ಅದಕ್ಕಿಂತ ಹೆಚ್ಚು, ಬಿಪಿಎಲ್ ಕುಟುಂಬದಿಂದ"
+        },
+        {
+          "en": "Income, residence and non-overlap conditions apply",
+          "kn": "ಆದಾಯ, ನಿವಾಸ ಮತ್ತು ನಕಲು-ಸವಕಳಿ ಇಲ್ಲದ ಷರತ್ತುಗಳು ಅನ್ವಯವಾಗುತ್ತವೆ"
+        }
+      ],
+      "application_steps": [
+        {
+          "en": "Apply at Nadakacheri / Atalji Janasnehi, Grama One, Karnataka One or a CSC as permitted.",
+          "kn": "ನಾಡಕಚೇರಿ / ಅಟಲ್ ಜನಸ್ನೇಹಿ, ಗ್ರಾಮ ಒನ್, ಕರ್ನಾಟಕ ಒನ್ ಅಥವಾ ಅನುಮತಿಸಿದಲ್ಲಿ ಸಿಎಸ್‌ಸಿ ಕೇಂದ್ರದಲ್ಲಿ ಅರ್ಜಿ ಸಲ್ಲಿಸಿ."
+        },
+        {
+          "en": "Attach the husband's death certificate and identity/income proofs.",
+          "kn": "ಪತಿಯ ಸಾವಿನ ಪ್ರಮಾಣಪತ್ರ ಮತ್ತು ಗುರುತಿನ/ಆದಾಯದ ಪ್ರಮಾಣಗಳನ್ನು ಲಗತ್ತಿಸಿ."
+        },
+        {
+          "en": "Revenue verifies eligibility; pension starts after approval.",
+          "kn": "ರಾಜ್ಸ್ವ ಇಲಾಖೆ ಅರ್ಹತೆಯನ್ನು ಪರಿಶೀಲಿಸುತ್ತದೆ; ಅಂಗೀಕಾರದ ನಂತರ ಪೆನ್ಷನ್ ಆರಂಭವಾಗುತ್ತದೆ."
+        }
+      ],
+      "channels": [
+        {
+          "type": "portal",
+          "label": {
+            "en": "Revenue DSSP",
+            "kn": "ರಾಜ್ಸ್ವ ಡಿಎಸ್‌ಎಸ್‌ಪಿ"
+          },
+          "url": "https://revenue.karnataka.gov.in/124/know-more-about-directorate-of-social-security-and-pension/en"
+        },
+        {
+          "type": "csc"
+        }
+      ],
+      "docs": [
+        {
+          "en": "Husband's death certificate",
+          "kn": "ಪತಿಯ ಸಾವಿನ ಪ್ರಮಾಣಪತ್ರ"
+        },
+        {
+          "en": "Aadhaar card",
+          "kn": "ಆಧಾರ್ ಕಾರ್ಡ್"
+        },
+        {
+          "en": "Residence proof",
+          "kn": "ನಿವಾಸದ ಪ್ರಮಾಣ"
+        },
+        {
+          "en": "Income or BPL proof",
+          "kn": "ಆದಾಯ ಅಥವಾ ಬಿಪಿಎಲ್ ಪ್ರಮಾಣ"
+        },
+        {
+          "en": "Age proof",
+          "kn": "ವಯಸ್ಸಿನ ಪ್ರಮಾಣ"
+        },
+        {
+          "en": "Bank or post-office account",
+          "kn": "ಬ್ಯಾಂಕ್ ಅಥವಾ ಅಂಚೆ ಕಚೇರಿ ಖಾತೆ"
+        }
+      ],
+      "route": null,
+      "criteria_note": null,
+      "rules": {
+        "eligibility": [
+          {
+            "id": "wd-e1",
+            "check": {
+              "op": "equals",
+              "field": "gender",
+              "value": "woman"
+            },
+            "on_fail": {
+              "status": "not_eligible",
+              "reason": {
+                "code": "reason.womenOnly"
+              }
+            }
+          },
+          {
+            "id": "wd-e2",
+            "check": {
+              "op": "equals",
+              "field": "marital",
+              "value": "widowed"
+            },
+            "on_fail": {
+              "status": "not_eligible",
+              "reason": {
+                "code": "reason.notWidowed"
+              }
+            }
+          },
+          {
+            "id": "wd-e3",
+            "check": {
+              "op": "num_gte",
+              "field": "age",
+              "value": 18
+            },
+            "on_fail": {
+              "status": "not_eligible",
+              "reason": {
+                "code": "reason.ageUnder",
+                "params": {
+                  "min": "18"
+                }
+              }
+            }
+          }
+        ],
+        "exclusions": [
+          {
+            "id": "wd-x1",
+            "check": {
+              "op": "equals",
+              "field": "otherpension",
+              "value": "yes"
+            },
+            "reason": {
+              "code": "reason.otherPension"
+            }
+          }
+        ],
+        "fixes": [
+          {
+            "id": "wd-f1",
+            "check": {
+              "op": "equals",
+              "field": "bank",
+              "value": "no"
+            },
+            "reason": {
+              "code": "reason.noAadhaarLinkedBank"
+            },
+            "fix_id": "bank-aadhaar-link"
+          },
+          {
+            "id": "wd-f2",
+            "check": {
+              "op": "equals",
+              "field": "aadhaar",
+              "value": "no"
+            },
+            "reason": {
+              "code": "reason.noAadhaar"
+            },
+            "fix_id": "get-aadhaar"
+          },
+          {
+            "id": "wd-f3",
+            "check": {
+              "op": "in",
+              "field": "income",
+              "values": [
+                "32k-2.5l",
+                "2.5l-6l",
+                "6l-8l",
+                "gt-8l"
+              ]
+            },
+            "reason": {
+              "code": "reason.incomeAbove",
+              "params": {
+                "limit": "₹32,000"
+              }
+            },
+            "fix_id": "income-certificate"
+          }
+        ],
+        "deep_check": [
+          {
+            "id": "wd-dc1",
+            "check": {
+              "op": "equals",
+              "field": "dc_aadhaar_name_match",
+              "value": "no"
+            },
+            "reason": {
+              "code": "reason.dcAadhaarNameMismatch"
+            },
+            "fix_id": "aadhaar-name-bank-mismatch"
+          },
+          {
+            "id": "wd-dc2",
+            "check": {
+              "op": "equals",
+              "field": "dc_aadhaar_bank_linked",
+              "value": "no"
+            },
+            "reason": {
+              "code": "reason.dcAadhaarNotLinkedBank"
+            },
+            "fix_id": "bank-aadhaar-link"
+          },
+          {
+            "id": "wd-dc3",
+            "check": {
+              "op": "equals",
+              "field": "dc_bank_active",
+              "value": "no"
+            },
+            "reason": {
+              "code": "reason.dcBankInactive"
+            },
+            "fix_id": "bank-account-activate"
+          },
+          {
+            "id": "wd-dc4",
+            "check": {
+              "op": "equals",
+              "field": "dc_docs_ready",
+              "value": "no"
+            },
+            "reason": {
+              "code": "reason.dcDocsNotReady"
+            },
+            "fix_id": "docs-ready"
+          },
+          {
+            "id": "wd-dc5",
+            "check": {
+              "op": "equals",
+              "field": "dc_age_proof_wdp",
+              "value": "no"
+            },
+            "reason": {
+              "code": "reason.dcAgeProofMismatch"
+            },
+            "fix_id": "age-proof"
+          }
+        ]
+      },
+      "confidence_note": "screening_only",
+      "last_verified": "2026-09-09",
+      "source_url": "https://revenue.karnataka.gov.in/124/know-more-about-directorate-of-social-security-and-pension/en",
+      "source_note": {
+        "en": "Screening rules derived from Karnataka Revenue DSSP and district social-security guidance; BPL/income/residence conditions are re-verified by Revenue at application time.",
+        "kn": "ಕರ್ನಾಟಕ ರಾಜ್ಸ್ವ ಡಿಎಸ್‌ಎಸ್‌ಪಿ ಮತ್ತು ಜಿಲ್ಲಾ ಸಾಮಾಜಿಕ ಭದ್ರತಾ ಮಾರ್ಗದರ್ಶನ ಆಧಾರದ ಮೇಲೆ ಪರಿಶೀಲನಾ ನಿಯಮಗಳನ್ನು ಸಿದ್ಧಪಡಿಸಲಾಗಿದೆ; ಬಿಪಿಎಲ್/ಆದಾಯ/ನಿವಾಸದ ಷರತ್ತುಗಳನ್ನು ಅರ್ಜಿ ಸಮಯದಲ್ಲಿ ರಾಜ್ಸ್ವ ಇಲಾಖೆ ಮತ್ತೆ ಪರಿಶೀಲಿಸುತ್ತದೆ."
+      }
+    },
+    {
+      "id": "disability-pension",
+      "code": "DBP",
+      "name": {
+        "en": "Disability Pension",
+        "kn": "ಅಂಗವೈಕಲ್ಯ ಪೆನ್ಷನ್"
+      },
+      "summ": {
+        "en": "₹800–₹2,000 a month depending on disability percentage",
+        "kn": "ಅಂಗವೈಕಲ್ಯದ ಶೇಕಡಾವನ್ನು ಅವಲಂಬಿಸಿ ಪ್ರತಿ ತಿಂಗಳು ₹800–₹2,000"
+      },
+      "department": {
+        "en": "Revenue / Social Security & Pension",
+        "kn": "ರಾಜ್ಸ್ವ ಇಲಾಖೆ / ಸಾಮಾಜಿಕ ಭದ್ರತಾ ಮತ್ತು ಪೆನ್ಷನ್ ನಿರ್ದೇಶನಾಲಯ"
+      },
+      "benefit_type": "cash_transfer",
+      "jurisdiction": "karnataka",
+      "benefit": {
+        "en": "Category-specific monthly pension for persons with disabilities (40% or above); amounts differ by percentage/category under the published schedule.",
+        "kn": "ಅಂಗವೈಕಲ್ಯ ಹೊಂದಿರುವ ವ್ಯಕ್ತಿಗಳಿಗೆ (40% ಅಥವಾ ಅದಕ್ಕಿಂತ ಹೆಚ್ಚು) ವರ್ಗಾಧಾರಿತ ಮಾಸಿಕ ಪೆನ್ಷನ್; ಪ್ರಕಟಿತ ವೇಳಾಪಟ್ಟಿಯ ಪ್ರಕಾರ ಶೇಕಡಾ/ವರ್ಗದಿಂದ ಮೊತ್ತ ಬದಲಾಗುತ್ತದೆ."
+      },
+      "amount": {
+        "en": "₹800 – ₹2,000 / month (category-specific, sources conflict)",
+        "kn": "ಪ್ರತಿ ತಿಂಗಳು ₹800 – ₹2,000 (ವರ್ಗಾಧಾರಿತ, ಮೂಲಗಳಲ್ಲಿ ಭಿನ್ನತೆ)"
+      },
+      "amount_inr": null,
+      "amount_period": "",
+      "deadline": {
+        "en": "Ongoing",
+        "kn": "ನಿರಂತರ"
+      },
+      "eligibility_criteria": [
+        {
+          "en": "Disability of 40% or more per the medical board certificate",
+          "kn": "ವೈದ್ಯಕೀಯ ಮಂಡಳಿಯ ಪ್ರಮಾಣಪತ್ರದ ಪ್ರಕಾರ 40% ಅಥವಾ ಅದಕ್ಕಿಂತ ಹೆಚ್ಚಿನ ಅಂಗವೈಕಲ್ಯ"
+        },
+        {
+          "en": "Income, residence and non-overlap conditions apply",
+          "kn": "ಆದಾಯ, ನಿವಾಸ ಮತ್ತು ನಕಲು-ಸವಕಳಿ ಇಲ್ಲದ ಷರತ್ತುಗಳು ಅನ್ವಯವಾಗುತ್ತವೆ"
+        }
+      ],
+      "application_steps": [
+        {
+          "en": "Obtain the disability certificate from a government medical board (UDID portal or hospital).",
+          "kn": "ಸರ್ಕಾರಿ ವೈದ್ಯಕೀಯ ಮಂಡಳಿಯಿಂದ ಅಂಗವೈಕಲ್ಯ ಪ್ರಮಾಣಪತ್ರ ಪಡೆಯಿರಿ (ಯುಡಿಐಡಿ ಪೋರ್ಟಲ್ ಅಥವಾ ಆಸ್ಪತ್ರೆ)."
+        },
+        {
+          "en": "Apply through the social-security channel (Nadakacheri / Grama One / Karnataka One / CSC).",
+          "kn": "ಸಾಮಾಜಿಕ ಭದ್ರತಾ ಚಾನೆಲ್ ಮೂಲಕ ಅರ್ಜಿ ಸಲ್ಲಿಸಿ (ನಾಡಕಚೇರಿ / ಗ್ರಾಮ ಒನ್ / ಕರ್ನಾಟಕ ಒನ್ / ಸಿಎಸ್‌ಸಿ)."
+        },
+        {
+          "en": "Complete verification; pension starts after approval.",
+          "kn": "ಪರಿಶೀಲನೆ ಪೂರ್ಣಗೊಳಿಸಿ; ಅಂಗೀಕಾರದ ನಂತರ ಪೆನ್ಷನ್ ಆರಂಭವಾಗುತ್ತದೆ."
+        }
+      ],
+      "channels": [
+        {
+          "type": "portal",
+          "label": {
+            "en": "Treasury social-security page",
+            "kn": "ಖಜಾನೆ ಸಾಮಾಜಿಕ ಭದ್ರತಾ ಪುಟ"
+          },
+          "url": "https://khajane.karnataka.gov.in/38/social-security-pension/en"
+        },
+        {
+          "type": "csc"
+        }
+      ],
+      "docs": [
+        {
+          "en": "Disability/medical-board certificate",
+          "kn": "ಅಂಗವೈಕಲ್ಯ/ವೈದ್ಯಕೀಯ ಮಂಡಳಿಯ ಪ್ರಮಾಣಪತ್ರ"
+        },
+        {
+          "en": "Aadhaar card",
+          "kn": "ಆಧಾರ್ ಕಾರ್ಡ್"
+        },
+        {
+          "en": "Income certificate",
+          "kn": "ಆದಾಯ ಪ್ರಮಾಣಪತ್ರ"
+        },
+        {
+          "en": "Residence proof",
+          "kn": "ನಿವಾಸದ ಪ್ರಮಾಣ"
+        },
+        {
+          "en": "Bank or post-office account",
+          "kn": "ಬ್ಯಾಂಕ್ ಅಥವಾ ಅಂಚೆ ಕಚೇರಿ ಖಾತೆ"
+        }
+      ],
+      "route": null,
+      "criteria_note": {
+        "en": "Official sources currently show conflicting amounts (₹800 for 40%+, ₹1,400–₹2,000 for higher categories in one source vs ₹800/₹1,600 in another). The latest controlling Government Order decides the amount.",
+        "kn": "ಅಧಿಕೃತ ಮೂಲಗಳಲ್ಲಿ ಪ್ರಸ್ತುತ ಭಿನ್ನ ಮೊತ್ತಗಳಿವೆ (40%+ ಗೆ ₹800, ಒಂದು ಮೂಲದಲ್ಲಿ ಹೆಚ್ಚಿನ ವರ್ಗಗಳಿಗೆ ₹1,400–₹2,000 ವಿರುದ್ಧ ಇನ್ನೊಂದರಲ್ಲಿ ₹800/₹1,600). ಇತ್ತೀಚಿನ ಮಾರ್ಗದರ್ಶಿ ಸರ್ಕಾರಿ ಆದೇಶವೇ ಮೊತ್ತವನ್ನು ನಿರ್ಧರಿಸುತ್ತದೆ."
+      },
+      "rules": {
+        "eligibility": [
+          {
+            "id": "db-e1",
+            "check": {
+              "op": "equals",
+              "field": "disability",
+              "value": "yes"
+            },
+            "on_fail": {
+              "status": "not_eligible",
+              "reason": {
+                "code": "reason.notDisabled"
+              }
+            }
+          },
+          {
+            "id": "db-e2",
+            "check": {
+              "op": "in",
+              "field": "disabilitypct",
+              "values": [
+                "40to74",
+                "75plus"
+              ]
+            },
+            "on_fail": {
+              "status": "not_eligible",
+              "reason": {
+                "code": "reason.disabilityBelowThreshold",
+                "params": {
+                  "min": "40%"
+                }
+              }
+            }
+          }
+        ],
+        "exclusions": [
+          {
+            "id": "db-x1",
+            "check": {
+              "op": "equals",
+              "field": "otherpension",
+              "value": "yes"
+            },
+            "reason": {
+              "code": "reason.otherPension"
+            }
+          }
+        ],
+        "fixes": [
+          {
+            "id": "db-f1",
+            "check": {
+              "op": "equals",
+              "field": "bank",
+              "value": "no"
+            },
+            "reason": {
+              "code": "reason.noAadhaarLinkedBank"
+            },
+            "fix_id": "bank-aadhaar-link"
+          },
+          {
+            "id": "db-f2",
+            "check": {
+              "op": "equals",
+              "field": "aadhaar",
+              "value": "no"
+            },
+            "reason": {
+              "code": "reason.noAadhaar"
+            },
+            "fix_id": "get-aadhaar"
+          }
+        ],
+        "deep_check": [
+          {
+            "id": "db-dc1",
+            "check": {
+              "op": "equals",
+              "field": "dc_aadhaar_name_match",
+              "value": "no"
+            },
+            "reason": {
+              "code": "reason.dcAadhaarNameMismatch"
+            },
+            "fix_id": "aadhaar-name-bank-mismatch"
+          },
+          {
+            "id": "db-dc2",
+            "check": {
+              "op": "equals",
+              "field": "dc_aadhaar_bank_linked",
+              "value": "no"
+            },
+            "reason": {
+              "code": "reason.dcAadhaarNotLinkedBank"
+            },
+            "fix_id": "bank-aadhaar-link"
+          },
+          {
+            "id": "db-dc3",
+            "check": {
+              "op": "equals",
+              "field": "dc_bank_active",
+              "value": "no"
+            },
+            "reason": {
+              "code": "reason.dcBankInactive"
+            },
+            "fix_id": "bank-account-activate"
+          },
+          {
+            "id": "db-dc4",
+            "check": {
+              "op": "equals",
+              "field": "dc_docs_ready",
+              "value": "no"
+            },
+            "reason": {
+              "code": "reason.dcDocsNotReady"
+            },
+            "fix_id": "docs-ready"
+          },
+          {
+            "id": "db-dc5",
+            "check": {
+              "op": "equals",
+              "field": "dc_age_proof_dbp",
+              "value": "no"
+            },
+            "reason": {
+              "code": "reason.dcAgeProofMismatch"
+            },
+            "fix_id": "age-proof"
+          }
+        ]
+      },
+      "confidence_note": "screening_only",
+      "last_verified": "2026-09-09",
+      "source_url": "https://khajane.karnataka.gov.in/38/social-security-pension/en",
+      "source_note": {
+        "en": "Screening rules derived from the current Karnataka Treasury social-security pension page and the Revenue DSSP Annual Report 2023-24; the amount is versioned data because official pages conflict — the latest controlling GO/schedule decides.",
+        "kn": "ಪ್ರಸ್ತುತ ಕರ್ನಾಟಕ ಖಜಾನೆ ಸಾಮಾಜಿಕ ಭದ್ರತಾ ಪೆನ್ಷನ್ ಪುಟ ಮತ್ತು ರಾಜ್ಸ್ವ ಡಿಎಸ್‌ಎಸ್‌ಪಿ ವಾರ್ಷಿಕ ವರದಿ 2023-24 ಆಧಾರದ ಮೇಲೆ ಪರಿಶೀಲನಾ ನಿಯಮಗಳನ್ನು ಸಿದ್ಧಪಡಿಸಲಾಗಿದೆ; ಅಧಿಕೃತ ಪುಟಗಳಲ್ಲಿ ಭಿನ್ನತೆ ಇರುವುದರಿಂದ ಮೊತ್ತವನ್ನು ಆವೃತ್ತಿಗೊಳಿಸಿದ ದತ್ತಾಂಶವೆಂದು ಪರಿಗಣಿಸಿ — ಇತ್ತೀಚಿನ ಮಾರ್ಗದರ್ಶಿ ಸರ್ಕಾರಿ ಆದೇಶ/ವೇಳಾಪಟ್ಟಿ ನಿರ್ಧರಿಸುತ್ತದೆ."
+      }
+    },
+    {
+      "id": "manaswini",
+      "code": "MNW",
+      "name": {
+        "en": "Manaswini",
+        "kn": "ಮನಸ್ವಿನಿ"
+      },
+      "summ": {
+        "en": "₹800 a month for unmarried or divorced women",
+        "kn": "ಅವಿವಾಹಿತ ಅಥವಾ ವಿಚ್ಛೇದಿತ ಮಹಿಳೆಯರಿಗೆ ಪ್ರತಿ ತಿಂಗಳು ₹800"
+      },
+      "department": {
+        "en": "Social Security & Pension / DSSP",
+        "kn": "ಸಾಮಾಜಿಕ ಭದ್ರತಾ ಮತ್ತು ಪೆನ್ಷನ್ ನಿರ್ದೇಶನಾಲಯ (ಡಿಎಸ್‌ಎಸ್‌ಪಿ)"
+      },
+      "benefit_type": "cash_transfer",
+      "jurisdiction": "karnataka",
+      "benefit": {
+        "en": "₹800 per month social-security pension for eligible unmarried or divorced women.",
+        "kn": "ಅರ್ಹ ಅವಿವಾಹಿತ ಅಥವಾ ವಿಚ್ಛೇದಿತ ಮಹಿಳೆಯರಿಗೆ ಪ್ರತಿ ತಿಂಗಳು ₹800 ಸಾಮಾಜಿಕ ಭದ್ರತಾ ಪೆನ್ಷನ್."
+      },
+      "amount": {
+        "en": "₹800 / month",
+        "kn": "ಪ್ರತಿ ತಿಂಗಳು ₹800"
+      },
+      "amount_inr": 800,
+      "amount_period": "month",
+      "deadline": {
+        "en": "Ongoing",
+        "kn": "ನಿರಂತರ"
+      },
+      "eligibility_criteria": [
+        {
+          "en": "Unmarried or divorced woman, age 40–64",
+          "kn": "ಅವಿವಾಹಿತ ಅಥವಾ ವಿಚ್ಛೇದಿತ ಮಹಿಳೆ, ವಯಸ್ಸು 40–64"
+        },
+        {
+          "en": "Annual income below ₹32,000",
+          "kn": "ವಾರ್ಷಿಕ ಆದಾಯ ₹32,000ಕ್ಕಿಂತ ಕಡಿಮೆ"
+        },
+        {
+          "en": "Must not already receive a specified monthly pension",
+          "kn": "ಈಗಾಗಲೇ ನಿಗದಿಪಡಿಸಿದ ಮಾಸಿಕ ಪೆನ್ಷನ್ ಪಡೆಯುತ್ತಿರಬಾರದು"
+        }
+      ],
+      "application_steps": [
+        {
+          "en": "Apply through Atal Ji Janasnehi / Nadakacheri or the designated social-security channel.",
+          "kn": "ಅಟಲ್ ಜಿ ಜನಸ್ನೇಹಿ / ನಾಡಕಚೇರಿ ಅಥವಾ ನಿಗದಿಪಡಿಸಿದ ಸಾಮಾಜಿಕ ಭದ್ರತಾ ಚಾನೆಲ್ ಮೂಲಕ ಅರ್ಜಿ ಸಲ್ಲಿಸಿ."
+        },
+        {
+          "en": "Submit BPL ration card or income certificate, age proof and self-declaration / divorce documentation.",
+          "kn": "ಬಿಪಿಎಲ್ ರೇಷನ್ ಕಾರ್ಡ್ ಅಥವಾ ಆದಾಯ ಪ್ರಮಾಣಪತ್ರ, ವಯಸ್ಸಿನ ಪ್ರಮಾಣ ಮತ್ತು ಸ್ವಯಂ-ಘೋಷಣೆ / ವಿಚ್ಛೇದನ ದಾಖಲೆ ಸಲ್ಲಿಸಿ."
+        },
+        {
+          "en": "Complete verification; pension starts after approval.",
+          "kn": "ಪರಿಶೀಲನೆ ಪೂರ್ಣಗೊಳಿಸಿ; ಅಂಗೀಕಾರದ ನಂತರ ಪೆನ್ಷನ್ ಆರಂಭವಾಗುತ್ತದೆ."
+        }
+      ],
+      "channels": [
+        {
+          "type": "portal",
+          "label": {
+            "en": "DSSP Manaswini page",
+            "kn": "ಡಿಎಸ್‌ಎಸ್‌ಪಿ ಮನಸ್ವಿನಿ ಪುಟ"
+          },
+          "url": "https://dssp.karnataka.gov.in/dssp/Manaswini.aspx"
+        },
+        {
+          "type": "csc"
+        }
+      ],
+      "docs": [
+        {
+          "en": "BPL ration card or income certificate",
+          "kn": "ಬಿಪಿಎಲ್ ರೇಷನ್ ಕಾರ್ಡ್ ಅಥವಾ ಆದಾಯ ಪ್ರಮಾಣಪತ್ರ"
+        },
+        {
+          "en": "Voter or address proof",
+          "kn": "ಮತದಾರ ಅಥವಾ ವಿಳಾಸದ ಪ್ರಮಾಣ"
+        },
+        {
+          "en": "Age proof",
+          "kn": "ವಯಸ್ಸಿನ ಪ್ರಮಾಣ"
+        },
+        {
+          "en": "Self-declaration of unmarried status or divorce document",
+          "kn": "ಅವಿವಾಹಿತ ಸ್ಥಿತಿಯ ಸ್ವಯಂ-ಘೋಷಣೆ ಅಥವಾ ವಿಚ್ಛೇದನ ದಾಖಲೆ"
+        },
+        {
+          "en": "Bank or post-office account",
+          "kn": "ಬ್ಯಾಂಕ್ ಅಥವಾ ಅಂಚೆ ಕಚೇರಿ ಖಾತೆ"
+        },
+        {
+          "en": "Aadhaar card",
+          "kn": "ಆಧಾರ್ ಕಾರ್ಡ್"
+        }
+      ],
+      "route": null,
+      "criteria_note": null,
+      "rules": {
+        "eligibility": [
+          {
+            "id": "mn-e1",
+            "check": {
+              "op": "equals",
+              "field": "gender",
+              "value": "woman"
+            },
+            "on_fail": {
+              "status": "not_eligible",
+              "reason": {
+                "code": "reason.womenOnly"
+              }
+            }
+          },
+          {
+            "id": "mn-e2",
+            "check": {
+              "op": "in",
+              "field": "marital",
+              "values": [
+                "unmarried",
+                "divorced"
+              ]
+            },
+            "on_fail": {
+              "status": "not_eligible",
+              "reason": {
+                "code": "reason.notUnmarriedOrDivorced"
+              }
+            }
+          },
+          {
+            "id": "mn-e3",
+            "check": {
+              "op": "num_gte",
+              "field": "age",
+              "value": 40
+            },
+            "on_fail": {
+              "status": "not_eligible",
+              "reason": {
+                "code": "reason.ageUnder",
+                "params": {
+                  "min": "40"
+                }
+              }
+            }
+          },
+          {
+            "id": "mn-e4",
+            "check": {
+              "op": "num_lte",
+              "field": "age",
+              "value": 64
+            },
+            "on_fail": {
+              "status": "not_eligible",
+              "reason": {
+                "code": "reason.ageOver",
+                "params": {
+                  "max": "64"
+                }
+              }
+            }
+          },
+          {
+            "id": "mn-e5",
+            "check": {
+              "op": "income_lte",
+              "value": 32000
+            },
+            "on_fail": {
+              "status": "not_eligible",
+              "reason": {
+                "code": "reason.incomeAbove",
+                "params": {
+                  "limit": "₹32,000"
+                }
+              }
+            }
+          }
+        ],
+        "exclusions": [
+          {
+            "id": "mn-x1",
+            "check": {
+              "op": "equals",
+              "field": "otherpension",
+              "value": "yes"
+            },
+            "reason": {
+              "code": "reason.otherPension"
+            }
+          }
+        ],
+        "fixes": [
+          {
+            "id": "mn-f1",
+            "check": {
+              "op": "equals",
+              "field": "bank",
+              "value": "no"
+            },
+            "reason": {
+              "code": "reason.noAadhaarLinkedBank"
+            },
+            "fix_id": "bank-aadhaar-link"
+          },
+          {
+            "id": "mn-f2",
+            "check": {
+              "op": "equals",
+              "field": "aadhaar",
+              "value": "no"
+            },
+            "reason": {
+              "code": "reason.noAadhaar"
+            },
+            "fix_id": "get-aadhaar"
+          },
+          {
+            "id": "mn-f3",
+            "check": {
+              "op": "in",
+              "field": "income",
+              "values": [
+                "32k-2.5l"
+              ]
+            },
+            "reason": {
+              "code": "reason.incomeAbove",
+              "params": {
+                "limit": "₹32,000"
+              }
+            },
+            "fix_id": "income-certificate"
+          }
+        ],
+        "deep_check": [
+          {
+            "id": "mn-dc1",
+            "check": {
+              "op": "equals",
+              "field": "dc_aadhaar_name_match",
+              "value": "no"
+            },
+            "reason": {
+              "code": "reason.dcAadhaarNameMismatch"
+            },
+            "fix_id": "aadhaar-name-bank-mismatch"
+          },
+          {
+            "id": "mn-dc2",
+            "check": {
+              "op": "equals",
+              "field": "dc_aadhaar_bank_linked",
+              "value": "no"
+            },
+            "reason": {
+              "code": "reason.dcAadhaarNotLinkedBank"
+            },
+            "fix_id": "bank-aadhaar-link"
+          },
+          {
+            "id": "mn-dc3",
+            "check": {
+              "op": "equals",
+              "field": "dc_bank_active",
+              "value": "no"
+            },
+            "reason": {
+              "code": "reason.dcBankInactive"
+            },
+            "fix_id": "bank-account-activate"
+          },
+          {
+            "id": "mn-dc4",
+            "check": {
+              "op": "equals",
+              "field": "dc_docs_ready",
+              "value": "no"
+            },
+            "reason": {
+              "code": "reason.dcDocsNotReady"
+            },
+            "fix_id": "docs-ready"
+          }
+        ]
+      },
+      "confidence_note": "screening_only",
+      "last_verified": "2026-09-09",
+      "source_url": "https://dssp.karnataka.gov.in/dssp/Manaswini.aspx",
+      "source_note": {
+        "en": "Screening rules derived from the official Karnataka DSSP Manaswini page; BPL/income/status conditions are re-verified at application time.",
+        "kn": "ಅಧಿಕೃತ ಕರ್ನಾಟಕ ಡಿಎಸ್‌ಎಸ್‌ಪಿ ಮನಸ್ವಿನಿ ಪುಟದ ಆಧಾರದ ಮೇಲೆ ಪರಿಶೀಲನಾ ನಿಯಮಗಳನ್ನು ಸಿದ್ಧಪಡಿಸಲಾಗಿದೆ; ಬಿಪಿಎಲ್/ಆದಾಯ/ಸ್ಥಿತಿಯ ಷರತ್ತುಗಳನ್ನು ಅರ್ಜಿ ಸಮಯದಲ್ಲಿ ಮತ್ತೆ ಪರಿಶೀಲಿಸಲಾಗುತ್ತದೆ."
+      }
+    },
+    {
+      "id": "vidyasiri-bcwd",
+      "code": "VSB",
+      "name": {
+        "en": "Vidyasiri – Food & Accommodation (BCWD)",
+        "kn": "ವಿದ್ಯಾಸಿರಿ – ಆಹಾರ ಮತ್ತು ವಸತಿ (ಬಿಸಿಡಬ್ಲ್ಯುಡಿ)"
+      },
+      "summ": {
+        "en": "₹1,500 a month for food and accommodation for BC students",
+        "kn": "ಹಿಂದುಳಿದ ವರ್ಗದ ವಿದ್ಯಾರ್ಥಿಗಳಿಗೆ ಆಹಾರ ಮತ್ತು ವಸತಿಗಾಗಿ ಪ್ರತಿ ತಿಂಗಳು ₹1,500"
+      },
+      "department": {
+        "en": "Backward Classes Welfare (BCWD)",
+        "kn": "ಹಿಂದುಳಿದ ವರ್ಗಗಳ ಅಭಿವೃದ್ಧಿ ಇಲಾಖೆ (ಬಿಸಿಡಬ್ಲ್ಯುಡಿ)"
+      },
+      "benefit_type": "cash_transfer",
+      "jurisdiction": "karnataka",
+      "benefit": {
+        "en": "₹1,500 per month for 10 months towards food/accommodation for eligible Backward Classes post-matric students (per the current academic-year notification).",
+        "kn": "ಅರ್ಹ ಹಿಂದುಳಿದ ವರ್ಗದ ಮೆಟ್ರಿಕ್ ನಂತರದ ವಿದ್ಯಾರ್ಥಿಗಳಿಗೆ ಆಹಾರ/ವಸತಿಗಾಗಿ 10 ತಿಂಗಳು ಪ್ರತಿ ತಿಂಗಳು ₹1,500 (ಪ್ರಸ್ತುತ ಶೈಕ್ಷಣಿಕ ವರ್ಷದ ಅಧಿಸೂಚನೆಯ ಪ್ರಕಾರ)."
+      },
+      "amount": {
+        "en": "₹1,500 / month for 10 months (per notification)",
+        "kn": "10 ತಿಂಗಳು ಪ್ರತಿ ತಿಂಗಳು ₹1,500 (ಅಧಿಸೂಚನೆಯ ಪ್ರಕಾರ)"
+      },
+      "amount_inr": 1500,
+      "amount_period": "month",
+      "deadline": {
+        "en": "Ongoing",
+        "kn": "ನಿರಂತರ"
+      },
+      "eligibility_criteria": [
+        {
+          "en": "Karnataka resident from a BCWD-covered category",
+          "kn": "ಬಿಸಿಡಬ್ಲ್ಯುಡಿ ವ್ಯಾಪ್ತಿಯ ವರ್ಗದ ಕರ್ನಾಟಕದ ನಿವಾಸಿ"
+        },
+        {
+          "en": "Studying an eligible post-matric course",
+          "kn": "ಅರ್ಹ ಮೆಟ್ರಿಕ್ ನಂತರದ ಕೋರ್ಸ್ ಓದುತ್ತಿರುವ ವಿದ್ಯಾರ್ಥಿ"
+        },
+        {
+          "en": "Current income/category/institution/hostel conditions per the academic-year notification",
+          "kn": "ಶೈಕ್ಷಣಿಕ ವರ್ಷದ ಅಧಿಸೂಚನೆಯ ಪ್ರಕಾರ ಪ್ರಸ್ತುತ ಆದಾಯ/ವರ್ಗ/ಸಂಸ್ಥೆ/ವಸತಿ ಷರತ್ತುಗಳು"
+        }
+      ],
+      "application_steps": [
+        {
+          "en": "Apply during the current BCWD scholarship / Vidyasiri window on the BCWD portal.",
+          "kn": "ಬಿಸಿಡಬ್ಲ್ಯುಡಿ ಪೋರ್ಟಲ್‌ನಲ್ಲಿ ಪ್ರಸ್ತುತ ವಿದ್ಯಾರ್ಥಿವೇತನ / ವಿದ್ಯಾಸಿರಿ ಅವಧಿಯಲ್ಲಿ ಅರ್ಜಿ ಸಲ್ಲಿಸಿ."
+        },
+        {
+          "en": "Attach Aadhaar, category certificate, income certificate and institution details.",
+          "kn": "ಆಧಾರ್, ವರ್ಗ ಪ್ರಮಾಣಪತ್ರ, ಆದಾಯ ಪ್ರಮಾಣಪತ್ರ ಮತ್ತು ಸಂಸ್ಥೆಯ ವಿವರಗಳನ್ನು ಲಗತ್ತಿಸಿ."
+        },
+        {
+          "en": "Do not combine with a prohibited hostel/food benefit.",
+          "kn": "ನಿಷೇಧಿತ ವಸತಿ/ಆಹಾರ ಸವಲತ್ತಿನೊಂದಿಗೆ ಸೇರಿಸಿ ಪಡೆಯಬೇಡಿ."
+        }
+      ],
+      "channels": [
+        {
+          "type": "portal",
+          "label": {
+            "en": "BCWD portal",
+            "kn": "ಬಿಸಿಡಬ್ಲ್ಯುಡಿ ಪೋರ್ಟಲ್"
+          },
+          "url": "https://bcwd.karnataka.gov.in/"
+        },
+        {
+          "type": "csc"
+        }
+      ],
+      "docs": [
+        {
+          "en": "Aadhaar card",
+          "kn": "ಆಧಾರ್ ಕಾರ್ಡ್"
+        },
+        {
+          "en": "Category certificate",
+          "kn": "ವರ್ಗ ಪ್ರಮಾಣಪತ್ರ"
+        },
+        {
+          "en": "Income certificate",
+          "kn": "ಆದಾಯ ಪ್ರಮಾಣಪತ್ರ"
+        },
+        {
+          "en": "Residence proof",
+          "kn": "ನಿವಾಸದ ಪ್ರಮಾಣ"
+        },
+        {
+          "en": "Course and institution details",
+          "kn": "ಕೋರ್ಸ್ ಮತ್ತು ಸಂಸ್ಥೆಯ ವಿವರಗಳು"
+        },
+        {
+          "en": "Bank account",
+          "kn": "ಬ್ಯಾಂಕ್ ಖಾತೆ"
+        }
+      ],
+      "route": null,
+      "criteria_note": {
+        "en": "Amount and conditions follow the current academic-year notification — verify on the BCWD portal.",
+        "kn": "ಮೊತ್ತ ಮತ್ತು ಷರತ್ತುಗಳು ಪ್ರಸ್ತುತ ಶೈಕ್ಷಣಿಕ ವರ್ಷದ ಅಧಿಸೂಚನೆಯನ್ನು ಅನುಸರಿಸುತ್ತವೆ — ಬಿಸಿಡಬ್ಲ್ಯುಡಿ ಪೋರ್ಟಲ್‌ನಲ್ಲಿ ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಿ."
+      },
+      "rules": {
+        "eligibility": [
+          {
+            "id": "vs-e1",
+            "check": {
+              "op": "equals",
+              "field": "student",
+              "value": "yes"
+            },
+            "on_fail": {
+              "status": "not_eligible",
+              "reason": {
+                "code": "reason.notStudent"
+              }
+            }
+          },
+          {
+            "id": "vs-e2",
+            "check": {
+              "op": "in",
+              "field": "courseLevel",
+              "values": [
+                "postmatric-diploma",
+                "degree",
+                "postgraduate",
+                "professional"
+              ]
+            },
+            "on_fail": {
+              "status": "not_eligible",
+              "reason": {
+                "code": "reason.educationBelowPostMatric"
+              }
+            }
+          },
+          {
+            "id": "vs-e3",
+            "check": {
+              "op": "in",
+              "field": "category",
+              "values": [
+                "obc"
+              ]
+            },
+            "on_fail": {
+              "status": "not_eligible",
+              "reason": {
+                "code": "reason.categoryNotCovered"
+              }
+            }
+          },
+          {
+            "id": "vs-e4",
+            "check": {
+              "op": "income_lte",
+              "value": 250000
+            },
+            "on_fail": {
+              "status": "not_eligible",
+              "reason": {
+                "code": "reason.incomeAbove",
+                "params": {
+                  "limit": "₹2,50,000"
+                }
+              }
+            }
+          }
+        ],
+        "exclusions": [],
+        "fixes": [
+          {
+            "id": "vs-f0",
+            "check": {
+              "op": "in",
+              "field": "category",
+              "values": [
+                "general",
+                "sc",
+                "st",
+                "minority"
+              ]
+            },
+            "reason": {
+              "code": "reason.categoryNotCovered"
+            },
+            "fix_id": "category-certificate"
+          },
+          {
+            "id": "vs-f1",
+            "check": {
+              "op": "equals",
+              "field": "aadhaar",
+              "value": "no"
+            },
+            "reason": {
+              "code": "reason.noAadhaar"
+            },
+            "fix_id": "get-aadhaar"
+          },
+          {
+            "id": "vs-f2",
+            "check": {
+              "op": "equals",
+              "field": "bank",
+              "value": "no"
+            },
+            "reason": {
+              "code": "reason.noAadhaarLinkedBank"
+            },
+            "fix_id": "bank-aadhaar-link"
+          }
+        ],
+        "deep_check": [
+          {
+            "id": "vs-dc1",
+            "check": {
+              "op": "equals",
+              "field": "dc_aadhaar_name_match",
+              "value": "no"
+            },
+            "reason": {
+              "code": "reason.dcAadhaarNameMismatch"
+            },
+            "fix_id": "aadhaar-name-bank-mismatch"
+          },
+          {
+            "id": "vs-dc2",
+            "check": {
+              "op": "equals",
+              "field": "dc_aadhaar_bank_linked",
+              "value": "no"
+            },
+            "reason": {
+              "code": "reason.dcAadhaarNotLinkedBank"
+            },
+            "fix_id": "bank-aadhaar-link"
+          },
+          {
+            "id": "vs-dc3",
+            "check": {
+              "op": "equals",
+              "field": "dc_bank_active",
+              "value": "no"
+            },
+            "reason": {
+              "code": "reason.dcBankInactive"
+            },
+            "fix_id": "bank-account-activate"
+          },
+          {
+            "id": "vs-dc4",
+            "check": {
+              "op": "equals",
+              "field": "dc_docs_ready",
+              "value": "no"
+            },
+            "reason": {
+              "code": "reason.dcDocsNotReady"
+            },
+            "fix_id": "docs-ready"
+          }
+        ]
+      },
+      "confidence_note": "screening_only",
+      "last_verified": "2026-09-09",
+      "source_url": "https://bcwd.karnataka.gov.in/",
+      "source_note": {
+        "en": "Screening rules derived from BCWD 2026-27 notices and official Vidyasiri material; the current academic-year notification is authoritative and the record must not be merged with the Minority Welfare Vidyasiri programme.",
+        "kn": "ಬಿಸಿಡಬ್ಲ್ಯುಡಿ 2026-27 ಸೂಚನೆಗಳು ಮತ್ತು ಅಧಿಕೃತ ವಿದ್ಯಾಸಿರಿ ವಸ್ತು ಆಧಾರದ ಮೇಲೆ ಪರಿಶೀಲನಾ ನಿಯಮಗಳನ್ನು ಸಿದ್ಧಪಡಿಸಲಾಗಿದೆ; ಪ್ರಸ್ತುತ ಶೈಕ್ಷಣಿಕ ವರ್ಷದ ಅಧಿಸೂಚನೆಯೇ ಪ್ರಾಮಾಣಿಕ ಮೂಲ ಮತ್ತು ಈ ದಾಖಲೆಯನ್ನು ಅಲ್ಪಸಂಖ್ಯಾತರ ಕಲ್ಯಾಣ ಇಲಾಖೆಯ ವಿದ್ಯಾಸಿರಿಯೊಂದಿಗೆ ಸೇರಿಸಬಾರದು."
+      }
+    },
+    {
+      "id": "postmatric-sc",
+      "code": "PMS",
+      "name": {
+        "en": "Post-Matric Scholarship — SC (Social Welfare Department)",
+        "kn": "ಮೆಟ್ರಿಕ್ ನಂತರದ ವಿದ್ಯಾರ್ಥಿವೇತನ — ಪರಿಶಿಷ್ಟ ಜಾತಿ (ಸಮಾಜ ಕಲ್ಯಾಣ ಇಲಾಖೆ)"
+      },
+      "summ": {
+        "en": "Post-matric scholarship for SC students",
+        "kn": "ಪರಿಶಿಷ್ಟ ಜಾತಿಯ ವಿದ್ಯಾರ್ಥಿಗಳಿಗೆ ಮೆಟ್ರಿಕ್ ನಂತರದ ವಿದ್ಯಾರ್ಥಿವೇತನ"
+      },
+      "department": {
+        "en": "Social Welfare Department",
+        "kn": "ಸಮಾಜ ಕಲ್ಯಾಣ ಇಲಾಖೆ"
+      },
+      "benefit_type": "cash_transfer",
+      "jurisdiction": "karnataka",
+      "benefit": {
+        "en": "Tuition and maintenance scholarship for eligible post-matric students, per the department's current academic-year notification.",
+        "kn": "ಅರ್ಹ ಮೆಟ್ರಿಕ್ ನಂತರದ ವಿದ್ಯಾರ್ಥಿಗಳಿಗೆ ಶಾಲಾವೇತನ ಮತ್ತು ನಿರ್ವಹಣಾ ವಿದ್ಯಾರ್ಥಿವೇತನ, ಇಲಾಖೆಯ ಪ್ರಸ್ತುತ ಶೈಕ್ಷಣಿಕ ವರ್ಷದ ಅಧಿಸೂಚನೆಯ ಪ್ರಕಾರ."
+      },
+      "amount": {
+        "en": "Per the department's academic-year notification",
+        "kn": "ಇಲಾಖೆಯ ಶೈಕ್ಷಣಿಕ ವರ್ಷದ ಅಧಿಸೂಚನೆಯ ಪ್ರಕಾರ"
+      },
+      "amount_inr": null,
+      "amount_period": "",
+      "deadline": {
+        "en": "Ongoing",
+        "kn": "ನಿರಂತರ"
+      },
+      "eligibility_criteria": [
+        {
+          "en": "Karnataka resident student of the Scheduled Caste category",
+          "kn": "ಪರಿಶಿಷ್ಟ ಜಾತಿ ವರ್ಗದ ಕರ್ನಾಟಕದ ವಿದ್ಯಾರ್ಥಿ"
+        },
+        {
+          "en": "Eligible post-matric course at a recognised institution",
+          "kn": "ಮಾನ್ಯ ಸಂಸ್ಥೆಯಲ್ಲಿ ಅರ್ಹ ಮೆಟ್ರಿಕ್ ನಂತರದ ಕೋರ್ಸ್"
+        },
+        {
+          "en": "Income below the department's current limit (₹2,50,000 snapshot — verify the notification)",
+          "kn": "ಇಲಾಖೆಯ ಪ್ರಸ್ತುತ ಮಿತಿಗಿಂತ ಕಡಿಮೆ ಆದಾಯ (₹2,50,000 ತಾತ್ಕಾಲಿಕ ಮಾಹಿತಿ — ಅಧಿಸೂಚನೆಯನ್ನು ಪರಿಶೀಲಿಸಿ)"
+        }
+      ],
+      "application_steps": [
+        {
+          "en": "Create a record on the department's scholarship portal (State Scholarship Portal / department portal).",
+          "kn": "ಇಲಾಖೆಯ ವಿದ್ಯಾರ್ಥಿವೇತನ ಪೋರ್ಟಲ್‌ನಲ್ಲಿ (ರಾಜ್ಯ ವಿದ್ಯಾರ್ಥಿವೇತನ ಪೋರ್ಟಲ್ / ಇಲಾಖಾ ಪೋರ್ಟಲ್) ದಾಖಲೆ ಸೃಷ್ಟಿಸಿ."
+        },
+        {
+          "en": "Attach Aadhaar, category/minority certificate, income certificate and institution details.",
+          "kn": "ಆಧಾರ್, ವರ್ಗ/ಅಲ್ಪಸಂಖ್ಯಾತ ಪ್ರಮಾಣಪತ್ರ, ಆದಾಯ ಪ್ರಮಾಣಪತ್ರ ಮತ್ತು ಸಂಸ್ಥೆಯ ವಿವರಗಳನ್ನು ಲಗತ್ತಿಸಿ."
+        },
+        {
+          "en": "Institution verifies enrolment; scholarship is credited after sanction.",
+          "kn": "ಸಂಸ್ಥೆ ಪ್ರವೇಶವನ್ನು ದೃಢೀಕರಿಸುತ್ತದೆ; ಅನುಮೋಚನೆಯ ನಂತರ ವಿದ್ಯಾರ್ಥಿವೇತನ ಜಮೆ ಆಗುತ್ತದೆ."
+        }
+      ],
+      "channels": [
+        {
+          "type": "portal",
+          "label": {
+            "en": "Seva Sindhu",
+            "kn": "ಸೇವಾ ಸಿಂಧು"
+          },
+          "url": "https://sevasindhu.karnataka.gov.in/"
+        },
+        {
+          "type": "csc"
+        }
+      ],
+      "docs": [
+        {
+          "en": "Aadhaar card",
+          "kn": "ಆಧಾರ್ ಕಾರ್ಡ್"
+        },
+        {
+          "en": "Category certificate",
+          "kn": "ವರ್ಗ ಪ್ರಮಾಣಪತ್ರ"
+        },
+        {
+          "en": "Income certificate",
+          "kn": "ಆದಾಯ ಪ್ರಮಾಣಪತ್ರ"
+        },
+        {
+          "en": "Course and institution details",
+          "kn": "ಕೋರ್ಸ್ ಮತ್ತು ಸಂಸ್ಥೆಯ ವಿವರಗಳು"
+        },
+        {
+          "en": "Bank account",
+          "kn": "ಬ್ಯಾಂಕ್ ಖಾತೆ"
+        }
+      ],
+      "route": {
+        "group": "postmatric",
+        "value": "sc"
+      },
+      "criteria_note": {
+        "en": "Income limits, benefits and conditions differ by department and academic-year notification — the State Scholarship Portal lists each department's current rules.",
+        "kn": "ಆದಾಯ ಮಿತಿಗಳು, ಸವಲತ್ತುಗಳು ಮತ್ತು ಷರತ್ತುಗಳು ಇಲಾಖೆ ಮತ್ತು ಶೈಕ್ಷಣಿಕ ವರ್ಷದ ಅಧಿಸೂಚನೆಯಿಂದ ಬದಲಾಗುತ್ತವೆ — ಪ್ರತಿ ಇಲಾಖೆಯ ಪ್ರಸ್ತುತ ನಿಯಮಗಳನ್ನು ರಾಜ್ಯ ವಿದ್ಯಾರ್ಥಿವೇತನ ಪೋರ್ಟಲ್ ಪಟ್ಟಿಮಾಡುತ್ತದೆ."
+      },
+      "rules": {
+        "eligibility": [
+          {
+            "id": "ps-e1",
+            "check": {
+              "op": "equals",
+              "field": "student",
+              "value": "yes"
+            },
+            "on_fail": {
+              "status": "not_eligible",
+              "reason": {
+                "code": "reason.notStudent"
+              }
+            }
+          },
+          {
+            "id": "ps-e2",
+            "check": {
+              "op": "in",
+              "field": "courseLevel",
+              "values": [
+                "postmatric-diploma",
+                "degree",
+                "postgraduate",
+                "professional"
+              ]
+            },
+            "on_fail": {
+              "status": "not_eligible",
+              "reason": {
+                "code": "reason.educationBelowPostMatric"
+              }
+            }
+          },
+          {
+            "id": "ps-e3",
+            "check": {
+              "op": "income_lte",
+              "value": 250000
+            },
+            "on_fail": {
+              "status": "not_eligible",
+              "reason": {
+                "code": "reason.incomeAbove",
+                "params": {
+                  "limit": "₹2,50,000"
+                }
+              }
+            }
+          }
+        ],
+        "exclusions": [],
+        "fixes": [
+          {
+            "id": "ps-f1",
+            "check": {
+              "op": "in",
+              "field": "category",
+              "values": [
+                "general",
+                "st",
+                "obc",
+                "minority"
+              ]
+            },
+            "reason": {
+              "code": "reason.categoryNotCovered"
+            },
+            "fix_id": "category-certificate"
+          },
+          {
+            "id": "ps-f2",
+            "check": {
+              "op": "equals",
+              "field": "aadhaar",
+              "value": "no"
+            },
+            "reason": {
+              "code": "reason.noAadhaar"
+            },
+            "fix_id": "get-aadhaar"
+          },
+          {
+            "id": "ps-f3",
+            "check": {
+              "op": "equals",
+              "field": "bank",
+              "value": "no"
+            },
+            "reason": {
+              "code": "reason.noAadhaarLinkedBank"
+            },
+            "fix_id": "bank-aadhaar-link"
+          }
+        ],
+        "deep_check": [
+          {
+            "id": "ps-dc1",
+            "check": {
+              "op": "equals",
+              "field": "dc_aadhaar_name_match",
+              "value": "no"
+            },
+            "reason": {
+              "code": "reason.dcAadhaarNameMismatch"
+            },
+            "fix_id": "aadhaar-name-bank-mismatch"
+          },
+          {
+            "id": "ps-dc2",
+            "check": {
+              "op": "equals",
+              "field": "dc_aadhaar_bank_linked",
+              "value": "no"
+            },
+            "reason": {
+              "code": "reason.dcAadhaarNotLinkedBank"
+            },
+            "fix_id": "bank-aadhaar-link"
+          },
+          {
+            "id": "ps-dc3",
+            "check": {
+              "op": "equals",
+              "field": "dc_bank_active",
+              "value": "no"
+            },
+            "reason": {
+              "code": "reason.dcBankInactive"
+            },
+            "fix_id": "bank-account-activate"
+          },
+          {
+            "id": "ps-dc4",
+            "check": {
+              "op": "equals",
+              "field": "dc_docs_ready",
+              "value": "no"
+            },
+            "reason": {
+              "code": "reason.dcDocsNotReady"
+            },
+            "fix_id": "docs-ready"
+          }
+        ]
+      },
+      "confidence_note": "screening_only",
+      "last_verified": "2026-09-09",
+      "source_url": "https://sevasindhu.karnataka.gov.in/",
+      "source_note": {
+        "en": "Screening rules derived from current BCWD/State Scholarship Portal notices for the post-matric scholarship family; the Social Welfare Department's current academic-year notification is authoritative. The channel points to Seva Sindhu because the department-specific scholarship portal URL could not be verified from the research guide.",
+        "kn": "ಮೆಟ್ರಿಕ್ ನಂತರದ ವಿದ್ಯಾರ್ಥಿವೇತನ ಕುಟುಂಬಕ್ಕಾಗಿ ಪ್ರಸ್ತುತ ಬಿಸಿಡಬ್ಲ್ಯುಡಿ/ರಾಜ್ಯ ವಿದ್ಯಾರ್ಥಿವೇತನ ಪೋರ್ಟಲ್ ಸೂಚನೆಗಳ ಆಧಾರದ ಮೇಲೆ ಪರಿಶೀಲನಾ ನಿಯಮಗಳನ್ನು ಸಿದ್ಧಪಡಿಸಲಾಗಿದೆ; ಸಮಾಜ ಕಲ್ಯಾಣ ಇಲಾಖೆಯ ಪ್ರಸ್ತುತ ಶೈಕ್ಷಣಿಕ ವರ್ಷದ ಅಧಿಸೂಚನೆಯೇ ಪ್ರಾಮಾಣಿಕ ಮೂಲ. ಇಲಾಖಾ ವಿಶಿಷ್ಟ ವಿದ್ಯಾರ್ಥಿವೇತನ ಪೋರ್ಟಲ್ ವಿಳಾಸವನ್ನು ಸಂಶೋಧನಾ ಗ್ರಂಥದಿಂದ ದೃಢಪಡಿಸಲು ಸಾಧ್ಯವಾಗದೇ ಚಾನೆಲ್ ಸೇವಾ ಸಿಂಧುವನ್ನು ಸೂಚಿಸುತ್ತದೆ."
+      }
+    },
+    {
+      "id": "postmatric-obc-bcwd",
+      "code": "PMA",
+      "name": {
+        "en": "Post-Matric Scholarship — OBC/Backward Classes (BCWD)",
+        "kn": "ಮೆಟ್ರಿಕ್ ನಂತರದ ವಿದ್ಯಾರ್ಥಿವೇತನ — ಇತರ ಹಿಂದುಳಿದ ವರ್ಗ (ಬಿಸಿಡಬ್ಲ್ಯುಡಿ)"
+      },
+      "summ": {
+        "en": "Post-matric scholarship for Backward Class students",
+        "kn": "ಹಿಂದುಳಿದ ವರ್ಗದ ವಿದ್ಯಾರ್ಥಿಗಳಿಗೆ ಮೆಟ್ರಿಕ್ ನಂತರದ ವಿದ್ಯಾರ್ಥಿವೇತನ"
+      },
+      "department": {
+        "en": "Backward Classes Welfare Department (BCWD)",
+        "kn": "ಹಿಂದುಳಿದ ವರ್ಗಗಳ ಅಭಿವೃದ್ಧಿ ಇಲಾಖೆ (ಬಿಸಿಡಬ್ಲ್ಯುಡಿ)"
+      },
+      "benefit_type": "cash_transfer",
+      "jurisdiction": "karnataka",
+      "benefit": {
+        "en": "Tuition and maintenance scholarship for eligible post-matric students, per the department's current academic-year notification.",
+        "kn": "ಅರ್ಹ ಮೆಟ್ರಿಕ್ ನಂತರದ ವಿದ್ಯಾರ್ಥಿಗಳಿಗೆ ಶಾಲಾವೇತನ ಮತ್ತು ನಿರ್ವಹಣಾ ವಿದ್ಯಾರ್ಥಿವೇತನ, ಇಲಾಖೆಯ ಪ್ರಸ್ತುತ ಶೈಕ್ಷಣಿಕ ವರ್ಷದ ಅಧಿಸೂಚನೆಯ ಪ್ರಕಾರ."
+      },
+      "amount": {
+        "en": "Per the department's academic-year notification",
+        "kn": "ಇಲಾಖೆಯ ಶೈಕ್ಷಣಿಕ ವರ್ಷದ ಅಧಿಸೂಚನೆಯ ಪ್ರಕಾರ"
+      },
+      "amount_inr": null,
+      "amount_period": "",
+      "deadline": {
+        "en": "Ongoing",
+        "kn": "ನಿರಂತರ"
+      },
+      "eligibility_criteria": [
+        {
+          "en": "Karnataka resident student of the Backward Classes category covered by BCWD",
+          "kn": "ಬಿಸಿಡಬ್ಲ್ಯುಡಿ ವ್ಯಾಪ್ತಿಯ ಹಿಂದುಳಿದ ವರ್ಗದ ಕರ್ನಾಟಕದ ವಿದ್ಯಾರ್ಥಿ"
+        },
+        {
+          "en": "Eligible post-matric course at a recognised institution",
+          "kn": "ಮಾನ್ಯ ಸಂಸ್ಥೆಯಲ್ಲಿ ಅರ್ಹ ಮೆಟ್ರಿಕ್ ನಂತರದ ಕೋರ್ಸ್"
+        },
+        {
+          "en": "Income below the department's current limit (₹2,50,000 snapshot — verify the notification)",
+          "kn": "ಇಲಾಖೆಯ ಪ್ರಸ್ತುತ ಮಿತಿಗಿಂತ ಕಡಿಮೆ ಆದಾಯ (₹2,50,000 ತಾತ್ಕಾಲಿಕ ಮಾಹಿತಿ — ಅಧಿಸೂಚನೆಯನ್ನು ಪರಿಶೀಲಿಸಿ)"
+        }
+      ],
+      "application_steps": [
+        {
+          "en": "Create a record on the department's scholarship portal (State Scholarship Portal / department portal).",
+          "kn": "ಇಲಾಖೆಯ ವಿದ್ಯಾರ್ಥಿವೇತನ ಪೋರ್ಟಲ್‌ನಲ್ಲಿ (ರಾಜ್ಯ ವಿದ್ಯಾರ್ಥಿವೇತನ ಪೋರ್ಟಲ್ / ಇಲಾಖಾ ಪೋರ್ಟಲ್) ದಾಖಲೆ ಸೃಷ್ಟಿಸಿ."
+        },
+        {
+          "en": "Attach Aadhaar, category/minority certificate, income certificate and institution details.",
+          "kn": "ಆಧಾರ್, ವರ್ಗ/ಅಲ್ಪಸಂಖ್ಯಾತ ಪ್ರಮಾಣಪತ್ರ, ಆದಾಯ ಪ್ರಮಾಣಪತ್ರ ಮತ್ತು ಸಂಸ್ಥೆಯ ವಿವರಗಳನ್ನು ಲಗತ್ತಿಸಿ."
+        },
+        {
+          "en": "Institution verifies enrolment; scholarship is credited after sanction.",
+          "kn": "ಸಂಸ್ಥೆ ಪ್ರವೇಶವನ್ನು ದೃಢೀಕರಿಸುತ್ತದೆ; ಅನುಮೋಚನೆಯ ನಂತರ ವಿದ್ಯಾರ್ಥಿವೇತನ ಜಮೆ ಆಗುತ್ತದೆ."
+        }
+      ],
+      "channels": [
+        {
+          "type": "portal",
+          "label": {
+            "en": "BCWD portal",
+            "kn": "ಬಿಸಿಡಬ್ಲ್ಯುಡಿ ಪೋರ್ಟಲ್"
+          },
+          "url": "https://bcwd.karnataka.gov.in/"
+        },
+        {
+          "type": "csc"
+        }
+      ],
+      "docs": [
+        {
+          "en": "Aadhaar card",
+          "kn": "ಆಧಾರ್ ಕಾರ್ಡ್"
+        },
+        {
+          "en": "Category certificate",
+          "kn": "ವರ್ಗ ಪ್ರಮಾಣಪತ್ರ"
+        },
+        {
+          "en": "Income certificate",
+          "kn": "ಆದಾಯ ಪ್ರಮಾಣಪತ್ರ"
+        },
+        {
+          "en": "Course and institution details",
+          "kn": "ಕೋರ್ಸ್ ಮತ್ತು ಸಂಸ್ಥೆಯ ವಿವರಗಳು"
+        },
+        {
+          "en": "Bank account",
+          "kn": "ಬ್ಯಾಂಕ್ ಖಾತೆ"
+        }
+      ],
+      "route": {
+        "group": "postmatric",
+        "value": "obc"
+      },
+      "criteria_note": {
+        "en": "Income limits, benefits and conditions differ by department and academic-year notification — the State Scholarship Portal lists each department's current rules.",
+        "kn": "ಆದಾಯ ಮಿತಿಗಳು, ಸವಲತ್ತುಗಳು ಮತ್ತು ಷರತ್ತುಗಳು ಇಲಾಖೆ ಮತ್ತು ಶೈಕ್ಷಣಿಕ ವರ್ಷದ ಅಧಿಸೂಚನೆಯಿಂದ ಬದಲಾಗುತ್ತವೆ — ಪ್ರತಿ ಇಲಾಖೆಯ ಪ್ರಸ್ತುತ ನಿಯಮಗಳನ್ನು ರಾಜ್ಯ ವಿದ್ಯಾರ್ಥಿವೇತನ ಪೋರ್ಟಲ್ ಪಟ್ಟಿಮಾಡುತ್ತದೆ."
+      },
+      "rules": {
+        "eligibility": [
+          {
+            "id": "pma-e1",
+            "check": {
+              "op": "equals",
+              "field": "student",
+              "value": "yes"
+            },
+            "on_fail": {
+              "status": "not_eligible",
+              "reason": {
+                "code": "reason.notStudent"
+              }
+            }
+          },
+          {
+            "id": "pma-e2",
+            "check": {
+              "op": "in",
+              "field": "courseLevel",
+              "values": [
+                "postmatric-diploma",
+                "degree",
+                "postgraduate",
+                "professional"
+              ]
+            },
+            "on_fail": {
+              "status": "not_eligible",
+              "reason": {
+                "code": "reason.educationBelowPostMatric"
+              }
+            }
+          },
+          {
+            "id": "pma-e3",
+            "check": {
+              "op": "income_lte",
+              "value": 250000
+            },
+            "on_fail": {
+              "status": "not_eligible",
+              "reason": {
+                "code": "reason.incomeAbove",
+                "params": {
+                  "limit": "₹2,50,000"
+                }
+              }
+            }
+          }
+        ],
+        "exclusions": [],
+        "fixes": [
+          {
+            "id": "pma-f1",
+            "check": {
+              "op": "in",
+              "field": "category",
+              "values": [
+                "general",
+                "sc",
+                "st",
+                "minority"
+              ]
+            },
+            "reason": {
+              "code": "reason.categoryNotCovered"
+            },
+            "fix_id": "category-certificate"
+          },
+          {
+            "id": "pma-f2",
+            "check": {
+              "op": "equals",
+              "field": "aadhaar",
+              "value": "no"
+            },
+            "reason": {
+              "code": "reason.noAadhaar"
+            },
+            "fix_id": "get-aadhaar"
+          },
+          {
+            "id": "pma-f3",
+            "check": {
+              "op": "equals",
+              "field": "bank",
+              "value": "no"
+            },
+            "reason": {
+              "code": "reason.noAadhaarLinkedBank"
+            },
+            "fix_id": "bank-aadhaar-link"
+          }
+        ],
+        "deep_check": [
+          {
+            "id": "pma-dc1",
+            "check": {
+              "op": "equals",
+              "field": "dc_aadhaar_name_match",
+              "value": "no"
+            },
+            "reason": {
+              "code": "reason.dcAadhaarNameMismatch"
+            },
+            "fix_id": "aadhaar-name-bank-mismatch"
+          },
+          {
+            "id": "pma-dc2",
+            "check": {
+              "op": "equals",
+              "field": "dc_aadhaar_bank_linked",
+              "value": "no"
+            },
+            "reason": {
+              "code": "reason.dcAadhaarNotLinkedBank"
+            },
+            "fix_id": "bank-aadhaar-link"
+          },
+          {
+            "id": "pma-dc3",
+            "check": {
+              "op": "equals",
+              "field": "dc_bank_active",
+              "value": "no"
+            },
+            "reason": {
+              "code": "reason.dcBankInactive"
+            },
+            "fix_id": "bank-account-activate"
+          },
+          {
+            "id": "pma-dc4",
+            "check": {
+              "op": "equals",
+              "field": "dc_docs_ready",
+              "value": "no"
+            },
+            "reason": {
+              "code": "reason.dcDocsNotReady"
+            },
+            "fix_id": "docs-ready"
+          }
+        ]
+      },
+      "confidence_note": "screening_only",
+      "last_verified": "2026-09-09",
+      "source_url": "https://bcwd.karnataka.gov.in/",
+      "source_note": {
+        "en": "Screening rules derived from current BCWD 2026-27 scholarship notices; the BCWD academic-year notification is authoritative and this record is separate from Vidyasiri and the Minority Welfare programme.",
+        "kn": "ಪ್ರಸ್ತುತ ಬಿಸಿಡಬ್ಲ್ಯುಡಿ 2026-27 ನೇ ಸಾಲಿನ ವಿದ್ಯಾರ್ಥಿವೇತನ ಸೂಚನೆಗಳ ಆಧಾರದ ಮೇಲೆ ಪರಿಶೀಲನಾ ನಿಯಮಗಳನ್ನು ಸಿದ್ಧಪಡಿಸಲಾಗಿದೆ; ಬಿಸಿಡಬ್ಲ್ಯುಡಿ ಶೈಕ್ಷಣಿಕ ವರ್ಷದ ಅಧಿಸೂಚನೆಯೇ ಪ್ರಾಮಾಣಿಕ ಮೂಲ ಮತ್ತು ಈ ದಾಖಲೆ ವಿದ್ಯಾಸಿರಿ ಮತ್ತು ಅಲ್ಪಸಂಖ್ಯಾತರ ಕಲ್ಯಾಣ ಕಾರ್ಯಕ್ರಮದಿಂದ ಪ್ರತ್ಯೇಕವಾಗಿದೆ."
+      }
+    },
+    {
+      "id": "postmatric-minority",
+      "code": "PMN",
+      "name": {
+        "en": "Post-Matric Scholarship — Minority (Minority Welfare Department)",
+        "kn": "ಮೆಟ್ರಿಕ್ ನಂತರದ ವಿದ್ಯಾರ್ಥಿವೇತನ — ಅಲ್ಪಸಂಖ್ಯಾತ (ಅಲ್ಪಸಂಖ್ಯಾತರ ಕಲ್ಯಾಣ ಇಲಾಖೆ)"
+      },
+      "summ": {
+        "en": "Post-matric scholarship for minority students",
+        "kn": "ಅಲ್ಪಸಂಖ್ಯಾತ ವಿದ್ಯಾರ್ಥಿಗಳಿಗೆ ಮೆಟ್ರಿಕ್ ನಂತರದ ವಿದ್ಯಾರ್ಥಿವೇತನ"
+      },
+      "department": {
+        "en": "Minority Welfare Department",
+        "kn": "ಅಲ್ಪಸಂಖ್ಯಾತರ ಕಲ್ಯಾಣ ಇಲಾಖೆ"
+      },
+      "benefit_type": "cash_transfer",
+      "jurisdiction": "karnataka",
+      "benefit": {
+        "en": "Tuition and maintenance scholarship for eligible post-matric students, per the department's current academic-year notification.",
+        "kn": "ಅರ್ಹ ಮೆಟ್ರಿಕ್ ನಂತರದ ವಿದ್ಯಾರ್ಥಿಗಳಿಗೆ ಶಾಲಾವೇತನ ಮತ್ತು ನಿರ್ವಹಣಾ ವಿದ್ಯಾರ್ಥಿವೇತನ, ಇಲಾಖೆಯ ಪ್ರಸ್ತುತ ಶೈಕ್ಷಣಿಕ ವರ್ಷದ ಅಧಿಸೂಚನೆಯ ಪ್ರಕಾರ."
+      },
+      "amount": {
+        "en": "Per the department's academic-year notification",
+        "kn": "ಇಲಾಖೆಯ ಶೈಕ್ಷಣಿಕ ವರ್ಷದ ಅಧಿಸೂಚನೆಯ ಪ್ರಕಾರ"
+      },
+      "amount_inr": null,
+      "amount_period": "",
+      "deadline": {
+        "en": "Ongoing",
+        "kn": "ನಿರಂತರ"
+      },
+      "eligibility_criteria": [
+        {
+          "en": "Karnataka resident student of a notified religious minority",
+          "kn": "ನೋಂದಾಯಿಸಿದ (ಘೋಷಿತ) ಧಾರ್ಮಿಕ ಅಲ್ಪಸಂಖ್ಯಾತ ವರ್ಗದ ಕರ್ನಾಟಕದ ವಿದ್ಯಾರ್ಥಿ"
+        },
+        {
+          "en": "Eligible post-matric course at a recognised institution",
+          "kn": "ಮಾನ್ಯ ಸಂಸ್ಥೆಯಲ್ಲಿ ಅರ್ಹ ಮೆಟ್ರಿಕ್ ನಂತರದ ಕೋರ್ಸ್"
+        },
+        {
+          "en": "Income below the department's current limit (₹2,50,000 snapshot — verify the notification)",
+          "kn": "ಇಲಾಖೆಯ ಪ್ರಸ್ತುತ ಮಿತಿಗಿಂತ ಕಡಿಮೆ ಆದಾಯ (₹2,50,000 ತಾತ್ಕಾಲಿಕ ಮಾಹಿತಿ — ಅಧಿಸೂಚನೆಯನ್ನು ಪರಿಶೀಲಿಸಿ)"
+        }
+      ],
+      "application_steps": [
+        {
+          "en": "Create a record on the department's scholarship portal (State Scholarship Portal / department portal).",
+          "kn": "ಇಲಾಖೆಯ ವಿದ್ಯಾರ್ಥಿವೇತನ ಪೋರ್ಟಲ್‌ನಲ್ಲಿ (ರಾಜ್ಯ ವಿದ್ಯಾರ್ಥಿವೇತನ ಪೋರ್ಟಲ್ / ಇಲಾಖಾ ಪೋರ್ಟಲ್) ದಾಖಲೆ ಸೃಷ್ಟಿಸಿ."
+        },
+        {
+          "en": "Attach Aadhaar, category/minority certificate, income certificate and institution details.",
+          "kn": "ಆಧಾರ್, ವರ್ಗ/ಅಲ್ಪಸಂಖ್ಯಾತ ಪ್ರಮಾಣಪತ್ರ, ಆದಾಯ ಪ್ರಮಾಣಪತ್ರ ಮತ್ತು ಸಂಸ್ಥೆಯ ವಿವರಗಳನ್ನು ಲಗತ್ತಿಸಿ."
+        },
+        {
+          "en": "Institution verifies enrolment; scholarship is credited after sanction.",
+          "kn": "ಸಂಸ್ಥೆ ಪ್ರವೇಶವನ್ನು ದೃಢೀಕರಿಸುತ್ತದೆ; ಅನುಮೋಚನೆಯ ನಂತರ ವಿದ್ಯಾರ್ಥಿವೇತನ ಜಮೆ ಆಗುತ್ತದೆ."
+        }
+      ],
+      "channels": [
+        {
+          "type": "portal",
+          "label": {
+            "en": "Seva Sindhu",
+            "kn": "ಸೇವಾ ಸಿಂಧು"
+          },
+          "url": "https://sevasindhu.karnataka.gov.in/"
+        },
+        {
+          "type": "csc"
+        }
+      ],
+      "docs": [
+        {
+          "en": "Aadhaar card",
+          "kn": "ಆಧಾರ್ ಕಾರ್ಡ್"
+        },
+        {
+          "en": "Minority certificate",
+          "kn": "ಅಲ್ಪಸಂಖ್ಯಾತ ಪ್ರಮಾಣಪತ್ರ"
+        },
+        {
+          "en": "Income certificate",
+          "kn": "ಆದಾಯ ಪ್ರಮಾಣಪತ್ರ"
+        },
+        {
+          "en": "Course and institution details",
+          "kn": "ಕೋರ್ಸ್ ಮತ್ತು ಸಂಸ್ಥೆಯ ವಿವರಗಳು"
+        },
+        {
+          "en": "Bank account",
+          "kn": "ಬ್ಯಾಂಕ್ ಖಾತೆ"
+        }
+      ],
+      "route": {
+        "group": "postmatric",
+        "value": "minority"
+      },
+      "criteria_note": {
+        "en": "Income limits, benefits and conditions differ by department and academic-year notification — the State Scholarship Portal lists each department's current rules.",
+        "kn": "ಆದಾಯ ಮಿತಿಗಳು, ಸವಲತ್ತುಗಳು ಮತ್ತು ಷರತ್ತುಗಳು ಇಲಾಖೆ ಮತ್ತು ಶೈಕ್ಷಣಿಕ ವರ್ಷದ ಅಧಿಸೂಚನೆಯಿಂದ ಬದಲಾಗುತ್ತವೆ — ಪ್ರತಿ ಇಲಾಖೆಯ ಪ್ರಸ್ತುತ ನಿಯಮಗಳನ್ನು ರಾಜ್ಯ ವಿದ್ಯಾರ್ಥಿವೇತನ ಪೋರ್ಟಲ್ ಪಟ್ಟಿಮಾಡುತ್ತದೆ."
+      },
+      "rules": {
+        "eligibility": [
+          {
+            "id": "pmn-e1",
+            "check": {
+              "op": "equals",
+              "field": "student",
+              "value": "yes"
+            },
+            "on_fail": {
+              "status": "not_eligible",
+              "reason": {
+                "code": "reason.notStudent"
+              }
+            }
+          },
+          {
+            "id": "pmn-e2",
+            "check": {
+              "op": "in",
+              "field": "courseLevel",
+              "values": [
+                "postmatric-diploma",
+                "degree",
+                "postgraduate",
+                "professional"
+              ]
+            },
+            "on_fail": {
+              "status": "not_eligible",
+              "reason": {
+                "code": "reason.educationBelowPostMatric"
+              }
+            }
+          },
+          {
+            "id": "pmn-e3",
+            "check": {
+              "op": "income_lte",
+              "value": 250000
+            },
+            "on_fail": {
+              "status": "not_eligible",
+              "reason": {
+                "code": "reason.incomeAbove",
+                "params": {
+                  "limit": "₹2,50,000"
+                }
+              }
+            }
+          }
+        ],
+        "exclusions": [],
+        "fixes": [
+          {
+            "id": "pmn-f1",
+            "check": {
+              "op": "in",
+              "field": "category",
+              "values": [
+                "general",
+                "sc",
+                "st",
+                "obc"
+              ]
+            },
+            "reason": {
+              "code": "reason.categoryNotCovered"
+            },
+            "fix_id": "category-certificate"
+          },
+          {
+            "id": "pmn-f2",
+            "check": {
+              "op": "equals",
+              "field": "aadhaar",
+              "value": "no"
+            },
+            "reason": {
+              "code": "reason.noAadhaar"
+            },
+            "fix_id": "get-aadhaar"
+          },
+          {
+            "id": "pmn-f3",
+            "check": {
+              "op": "equals",
+              "field": "bank",
+              "value": "no"
+            },
+            "reason": {
+              "code": "reason.noAadhaarLinkedBank"
+            },
+            "fix_id": "bank-aadhaar-link"
+          }
+        ],
+        "deep_check": [
+          {
+            "id": "pmn-dc1",
+            "check": {
+              "op": "equals",
+              "field": "dc_aadhaar_name_match",
+              "value": "no"
+            },
+            "reason": {
+              "code": "reason.dcAadhaarNameMismatch"
+            },
+            "fix_id": "aadhaar-name-bank-mismatch"
+          },
+          {
+            "id": "pmn-dc2",
+            "check": {
+              "op": "equals",
+              "field": "dc_aadhaar_bank_linked",
+              "value": "no"
+            },
+            "reason": {
+              "code": "reason.dcAadhaarNotLinkedBank"
+            },
+            "fix_id": "bank-aadhaar-link"
+          },
+          {
+            "id": "pmn-dc3",
+            "check": {
+              "op": "equals",
+              "field": "dc_bank_active",
+              "value": "no"
+            },
+            "reason": {
+              "code": "reason.dcBankInactive"
+            },
+            "fix_id": "bank-account-activate"
+          },
+          {
+            "id": "pmn-dc4",
+            "check": {
+              "op": "equals",
+              "field": "dc_docs_ready",
+              "value": "no"
+            },
+            "reason": {
+              "code": "reason.dcDocsNotReady"
+            },
+            "fix_id": "docs-ready"
+          }
+        ]
+      },
+      "confidence_note": "screening_only",
+      "last_verified": "2026-09-09",
+      "source_url": "https://sevasindhu.karnataka.gov.in/",
+      "source_note": {
+        "en": "Screening rules derived from current Karnataka post-matric scholarship notices; the Minority Welfare Department's current academic-year notification is authoritative. The channel points to Seva Sindhu because the department-specific scholarship portal URL could not be verified from the research guide.",
+        "kn": "ಕರ್ನಾಟಕದ ಮೆಟ್ರಿಕ್ ನಂತರದ ವಿದ್ಯಾರ್ಥಿವೇತನ ಸೂಚನೆಗಳ ಆಧಾರದ ಮೇಲೆ ಪರಿಶೀಲನಾ ನಿಯಮಗಳನ್ನು ಸಿದ್ಧಪಡಿಸಲಾಗಿದೆ; ಅಲ್ಪಸಂಖ್ಯಾತರ ಕಲ್ಯಾಣ ಇಲಾಖೆಯ ಪ್ರಸ್ತುತ ಶೈಕ್ಷಣಿಕ ವರ್ಷದ ಅಧಿಸೂಚನೆಯೇ ಪ್ರಾಮಾಣಿಕ ಮೂಲ. ಇಲಾಖಾ ವಿಶಿಷ್ಟ ಪೋರ್ಟಲ್ ವಿಳಾಸವನ್ನು ಸಂಶೋಧನಾ ಗ್ರಂಥದಿಂದ ದೃಢಪಡಿಸಲು ಸಾಧ್ಯವಾಗದೇ ಚಾನೆಲ್ ಸೇವಾ ಸಿಂಧುವನ್ನು ಸೂಚಿಸುತ್ತದೆ."
+      }
+    },
+    {
+      "id": "postmatric-tribal",
+      "code": "PMT",
+      "name": {
+        "en": "Post-Matric Scholarship — ST (Tribal Welfare Department)",
+        "kn": "ಮೆಟ್ರಿಕ್ ನಂತರದ ವಿದ್ಯಾರ್ಥಿವೇತನ — ಪರಿಶಿಷ್ಟ ಪಂಗಡ (ಪಂಗಡಗಳ ಅಭಿವೃದ್ಧಿ ಇಲಾಖೆ)"
+      },
+      "summ": {
+        "en": "Post-matric scholarship for Scheduled Tribe students",
+        "kn": "ಪರಿಶಿಷ್ಟ ಪಂಗಡದ ವಿದ್ಯಾರ್ಥಿಗಳಿಗೆ ಮೆಟ್ರಿಕ್ ನಂತರದ ವಿದ್ಯಾರ್ಥಿವೇತನ"
+      },
+      "department": {
+        "en": "Tribal Welfare Department",
+        "kn": "ಪಂಗಡಗಳ ಅಭಿವೃದ್ಧಿ ಇಲಾಖೆ"
+      },
+      "benefit_type": "cash_transfer",
+      "jurisdiction": "karnataka",
+      "benefit": {
+        "en": "Tuition and maintenance scholarship for eligible post-matric students, per the department's current academic-year notification.",
+        "kn": "ಅರ್ಹ ಮೆಟ್ರಿಕ್ ನಂತರದ ವಿದ್ಯಾರ್ಥಿಗಳಿಗೆ ಶಾಲಾವೇತನ ಮತ್ತು ನಿರ್ವಹಣಾ ವಿದ್ಯಾರ್ಥಿವೇತನ, ಇಲಾಖೆಯ ಪ್ರಸ್ತುತ ಶೈಕ್ಷಣಿಕ ವರ್ಷದ ಅಧಿಸೂಚನೆಯ ಪ್ರಕಾರ."
+      },
+      "amount": {
+        "en": "Per the department's academic-year notification",
+        "kn": "ಇಲಾಖೆಯ ಶೈಕ್ಷಣಿಕ ವರ್ಷದ ಅಧಿಸೂಚನೆಯ ಪ್ರಕಾರ"
+      },
+      "amount_inr": null,
+      "amount_period": "",
+      "deadline": {
+        "en": "Ongoing",
+        "kn": "ನಿರಂತರ"
+      },
+      "eligibility_criteria": [
+        {
+          "en": "Karnataka resident student of the Scheduled Tribe category",
+          "kn": "ಪರಿಶಿಷ್ಟ ಪಂಗಡ ವರ್ಗದ ಕರ್ನಾಟಕದ ವಿದ್ಯಾರ್ಥಿ"
+        },
+        {
+          "en": "Eligible post-matric course at a recognised institution",
+          "kn": "ಮಾನ್ಯ ಸಂಸ್ಥೆಯಲ್ಲಿ ಅರ್ಹ ಮೆಟ್ರಿಕ್ ನಂತರದ ಕೋರ್ಸ್"
+        },
+        {
+          "en": "Income below the department's current limit (₹2,50,000 snapshot — verify the notification)",
+          "kn": "ಇಲಾಖೆಯ ಪ್ರಸ್ತುತ ಮಿತಿಗಿಂತ ಕಡಿಮೆ ಆದಾಯ (₹2,50,000 ತಾತ್ಕಾಲಿಕ ಮಾಹಿತಿ — ಅಧಿಸೂಚನೆಯನ್ನು ಪರಿಶೀಲಿಸಿ)"
+        }
+      ],
+      "application_steps": [
+        {
+          "en": "Create a record on the department's scholarship portal (State Scholarship Portal / department portal).",
+          "kn": "ಇಲಾಖೆಯ ವಿದ್ಯಾರ್ಥಿವೇತನ ಪೋರ್ಟಲ್‌ನಲ್ಲಿ (ರಾಜ್ಯ ವಿದ್ಯಾರ್ಥಿವೇತನ ಪೋರ್ಟಲ್ / ಇಲಾಖಾ ಪೋರ್ಟಲ್) ದಾಖಲೆ ಸೃಷ್ಟಿಸಿ."
+        },
+        {
+          "en": "Attach Aadhaar, category/minority certificate, income certificate and institution details.",
+          "kn": "ಆಧಾರ್, ವರ್ಗ/ಅಲ್ಪಸಂಖ್ಯಾತ ಪ್ರಮಾಣಪತ್ರ, ಆದಾಯ ಪ್ರಮಾಣಪತ್ರ ಮತ್ತು ಸಂಸ್ಥೆಯ ವಿವರಗಳನ್ನು ಲಗತ್ತಿಸಿ."
+        },
+        {
+          "en": "Institution verifies enrolment; scholarship is credited after sanction.",
+          "kn": "ಸಂಸ್ಥೆ ಪ್ರವೇಶವನ್ನು ದೃಢೀಕರಿಸುತ್ತದೆ; ಅನುಮೋಚನೆಯ ನಂತರ ವಿದ್ಯಾರ್ಥಿವೇತನ ಜಮೆ ಆಗುತ್ತದೆ."
+        }
+      ],
+      "channels": [
+        {
+          "type": "portal",
+          "label": {
+            "en": "Seva Sindhu",
+            "kn": "ಸೇವಾ ಸಿಂಧು"
+          },
+          "url": "https://sevasindhu.karnataka.gov.in/"
+        },
+        {
+          "type": "csc"
+        }
+      ],
+      "docs": [
+        {
+          "en": "Aadhaar card",
+          "kn": "ಆಧಾರ್ ಕಾರ್ಡ್"
+        },
+        {
+          "en": "Category certificate",
+          "kn": "ವರ್ಗ ಪ್ರಮಾಣಪತ್ರ"
+        },
+        {
+          "en": "Income certificate",
+          "kn": "ಆದಾಯ ಪ್ರಮಾಣಪತ್ರ"
+        },
+        {
+          "en": "Course and institution details",
+          "kn": "ಕೋರ್ಸ್ ಮತ್ತು ಸಂಸ್ಥೆಯ ವಿವರಗಳು"
+        },
+        {
+          "en": "Bank account",
+          "kn": "ಬ್ಯಾಂಕ್ ಖಾತೆ"
+        }
+      ],
+      "route": {
+        "group": "postmatric",
+        "value": "st"
+      },
+      "criteria_note": {
+        "en": "Income limits, benefits and conditions differ by department and academic-year notification — the State Scholarship Portal lists each department's current rules.",
+        "kn": "ಆದಾಯ ಮಿತಿಗಳು, ಸವಲತ್ತುಗಳು ಮತ್ತು ಷರತ್ತುಗಳು ಇಲಾಖೆ ಮತ್ತು ಶೈಕ್ಷಣಿಕ ವರ್ಷದ ಅಧಿಸೂಚನೆಯಿಂದ ಬದಲಾಗುತ್ತವೆ — ಪ್ರತಿ ಇಲಾಖೆಯ ಪ್ರಸ್ತುತ ನಿಯಮಗಳನ್ನು ರಾಜ್ಯ ವಿದ್ಯಾರ್ಥಿವೇತನ ಪೋರ್ಟಲ್ ಪಟ್ಟಿಮಾಡುತ್ತದೆ."
+      },
+      "rules": {
+        "eligibility": [
+          {
+            "id": "pmt-e1",
+            "check": {
+              "op": "equals",
+              "field": "student",
+              "value": "yes"
+            },
+            "on_fail": {
+              "status": "not_eligible",
+              "reason": {
+                "code": "reason.notStudent"
+              }
+            }
+          },
+          {
+            "id": "pmt-e2",
+            "check": {
+              "op": "in",
+              "field": "courseLevel",
+              "values": [
+                "postmatric-diploma",
+                "degree",
+                "postgraduate",
+                "professional"
+              ]
+            },
+            "on_fail": {
+              "status": "not_eligible",
+              "reason": {
+                "code": "reason.educationBelowPostMatric"
+              }
+            }
+          },
+          {
+            "id": "pmt-e3",
+            "check": {
+              "op": "income_lte",
+              "value": 250000
+            },
+            "on_fail": {
+              "status": "not_eligible",
+              "reason": {
+                "code": "reason.incomeAbove",
+                "params": {
+                  "limit": "₹2,50,000"
+                }
+              }
+            }
+          }
+        ],
+        "exclusions": [],
+        "fixes": [
+          {
+            "id": "pmt-f1",
+            "check": {
+              "op": "in",
+              "field": "category",
+              "values": [
+                "general",
+                "sc",
+                "obc",
+                "minority"
+              ]
+            },
+            "reason": {
+              "code": "reason.categoryNotCovered"
+            },
+            "fix_id": "category-certificate"
+          },
+          {
+            "id": "pmt-f2",
+            "check": {
+              "op": "equals",
+              "field": "aadhaar",
+              "value": "no"
+            },
+            "reason": {
+              "code": "reason.noAadhaar"
+            },
+            "fix_id": "get-aadhaar"
+          },
+          {
+            "id": "pmt-f3",
+            "check": {
+              "op": "equals",
+              "field": "bank",
+              "value": "no"
+            },
+            "reason": {
+              "code": "reason.noAadhaarLinkedBank"
+            },
+            "fix_id": "bank-aadhaar-link"
+          }
+        ],
+        "deep_check": [
+          {
+            "id": "pmt-dc1",
+            "check": {
+              "op": "equals",
+              "field": "dc_aadhaar_name_match",
+              "value": "no"
+            },
+            "reason": {
+              "code": "reason.dcAadhaarNameMismatch"
+            },
+            "fix_id": "aadhaar-name-bank-mismatch"
+          },
+          {
+            "id": "pmt-dc2",
+            "check": {
+              "op": "equals",
+              "field": "dc_aadhaar_bank_linked",
+              "value": "no"
+            },
+            "reason": {
+              "code": "reason.dcAadhaarNotLinkedBank"
+            },
+            "fix_id": "bank-aadhaar-link"
+          },
+          {
+            "id": "pmt-dc3",
+            "check": {
+              "op": "equals",
+              "field": "dc_bank_active",
+              "value": "no"
+            },
+            "reason": {
+              "code": "reason.dcBankInactive"
+            },
+            "fix_id": "bank-account-activate"
+          },
+          {
+            "id": "pmt-dc4",
+            "check": {
+              "op": "equals",
+              "field": "dc_docs_ready",
+              "value": "no"
+            },
+            "reason": {
+              "code": "reason.dcDocsNotReady"
+            },
+            "fix_id": "docs-ready"
+          }
+        ]
+      },
+      "confidence_note": "screening_only",
+      "last_verified": "2026-09-09",
+      "source_url": "https://sevasindhu.karnataka.gov.in/",
+      "source_note": {
+        "en": "Screening rules derived from current Karnataka post-matric scholarship notices; the Tribal Welfare Department's current academic-year notification is authoritative. The channel points to Seva Sindhu because the department-specific scholarship portal URL could not be verified from the research guide.",
+        "kn": "ಕರ್ನಾಟಕದ ಮೆಟ್ರಿಕ್ ನಂತರದ ವಿದ್ಯಾರ್ಥಿವೇತನ ಸೂಚನೆಗಳ ಆಧಾರದ ಮೇಲೆ ಪರಿಶೀಲನಾ ನಿಯಮಗಳನ್ನು ಸಿದ್ಧಪಡಿಸಲಾಗಿದೆ; ಪಂಗಡಗಳ ಅಭಿವೃದ್ಧಿ ಇಲಾಖೆಯ ಪ್ರಸ್ತುತ ಶೈಕ್ಷಣಿಕ ವರ್ಷದ ಅಧಿಸೂಚನೆಯೇ ಪ್ರಾಮಾಣಿಕ ಮೂಲ. ಇಲಾಖಾ ವಿಶಿಷ್ಟ ಪೋರ್ಟಲ್ ವಿಳಾಸವನ್ನು ಸಂಶೋಧನಾ ಗ್ರಂಥದಿಂದ ದೃಢಪಡಿಸಲು ಸಾಧ್ಯವಾಗದೇ ಚಾನೆಲ್ ಸೇವಾ ಸಿಂಧುವನ್ನು ಸೂಚಿಸುತ್ತದೆ."
+      }
+    },
+    {
+      "id": "krishi-bhagya",
+      "code": "KRB",
+      "name": {
+        "en": "Krishi Bhagya",
+        "kn": "ಕೃಷಿ ಭಾಗ್ಯ"
+      },
+      "summ": {
+        "en": "Subsidy for farm ponds, pumps, pipes and drip irrigation in rain-fed land",
+        "kn": "ಮಳೆಯಾಧಾರಿತ ಭೂಮಿಗೆ ಕೃಷಿ ಕೆರೆ, ಪಂಪ್, ಕೊಳವೆ ಮತ್ತು ಹನಿ ನೀರಾವರಿಗೆ ಸಬ್ಸಿಡಿ"
+      },
+      "department": {
+        "en": "Agriculture",
+        "kn": "ಕೃಷಿ ಇಲಾಖೆ"
+      },
+      "benefit_type": "subsidy",
+      "jurisdiction": "karnataka",
+      "benefit": {
+        "en": "Component-specific subsidy for farm ponds, field bunds, pump sets, pipes and drip systems on rain-fed farms, per the current notification.",
+        "kn": "ಮಳೆಯಾಧಾರಿತ ಜಮೀನುಗಳಲ್ಲಿ ಕೃಷಿ ಕೆರೆ, ಗದ್ದೆ ಬೇಲು/ಬಂಡೆ, ಪಂಪ್ ಸೆಟ್, ಕೊಳವೆ ಮತ್ತು ಹನಿ ನೀರಾವರಿ ವ್ಯವಸ್ಥೆಗಳಿಗೆ ಘಟಕಾಧಾರಿತ ಸಬ್ಸಿಡಿ, ಪ್ರಸ್ತುತ ಅಧಿಸೂಚನೆಯ ಪ್ರಕಾರ."
+      },
+      "amount": {
+        "en": "Component-specific subsidy (per notification)",
+        "kn": "ಘಟಕಾಧಾರಿತ ಸಬ್ಸಿಡಿ (ಅಧಿಸೂಚನೆಯ ಪ್ರಕಾರ)"
+      },
+      "amount_inr": null,
+      "amount_period": "",
+      "deadline": {
+        "en": "Ongoing",
+        "kn": "ನಿರಂತರ"
+      },
+      "eligibility_criteria": [
+        {
+          "en": "Eligible farmer with rain-fed agricultural land",
+          "kn": "ಮಳೆಯಾಧಾರಿತ ಕೃಷಿ ಭೂಮಿ ಹೊಂದಿರುವ ಅರ್ಹ ರೈತ"
+        },
+        {
+          "en": "Farm and proposed component must fall under the current Agriculture Department notification",
+          "kn": "ಜಮೀನು ಮತ್ತು ಪ್ರಸ್ತಾಪಿತ ಘಟಕ ಪ್ರಸ್ತುತ ಕೃಷಿ ಇಲಾಖೆಯ ಅಧಿಸೂಚನೆಯ ವ್ಯಾಪ್ತಿಯಲ್ಲಿರಬೇಕು"
+        },
+        {
+          "en": "Subject to available district/taluk allocation",
+          "kn": "ಲಭ್ಯ ಜಿಲ್ಲೆ/ತಾಲೂಕು ನಿಯೋಜನೆಗೆ ಒಳಪಟ್ಟಿರುತ್ತದೆ"
+        }
+      ],
+      "application_steps": [
+        {
+          "en": "Visit your Raita Samparka Kendra (RSK) or apply on the department portal.",
+          "kn": "ನಿಮ್ಮ ರೈತ ಸಂಪರ್ಕ ಕೇಂದ್ರಕ್ಕೆ (ಆರ್‌ಎಸ್‌ಕೆ) ಭೇಟಿ ನೀಡಿ ಅಥವಾ ಇಲಾಖೆ ಪೋರ್ಟಲ್‌ನಲ್ಲಿ ಅರ್ಜಿ ಸಲ್ಲಿಸಿ."
+        },
+        {
+          "en": "Verify the current 2026-27 component and submit land, survey and quotation details.",
+          "kn": "ಪ್ರಸ್ತುತ 2026-27 ನೇ ಸಾಲಿನ ಘಟಕವನ್ನು ಖಚಿತಪಡಿಸಿ, ಭೂಮಿ, ಸರ್ವೆ ಮತ್ತು ಉಲ್ಲೇಖ ದರದ ವಿವರಗಳನ್ನು ಸಲ್ಲಿಸಿ."
+        },
+        {
+          "en": "Complete field verification, execute the approved asset, then inspection and bill verification.",
+          "kn": "ಕ್ಷೇತ್ರ ಪರಿಶೀಲನೆ ಪೂರ್ಣಗೊಳಿಸಿ, ಅಂಗೀಕೃತ ಆಸ್ತಿಯನ್ನು ಸ್ಥಾಪಿಸಿ, ನಂತರ ತಪಾಸಣೆ ಮತ್ತು ಬಿಲ್ ಪರಿಶೀಲನೆ ಮಾಡಿಸಿ."
+        }
+      ],
+      "channels": [
+        {
+          "type": "portal",
+          "label": {
+            "en": "Raitamitra",
+            "kn": "ರೈತಮಿತ್ರ"
+          },
+          "url": "https://raitamitra.karnataka.gov.in/52/krishi-bhagya-scheme/en"
+        },
+        {
+          "type": "csc"
+        }
+      ],
+      "docs": [
+        {
+          "en": "Aadhaar card",
+          "kn": "ಆಧಾರ್ ಕಾರ್ಡ್"
+        },
+        {
+          "en": "Land or possession records",
+          "kn": "ಭೂಮಿ ಅಥವಾ ಸ್ವಾಧೀನದ ದಾಖಲೆಗಳು"
+        },
+        {
+          "en": "Bank passbook",
+          "kn": "ಬ್ಯಾಂಕ್ ಪಾಸ್‌ಬುಕ್"
+        },
+        {
+          "en": "Farmer registration ID",
+          "kn": "ರೈತ ನೋಂದಣಿ ಐಡಿ"
+        },
+        {
+          "en": "Land survey details",
+          "kn": "ಭೂಮಿಯ ಸರ್ವೆ ವಿವರಗಳು"
+        },
+        {
+          "en": "Project quotation",
+          "kn": "ಯೋಜನೆಯ ಉಲ್ಲೇಖ ದರ"
+        }
+      ],
+      "route": null,
+      "criteria_note": {
+        "en": "Components, subsidy percentages and ceilings are set by the current notification and vary by taluk allocation — confirm at your Raita Samparka Kendra.",
+        "kn": "ಘಟಕಗಳು, ಸಬ್ಸಿಡಿ ಶೇಕಡಾ ಮತ್ತು ಮಿತಿಗಳನ್ನು ಪ್ರಸ್ತುತ ಅಧಿಸೂಚನೆ ನಿಗದಿಪಡಿಸುತ್ತದೆ ಮತ್ತು ತಾಲೂಕು ನಿಯೋಜನೆಯಿಂದ ಬದಲಾಗುತ್ತವೆ — ನಿಮ್ಮ ರೈತ ಸಂಪರ್ಕ ಕೇಂದ್ರದಲ್ಲಿ ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಿ."
+      },
+      "rules": {
+        "eligibility": [
+          {
+            "id": "kb-e1",
+            "check": {
+              "op": "in",
+              "field": "land",
+              "values": [
+                "lt1acre",
+                "1to5",
+                "gt5"
+              ]
+            },
+            "on_fail": {
+              "status": "not_eligible",
+              "reason": {
+                "code": "reason.noLand"
+              }
+            }
+          },
+          {
+            "id": "kb-e2",
+            "check": {
+              "op": "equals",
+              "field": "farmer",
+              "value": "yes"
+            },
+            "on_fail": {
+              "status": "not_eligible",
+              "reason": {
+                "code": "reason.notFarmer"
+              }
+            }
+          }
+        ],
+        "exclusions": [],
+        "fixes": [
+          {
+            "id": "kb-f1",
+            "check": {
+              "op": "equals",
+              "field": "aadhaar",
+              "value": "no"
+            },
+            "reason": {
+              "code": "reason.noAadhaar"
+            },
+            "fix_id": "get-aadhaar"
+          },
+          {
+            "id": "kb-f2",
+            "check": {
+              "op": "equals",
+              "field": "bank",
+              "value": "no"
+            },
+            "reason": {
+              "code": "reason.noAadhaarLinkedBank"
+            },
+            "fix_id": "bank-aadhaar-link"
+          }
+        ],
+        "deep_check": [
+          {
+            "id": "kb-dc1",
+            "check": {
+              "op": "equals",
+              "field": "dc_aadhaar_name_match",
+              "value": "no"
+            },
+            "reason": {
+              "code": "reason.dcAadhaarNameMismatch"
+            },
+            "fix_id": "aadhaar-name-bank-mismatch"
+          },
+          {
+            "id": "kb-dc2",
+            "check": {
+              "op": "equals",
+              "field": "dc_aadhaar_bank_linked",
+              "value": "no"
+            },
+            "reason": {
+              "code": "reason.dcAadhaarNotLinkedBank"
+            },
+            "fix_id": "bank-aadhaar-link"
+          },
+          {
+            "id": "kb-dc3",
+            "check": {
+              "op": "equals",
+              "field": "dc_bank_active",
+              "value": "no"
+            },
+            "reason": {
+              "code": "reason.dcBankInactive"
+            },
+            "fix_id": "bank-account-activate"
+          },
+          {
+            "id": "kb-dc4",
+            "check": {
+              "op": "equals",
+              "field": "dc_docs_ready",
+              "value": "no"
+            },
+            "reason": {
+              "code": "reason.dcDocsNotReady"
+            },
+            "fix_id": "docs-ready"
+          }
+        ]
+      },
+      "confidence_note": "screening_only",
+      "last_verified": "2026-09-09",
+      "source_url": "https://raitamitra.karnataka.gov.in/52/krishi-bhagya-scheme/en",
+      "source_note": {
+        "en": "Screening rules derived from the Karnataka Agriculture Department Raitamitra page including 2026-era circulars; older hard-coded 1-acre/subsidy-percentage figures are intentionally not used.",
+        "kn": "2026 ರ ಪರಿಪತ್ರಗಳು ಸೇರಿದಂತೆ ಕರ್ನಾಟಕ ಕೃಷಿ ಇಲಾಖೆಯ ರೈತಮಿತ್ರ ಪುಟದ ಆಧಾರದ ಮೇಲೆ ಪರಿಶೀಲನಾ ನಿಯಮಗಳನ್ನು ಸಿದ್ಧಪಡಿಸಲಾಗಿದೆ; ಹಳೆಯ, ಗಟ್ಟಿ-ಬರೆದ 1 ಎಕರೆ/ಸಬ್ಸಿಡಿ ಶೇಕಡಾ ಮೌಲ್ಯಗಳನ್ನು ಉದ್ದೇಶಪೂರ್ವಕವಾಗಿ ಬಳಸಲಾಗಿಲ್ಲ."
+      }
+    },
+    {
+      "id": "swavalambi-adcl",
+      "code": "ADC",
+      "name": {
+        "en": "Swavalambi Sarathi — ADCL",
+        "kn": "ಸ್ವಾವಲಂಬಿ ಸಾರಥಿ — ಎಡಿಸಿಎಲ್"
+      },
+      "summ": {
+        "en": "Up to ₹4 lakh subsidy for self-employment vehicles/units for ST youth and women",
+        "kn": "ಪರಿಶಿಷ್ಟ ಪಂಗಡದ ಯುವಕರು ಮತ್ತು ಮಹಿಳೆಯರ ಸ್ವಯಂ ಉದ್ಯೋಗ ವಾಹನ/ಘಟಕಗಳಿಗೆ ₹4 ಲಕ್ಷದವರೆಗೆ ಸಬ್ಸಿಡಿ"
+      },
+      "department": {
+        "en": "Dr. B.R. Ambedkar Development Corporation",
+        "kn": "ಡಾ. ಬಿ.ಆರ್. ಅಂಬೇಡ್ಕರ್ ಅಭಿವೃದ್ಧಿ ನಿಗಮ"
+      },
+      "benefit_type": "subsidy",
+      "jurisdiction": "karnataka",
+      "benefit": {
+        "en": "70% of unit cost or a maximum of ₹4 lakh for eligible Scheduled Tribe youth/women for specified vehicles/units, subject to current rules.",
+        "kn": "ಅರ್ಹ ಪರಿಶಿಷ್ಟ ಪಂಗಡದ ಯುವಕರು/ಮಹಿಳೆಯರಿಗೆ ನಿಗದಿಪಡಿಸಿದ ವಾಹನ/ಘಟಕಗಳಿಗೆ ಘಟಕ ವೆಚ್ಚದ 70% ಅಥವಾ ಗರಿಷ್ಠ ₹4 ಲಕ್ಷ, ಪ್ರಸ್ತುತ ನಿಯಮಗಳಿಗೆ ಒಳಪಟ್ಟಿದೆ."
+      },
+      "amount": {
+        "en": "70% up to ₹4,00,000",
+        "kn": "70% ದವರೆಗೆ ₹4,00,000"
+      },
+      "amount_inr": null,
+      "amount_period": "",
+      "deadline": {
+        "en": "Ongoing",
+        "kn": "ನಿರಂತರ"
+      },
+      "eligibility_criteria": [
+        {
+          "en": "Scheduled Tribe target group specified by the corporation",
+          "kn": "ನಿಗಮ ನಿರ್ದಿಷ್ಟಪಡಿಸಿರುವ ಪರಿಶಿಷ್ಟ ಪಂಗಡದ ಉದ್ದೇಶಿತ ಗುಂಪು"
+        },
+        {
+          "en": "Karnataka residence; age and income conditions per the current notification",
+          "kn": "ಕರ್ನಾಟಕದ ನಿವಾಸ; ಪ್ರಸ್ತುತ ಅಧಿಸೂಚನೆಯ ಪ್ರಕಾರ ವಯಸ್ಸು ಮತ್ತು ಆದಾಯದ ಷರತ್ತುಗಳು"
+        },
+        {
+          "en": "Driving licence and loan/vehicle conditions where required",
+          "kn": "ಅಗತ್ಯವಿರುವಲ್ಲಿ ಚಾಲನಾ ಪರವಾನಗಿ ಮತ್ತು ಸಾಲ/ವಾಹನದ ಷರತ್ತುಗಳು"
+        }
+      ],
+      "application_steps": [
+        {
+          "en": "Apply through the Dr. B.R. Ambedkar Development Corporation's current application/notification.",
+          "kn": "ಡಾ. ಬಿ.ಆರ್. ಅಂಬೇಡ್ಕರ್ ಅಭಿವೃದ್ಧಿ ನಿಗಮದ ಪ್ರಸ್ತುತ ಅರ್ಜಿ/ಅಧಿಸೂಚನೆಯ ಮೂಲಕ ಅರ್ಜಿ ಸಲ್ಲಿಸಿ."
+        },
+        {
+          "en": "Attach Aadhaar, ST certificate, income proof, driving licence and vehicle/unit quotation.",
+          "kn": "ಆಧಾರ್, ಎಸ್‌ಟಿ ಪ್ರಮಾಣಪತ್ರ, ಆದಾಯ ಪ್ರಮಾಣ, ಚಾಲನಾ ಪರವಾನಗಿ ಮತ್ತು ವಾಹನ/ಘಟಕದ ಉಲ್ಲೇಖ ದರವನ್ನು ಲಗತ್ತಿಸಿ."
+        },
+        {
+          "en": "Complete income, licence and unit verification; subsidy is released against the sanctioned loan.",
+          "kn": "ಆದಾಯ, ಪರವಾನಗಿ ಮತ್ತು ಘಟಕದ ಪರಿಶೀಲನೆ ಪೂರ್ಣಗೊಳಿಸಿ; ಅಂಗೀಕೃತ ಸಾಲದ ವಿರುದ್ಧ ಸಬ್ಸಿಡಿ ಬಿಡುಗಡೆಯಾಗುತ್ತದೆ."
+        }
+      ],
+      "channels": [
+        {
+          "type": "portal",
+          "label": {
+            "en": "ADCL portal",
+            "kn": "ಎಡಿಸಿಎಲ್ ಪೋರ್ಟಲ್"
+          },
+          "url": "https://adcl.karnataka.gov.in/"
+        },
+        {
+          "type": "csc"
+        }
+      ],
+      "docs": [
+        {
+          "en": "Aadhaar card",
+          "kn": "ಆಧಾರ್ ಕಾರ್ಡ್"
+        },
+        {
+          "en": "Scheduled Tribe certificate",
+          "kn": "ಪರಿಶಿಷ್ಟ ಪಂಗಡ ಪ್ರಮಾಣಪತ್ರ"
+        },
+        {
+          "en": "Income certificate",
+          "kn": "ಆದಾಯ ಪ್ರಮಾಣಪತ್ರ"
+        },
+        {
+          "en": "Valid driving licence",
+          "kn": "ಮಾನ್ಯ ಚಾಲನಾ ಪರವಾನಗಿ"
+        },
+        {
+          "en": "Bank passbook",
+          "kn": "ಬ್ಯಾಂಕ್ ಪಾಸ್‌ಬುಕ್"
+        },
+        {
+          "en": "Vehicle or unit quotation",
+          "kn": "ವಾಹನ ಅಥವಾ ಘಟಕದ ಉಲ್ಲೇಖ ದರ"
+        },
+        {
+          "en": "Self-declaration of no prior benefit",
+          "kn": "ನಕಲು-ಸವಕಳಿ ಇಲ್ಲದ ಸ್ವಯಂ-ಘೋಷಣೆ"
+        }
+      ],
+      "route": {
+        "group": "vehicle",
+        "value": "st"
+      },
+      "criteria_note": null,
+      "rules": {
+        "eligibility": [
+          {
+            "id": "ad-e1",
+            "check": {
+              "op": "in",
+              "field": "category",
+              "values": [
+                "st"
+              ]
+            },
+            "on_fail": {
+              "status": "not_eligible",
+              "reason": {
+                "code": "reason.categoryNotCovered"
+              }
+            }
+          },
+          {
+            "id": "ad-e2",
+            "check": {
+              "op": "num_gte",
+              "field": "age",
+              "value": 18
+            },
+            "on_fail": {
+              "status": "not_eligible",
+              "reason": {
+                "code": "reason.ageUnder",
+                "params": {
+                  "min": "18"
+                }
+              }
+            }
+          },
+          {
+            "id": "ad-e3",
+            "check": {
+              "op": "income_lte",
+              "value": 600000
+            },
+            "on_fail": {
+              "status": "not_eligible",
+              "reason": {
+                "code": "reason.incomeAbove",
+                "params": {
+                  "limit": "₹6,00,000"
+                }
+              }
+            }
+          },
+          {
+            "id": "ad-e4",
+            "check": {
+              "op": "equals",
+              "field": "drivinglicence",
+              "value": "no"
+            },
+            "on_fail": {
+              "status": "blocked",
+              "reason": {
+                "code": "reason.noLicence"
+              },
+              "fix_id": "driving-licence"
+            }
+          }
+        ],
+        "exclusions": [
+          {
+            "id": "ad-x1",
+            "check": {
+              "op": "equals",
+              "field": "tax",
+              "value": "yes"
+            },
+            "reason": {
+              "code": "reason.incomeTaxPayer"
+            }
+          },
+          {
+            "id": "ad-x2",
+            "check": {
+              "op": "equals",
+              "field": "otherpension",
+              "value": "yes"
+            },
+            "reason": {
+              "code": "reason.otherPension"
+            }
+          }
+        ],
+        "fixes": [
+          {
+            "id": "ad-f1",
+            "check": {
+              "op": "equals",
+              "field": "aadhaar",
+              "value": "no"
+            },
+            "reason": {
+              "code": "reason.noAadhaar"
+            },
+            "fix_id": "get-aadhaar"
+          },
+          {
+            "id": "ad-f2",
+            "check": {
+              "op": "equals",
+              "field": "bank",
+              "value": "no"
+            },
+            "reason": {
+              "code": "reason.noAadhaarLinkedBank"
+            },
+            "fix_id": "bank-aadhaar-link"
+          }
+        ],
+        "deep_check": [
+          {
+            "id": "ad-dc1",
+            "check": {
+              "op": "equals",
+              "field": "dc_aadhaar_name_match",
+              "value": "no"
+            },
+            "reason": {
+              "code": "reason.dcAadhaarNameMismatch"
+            },
+            "fix_id": "aadhaar-name-bank-mismatch"
+          },
+          {
+            "id": "ad-dc2",
+            "check": {
+              "op": "equals",
+              "field": "dc_aadhaar_bank_linked",
+              "value": "no"
+            },
+            "reason": {
+              "code": "reason.dcAadhaarNotLinkedBank"
+            },
+            "fix_id": "bank-aadhaar-link"
+          },
+          {
+            "id": "ad-dc3",
+            "check": {
+              "op": "equals",
+              "field": "dc_bank_active",
+              "value": "no"
+            },
+            "reason": {
+              "code": "reason.dcBankInactive"
+            },
+            "fix_id": "bank-account-activate"
+          },
+          {
+            "id": "ad-dc4",
+            "check": {
+              "op": "equals",
+              "field": "dc_docs_ready",
+              "value": "no"
+            },
+            "reason": {
+              "code": "reason.dcDocsNotReady"
+            },
+            "fix_id": "docs-ready"
+          }
+        ]
+      },
+      "confidence_note": "screening_only",
+      "last_verified": "2026-09-09",
+      "source_url": "https://adcl.karnataka.gov.in/",
+      "source_note": {
+        "en": "Screening proxy: the exclusion ad-x2 treats an existing monthly pension as a stand-in for the corporation's 'no disqualifying prior benefit' rule; the official exclusion list must be re-checked at application time. Rules derived from the official Dr. B.R. Ambedkar Development Corporation material; Minority/OBC Swavalambi rules are not applied to this record.",
+        "kn": "ಪರಿಶೀಲನಾ ಪ್ರತಿನಿಧಿ: ಎಡಿ-ಎಕ್ಸ್2 ಹೊರಗಿಡುವಿನಲ್ಲಿ ಈಗಾಗಲೇ ಇರುವ ಮಾಸಿಕ ಪೆನ್ಷನ್ ಅನ್ನು ನಿಗಮದ 'ಅನರ್ಹ ಹಿಂದಿನ ಸಾಲ/ಸವಲತ್ತು ಇಲ್ಲ' ನಿಯಮಕ್ಕೆ ಬದಲಿ ಎಂದು ಪರಿಗಣಿಸಲಾಗಿದೆ; ಅಧಿಕೃತ ಹೊರಗಿಡುವಿನ ಪಟ್ಟಿಯನ್ನು ಅರ್ಜಿ ಸಮಯದಲ್ಲಿ ಮತ್ತೆ ಪರಿಶೀಲಿಸಬೇಕು. ಡಾ. ಬಿ.ಆರ್. ಅಂಬೇಡ್ಕರ್ ಅಭಿವೃದ್ಧಿ ನಿಗಮದ ಅಧಿಕೃತ ವಸ್ತು ಆಧಾರದ ಮೇಲೆ ನಿಯಮಗಳನ್ನು ಸಿದ್ಧಪಡಿಸಲಾಗಿದೆ; ಅಲ್ಪಸಂಖ್ಯಾತ/ಒಬಿಸಿ ನಿಯಮಗಳನ್ನು ಈ ದಾಖಲೆಗೆ ಅನ್ವಯಿಸಲಾಗಿಲ್ಲ."
+      }
+    }
+  ]
+}

@@ -1,0 +1,302 @@
+{
+  "bank-aadhaar-link": {
+    "title": {
+      "en": "Link your Aadhaar to your bank account",
+      "kn": "ನಿಮ್ಮ ಆಧಾರ್ ಅನ್ನು ಬ್ಯಾಂಕ್ ಖಾತೆಗೆ ಸಂಪರ್ಕಿಸಿ"
+    },
+    "steps": [
+      {
+        "en": "Visit your bank branch with your Aadhaar card.",
+        "kn": "ಆಧಾರ್ ಕಾರ್ಡಿನೊಂದಿಗೆ ನಿಮ್ಮ ಬ್ಯಾಂಕ್ ಶಾಖೆಗೆ ಭೇಟಿ ನೀಡಿ."
+      },
+      {
+        "en": "Ask for Aadhaar seeding on your account.",
+        "kn": "ನಿಮ್ಮ ಖಾತೆಗೆ ಆಧಾರ್ ಸೀಡಿಂಗ್ (ಸಂಪರ್ಕ) ಮಾಡಿಸಿ ಕೊಳ್ಳಿ."
+      },
+      {
+        "en": "Collect the confirmation slip and keep it.",
+        "kn": "ದೃಢೀಕರಣ ರಶೀದಿಯನ್ನು ಪಡೆದು ಸಂಗ್ರಹಿಸಿಟ್ಟುಕೊಳ್ಳಿ."
+      }
+    ]
+  },
+  "get-aadhaar": {
+    "title": {
+      "en": "Enrol for an Aadhaar card",
+      "kn": "ಆಧಾರ್ ಕಾರ್ಡ್‌ಗಾಗಿ ನೋಂದಾಯಿಸಿ"
+    },
+    "steps": [
+      {
+        "en": "Find the nearest Aadhaar enrolment centre (an Aadhaar Seva Kendra or CSC centre).",
+        "kn": "ಹತ್ತಿರದ ಆಧಾರ್ ನೋಂದಣಿ ಕೇಂದ್ರವನ್ನು (ಆಧಾರ್ ಸೇವಾ ಕೇಂದ್ರ ಅಥವಾ ಸಿಎಸ್‌ಸಿ ಕೇಂದ್ರ) ಹುಡುಕಿ."
+      },
+      {
+        "en": "Carry proof of identity, address and date of birth.",
+        "kn": "ಗುರುತಿನ, ವಿಳಾಸ ಮತ್ತು ಹುಟ್ಟಿದ ದಿನಾಂಕದ ಪ್ರಮಾಣಗಳನ್ನು ಒಯ್ಯಿರಿ."
+      },
+      {
+        "en": "Complete enrolment and collect the e-Aadhaar online in a few days.",
+        "kn": "ನೋಂದಣಿ ಪೂರ್ಣಗೊಳಿಸಿ, ಕೆಲವೇ ದಿನಗಳಲ್ಲಿ ಇ-ಆಧಾರ್ ಅನ್ನು ಆನ್‌ಲೈನ್‌ನಲ್ಲಿ ಪಡೆದುಕೊಳ್ಳಿ."
+      }
+    ]
+  },
+  "driving-licence": {
+    "title": {
+      "en": "Get a valid driving licence",
+      "kn": "ಮಾನ್ಯ ಚಾಲನಾ ಪರವಾನಗಿ ಪಡೆಯಿರಿ"
+    },
+    "steps": [
+      {
+        "en": "Apply for a learner's licence at the RTO or on the Parivahan portal (parivahan.gov.in).",
+        "kn": "ಆರ್‌ಟಿಒ ಕಚೇರಿಯಲ್ಲಿ ಅಥವಾ ಪರಿವಹನ ಪೋರ್ಟಲ್‌ನಲ್ಲಿ (parivahan.gov.in) ಕಲಿಕಾ ಪರವಾನಗಿಗಾಗಿ ಅರ್ಜಿ ಸಲ್ಲಿಸಿ."
+      },
+      {
+        "en": "After 30 days, take the driving test and get the licence.",
+        "kn": "30 ದಿನಗಳ ನಂತರ ಚಾಲನಾ ಪರೀಕ್ಷೆ ಬರೆದು ಪರವಾನಗಿ ಪಡೆಯಿರಿ."
+      },
+      {
+        "en": "Keep the licence with you when applying.",
+        "kn": "ಅರ್ಜಿ ಸಲ್ಲಿಸುವಾಗ ಪರವಾನಗಿಯನ್ನು ಜೊತೆಯಲ್ಲಿ ಇಟ್ಟುಕೊಳ್ಳಿ."
+      }
+    ]
+  },
+  "ration-card": {
+    "title": {
+      "en": "Get or correct your ration card",
+      "kn": "ರೇಷನ್ ಕಾರ್ಡ್ ಪಡೆಯಿರಿ ಅಥವಾ ಸರಿಪಡಿಸಿಕೊಳ್ಳಿ"
+    },
+    "steps": [
+      {
+        "en": "Apply at your nearest Grama One / CSC centre or on the Ahara portal (ahara.kar.nic.in).",
+        "kn": "ನಿಮ್ಮ ಹತ್ತಿರದ ಗ್ರಾಮ ಒನ್ / ಸಿಎಸ್‌ಸಿ ಕೇಂದ್ರದಲ್ಲಿ ಅಥವಾ ಆಹಾರ ಪೋರ್ಟಲ್‌ನಲ್ಲಿ (ahara.kar.nic.in) ಅರ್ಜಿ ಸಲ್ಲಿಸಿ."
+      },
+      {
+        "en": "Check that every family member and the household head are correctly listed.",
+        "kn": "ಪ್ರತಿ ಕುಟುಂಬ ಸದಸ್ಯರು ಮತ್ತು ಮನೆಯ ಮುಖ್ಯಸ್ಥರು ಸರಿಯಾಗಿ ದಾಖಲಾಗಿದ್ದಾರೆಯೇ ಎಂದು ಪರಿಶೀಲಿಸಿ."
+      },
+      {
+        "en": "Collect the updated ration card before applying for the scheme.",
+        "kn": "ಯೋಜನೆಗೆ ಅರ್ಜಿ ಸಲ್ಲಿಸುವ ಮೊದಲು ನವೀಕೃತ ರೇಷನ್ ಕಾರ್ಡ್ ಪಡೆದುಕೊಳ್ಳಿ."
+      }
+    ]
+  },
+  "electricity-name-transfer": {
+    "title": {
+      "en": "Transfer the electricity connection to your name",
+      "kn": "ವಿದ್ಯುತ್ ಸಂಪರ್ಕವನ್ನು ನಿಮ್ಮ ಹೆಸರಿಗೆ ವರ್ಗಾಯಿಸಿ"
+    },
+    "steps": [
+      {
+        "en": "Apply at your ESCOM sub-division office for a name change on the RR number.",
+        "kn": "ಆರ್‌ಆರ್ ಸಂಖ್ಯೆಯ ಹೆಸರು ಬದಲಾವಣೆಗಾಗಿ ನಿಮ್ಮ ಇಸ್ಕಾಮ್ ಉಪವಿಭಾಗ ಕಚೇರಿಯಲ್ಲಿ ಅರ್ಜಿ ಸಲ್ಲಿಸಿ."
+      },
+      {
+        "en": "Attach ownership proof and ID documents.",
+        "kn": "ಮಾಲೀಕತ್ವದ ಪ್ರಮಾಣ ಮತ್ತು ಗುರುತಿನ ದಾಖಲೆಗಳನ್ನು ಲಗತ್ತಿಸಿ."
+      },
+      {
+        "en": "Register for Gruha Jyothi once the connection is in your name.",
+        "kn": "ಸಂಪರ್ಕ ನಿಮ್ಮ ಹೆಸರಿನಲ್ಲಿ ಬಂದ ನಂತರ ಗೃಹಜ್ಯೋತಿಗೆ ನೋಂದಾಯಿಸಿ."
+      }
+    ]
+  },
+  "disability-certificate": {
+    "title": {
+      "en": "Obtain a disability certificate",
+      "kn": "ಅಂಗವೈಕಲ್ಯ ಪ್ರಮಾಣಪತ್ರ ಪಡೆಯಿರಿ"
+    },
+    "steps": [
+      {
+        "en": "Visit a government hospital with a medical board for assessment.",
+        "kn": "ವೈದ್ಯಕೀಯ ಮಂಡಳಿ ಇರುವ ಸರ್ಕಾರಿ ಆಸ್ಪತ್ರೆಗೆ ಭೇಟಿ ನೀಡಿ ಮೌಲ್ಯಮಾಪನ ಮಾಡಿಸಿ."
+      },
+      {
+        "en": "Apply on the UDID portal (swavlambancard.gov.in) or at the hospital.",
+        "kn": "ಯುಡಿಐಡಿ ಪೋರ್ಟಲ್‌ನಲ್ಲಿ (swavlambancard.gov.in) ಅಥವಾ ಆಸ್ಪತ್ರೆಯಲ್ಲಿ ಅರ್ಜಿ ಸಲ್ಲಿಸಿ."
+      },
+      {
+        "en": "Use the certificate percentage when applying for the pension.",
+        "kn": "ಪೆನ್ಷನ್‌ಗೆ ಅರ್ಜಿ ಸಲ್ಲಿಸುವಾಗ ಪ್ರಮಾಣಪತ್ರದ ಪ್ರತಿಶತವನ್ನು ಬಳಸಿ."
+      }
+    ]
+  },
+  "category-certificate": {
+    "title": {
+      "en": "Obtain your caste / minority certificate",
+      "kn": "ಜಾತಿ / ಅಲ್ಪಸಂಖ್ಯಾತ ಪ್ರಮಾಣಪತ್ರ ಪಡೆಯಿರಿ"
+    },
+    "steps": [
+      {
+        "en": "Apply at your Nadakacheri (ATR) centre or on the Seva Sindhu portal.",
+        "kn": "ನಿಮ್ಮ ನಾಡಕಚೇರಿ (ಎಟಿಆರ್) ಕೇಂದ್ರದಲ್ಲಿ ಅಥವಾ ಸೇವಾ ಸಿಂಧು ಪೋರ್ಟಲ್‌ನಲ್ಲಿ ಅರ್ಜಿ ಸಲ್ಲಿಸಿ."
+      },
+      {
+        "en": "Submit school record / father's name proof as required.",
+        "kn": "ಅಗತ್ಯವಿದ್ದಂತೆ ಶಾಲಾ ದಾಖಲೆ / ತಂದೆಯ ಹೆಸರಿನ ಪ್ರಮಾಣವನ್ನು ಸಲ್ಲಿಸಿ."
+      },
+      {
+        "en": "Collect the certificate before applying.",
+        "kn": "ಅರ್ಜಿ ಸಲ್ಲಿಸುವ ಮೊದಲು ಪ್ರಮಾಣಪತ್ರವನ್ನು ಪಡೆದುಕೊಳ್ಳಿ."
+      }
+    ]
+  },
+  "income-certificate": {
+    "title": {
+      "en": "Obtain an income certificate",
+      "kn": "ಆದಾಯ ಪ್ರಮಾಣಪತ್ರ ಪಡೆಯಿರಿ"
+    },
+    "steps": [
+      {
+        "en": "Apply at your Nadakacheri (ATR) centre or on the Seva Sindhu portal.",
+        "kn": "ನಿಮ್ಮ ನಾಡಕಚೇರಿ (ಎಟಿಆರ್) ಕೇಂದ್ರದಲ್ಲಿ ಅಥವಾ ಸೇವಾ ಸಿಂಧು ಪೋರ್ಟಲ್‌ನಲ್ಲಿ ಅರ್ಜಿ ಸಲ್ಲಿಸಿ."
+      },
+      {
+        "en": "Attach land/property and salary details as required.",
+        "kn": "ಅಗತ್ಯವಿದ್ದಂತೆ ಭೂಮಿ/ಆಸ್ತಿ ಮತ್ತು ವೇತನದ ವಿವರಗಳನ್ನು ಲಗತ್ತಿಸಿ."
+      },
+      {
+        "en": "Collect the certificate; it is valid for one year.",
+        "kn": "ಪ್ರಮಾಣಪತ್ರವನ್ನು ಪಡೆದುಕೊಳ್ಳಿ; ಅದು ಒಂದು ವರ್ಷ ಮಾನ್ಯವಾಗಿರುತ್ತದೆ."
+      }
+    ]
+  },
+  "aadhaar-name-bank-mismatch": {
+    "title": {
+      "en": "Update your Aadhaar name to match your bank records",
+      "kn": "ನಿಮ್ಮ ಆಧಾರ್ ಹೆಸರನ್ನು ನಿಮ್ಮ ಬ್ಯಾಂಕ್ ದಾಖಲೆಗಳಿಗೆ ಹೊಂದಿಸಿ"
+    },
+    "steps": [
+      {
+        "en": "Get a name-correction form at an Aadhaar Seva Kendra or online at uidai.gov.in.",
+        "kn": "ಆಧಾರ್ ಸೇವಾ ಕೇಂದ್ರದಲ್ಲಿ ಅಥವಾ uidai.gov.in ನಲ್ಲಿ ಆನ್‌ಲೈನ್‌ನಲ್ಲಿ ಹೆಸರು ತಿದ್ದುಪಡಿ ಫಾರ್ಮ್ ಪಡೆಯಿರಿ."
+      },
+      {
+        "en": "Submit proof of identity.",
+        "kn": "ಗುರುತಿನ ಪ್ರಮಾಣವನ್ನು ಸಲ್ಲಿಸಿ."
+      },
+      {
+        "en": "Once corrected, update the name at your bank branch.",
+        "kn": "ಸರಿಪಡಿಸಿದ ನಂತರ, ನಿಮ್ಮ ಬ್ಯಾಂಕ್ ಶಾಖೆಯಲ್ಲಿ ಹೆಸರನ್ನು ನವೀಕರಿಸಿ."
+      }
+    ]
+  },
+  "aadhaar-mobile-link": {
+    "title": {
+      "en": "Link your mobile number to Aadhaar",
+      "kn": "ನಿಮ್ಮ ಮೊಬೈಲ್ ಸಂಖ್ಯೆಯನ್ನು ಆಧಾರ್‌ಗೆ ಸಂಪರ್ಕಿಸಿ"
+    },
+    "steps": [
+      {
+        "en": "Visit an Aadhaar Seva Kendra or use the mAadhaar app.",
+        "kn": "ಆಧಾರ್ ಸೇವಾ ಕೇಂದ್ರಕ್ಕೆ ಭೇಟಿ ನೀಡಿ ಅಥವಾ ಎಂ-ಆಧಾರ್ ಅಪ್ ಬಳಸಿ."
+      },
+      {
+        "en": "Request a mobile number update.",
+        "kn": "ಮೊಬೈಲ್ ಸಂಖ್ಯೆ ನವೀಕರಣವನ್ನು ವಿನಂತಿಸಿ."
+      },
+      {
+        "en": "Verify with OTP.",
+        "kn": "ಒಟಿಪಿಯೊಂದಿಗೆ ಪರಿಶೀಲಿಸಿ."
+      }
+    ]
+  },
+  "bank-account-activate": {
+    "title": {
+      "en": "Activate your bank account for DBT",
+      "kn": "ಡಿಬಿಟಿಗಾಗಿ ನಿಮ್ಮ ಬ್ಯಾಂಕ್ ಖಾತೆಯನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಿ"
+    },
+    "steps": [
+      {
+        "en": "Visit your bank branch.",
+        "kn": "ನಿಮ್ಮ ಬ್ಯಾಂಕ್ ಶಾಖೆಗೆ ಭೇಟಿ ನೀಡಿ."
+      },
+      {
+        "en": "Complete KYC and activate the account.",
+        "kn": "ಕೆವೈಸಿ ಪೂರ್ಣಗೊಳಿಸಿ ಮತ್ತು ಖಾತೆಯನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಿ."
+      },
+      {
+        "en": "Confirm it is DBT-enabled.",
+        "kn": "ಅದು ಡಿಬಿಟಿ ಸಕ್ರಿಯವಾಗಿದೆಯೇ ಎಂದು ದೃಢೀಕರಿಸಿ."
+      }
+    ]
+  },
+  "docs-ready": {
+    "title": {
+      "en": "Get all required documents ready",
+      "kn": "ಅಗತ್ಯವಿರುವ ಎಲ್ಲಾ ದಾಖಲೆಗಳನ್ನು ಸಿದ್ಧಪಡಿಸಿ"
+    },
+    "steps": [
+      {
+        "en": "Check the scheme's document list.",
+        "kn": "ಯೋಜನೆಯ ದಾಖಲೆಗಳ ಪಟ್ಟಿಯನ್ನು ಪರಿಶೀಲಿಸಿ."
+      },
+      {
+        "en": "Collect each document.",
+        "kn": "ಪ್ರತಿ ದಾಖಲೆಯನ್ನು ಸಂಗ್ರಹಿಸಿ."
+      },
+      {
+        "en": "Keep photocopies.",
+        "kn": "ನಕಲು ಪ್ರತಿಗಳನ್ನು ಇಟ್ಟುಕೊಳ್ಳಿ."
+      }
+    ]
+  },
+  "land-record": {
+    "title": {
+      "en": "Get the land record in your name",
+      "kn": "ಭೂಮಿಯ ದಾಖಲೆಯನ್ನು ನಿಮ್ಮ ಹೆಸರಿಗೆ ಮಾಡಿಸಿ"
+    },
+    "steps": [
+      {
+        "en": "Apply at the Sub-Registrar / Bhoomi centre.",
+        "kn": "ಉಪ-ನೋಂದಣಾಧಿಕಾರಿ / ಭೂಮಿ ಕೇಂದ್ರದಲ್ಲಿ ಅರ್ಜಿ ಸಲ್ಲಿಸಿ."
+      },
+      {
+        "en": "Complete the mutation.",
+        "kn": "ಮ್ಯುಟೇಶನ್ (ಹೆಸರು ವರ್ಗಾವಣೆ) ಪೂರ್ಣಗೊಳಿಸಿ."
+      },
+      {
+        "en": "Collect the updated RTC.",
+        "kn": "ನವೀಕೃತ ಆರ್‌ಟಿಸಿ ಪಡೆದುಕೊಳ್ಳಿ."
+      }
+    ]
+  },
+  "age-proof": {
+    "title": {
+      "en": "Get an age proof document",
+      "kn": "ವಯಸ್ಸಿನ ಪ್ರಮಾಣ ದಾಖಲೆ ಪಡೆಯಿರಿ"
+    },
+    "steps": [
+      {
+        "en": "Apply for a birth certificate or age proof at the Grama One / BESCOM / SSLC records.",
+        "kn": "ಗ್ರಾಮ ಒನ್ / ಬೆಸ್ಕಾಮ್ / ಎಸ್‌ಎಸ್‌ಎಲ್‌ಸಿ ದಾಖಲೆಗಳಲ್ಲಿ ಜನ್ಮ ಪ್ರಮಾಣಪತ್ರ ಅಥವಾ ವಯಸ್ಸಿನ ಪ್ರಮಾಣಕ್ಕಾಗಿ ಅರ್ಜಿ ಸಲ್ಲಿಸಿ."
+      },
+      {
+        "en": "Collect the certificate.",
+        "kn": "ಪ್ರಮಾಣಪತ್ರವನ್ನು ಪಡೆದುಕೊಳ್ಳಿ."
+      },
+      {
+        "en": "Keep a copy for your application.",
+        "kn": "ನಿಮ್ಮ ಅರ್ಜಿಗಾಗಿ ಒಂದು ನಕಲು ಪ್ರತಿಯನ್ನು ಇಟ್ಟುಕೊಳ್ಳಿ."
+      }
+    ]
+  },
+  "education-cert": {
+    "title": {
+      "en": "Get your education certificates ready",
+      "kn": "ನಿಮ್ಮ ಶಿಕ್ಷಣ ಪ್ರಮಾಣಪತ್ರಗಳನ್ನು ಸಿದ್ಧಪಡಿಸಿ"
+    },
+    "steps": [
+      {
+        "en": "Collect marks cards / degree certificate.",
+        "kn": "ಅಂಕಪಟ್ಟಿಗಳು / ಪದವಿ ಪ್ರಮಾಣಪತ್ರವನ್ನು ಸಂಗ್ರಹಿಸಿ."
+      },
+      {
+        "en": "Get a consolidated certificate if needed.",
+        "kn": "ಅಗತ್ಯವಿದ್ದರೆ ಸಮಗ್ರ ಪ್ರಮಾಣಪತ್ರ ಪಡೆಯಿರಿ."
+      },
+      {
+        "en": "Keep copies.",
+        "kn": "ನಕಲು ಪ್ರತಿಗಳನ್ನು ಇಟ್ಟುಕೊಳ್ಳಿ."
+      }
+    ]
+  }
+}

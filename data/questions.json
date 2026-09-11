@@ -1,0 +1,1196 @@
+[
+  {
+    "id": "age",
+    "type": "number",
+    "label": {
+      "en": "How old are you?",
+      "kn": "ನಿಮ್ಮ ವಯಸ್ಸು ಎಷ್ಟು?"
+    },
+    "stage": [
+      "quick",
+      "full"
+    ]
+  },
+  {
+    "id": "gender",
+    "type": "single_select",
+    "label": {
+      "en": "What is your gender?",
+      "kn": "ನಿಮ್ಮ ಲಿಂಗ ಯಾವುದು?"
+    },
+    "options": [
+      {
+        "value": "woman",
+        "label": {
+          "en": "Woman",
+          "kn": "ಮಹಿಳೆ"
+        }
+      },
+      {
+        "value": "man",
+        "label": {
+          "en": "Man",
+          "kn": "ಪುರುಷ"
+        }
+      },
+      {
+        "value": "transgender",
+        "label": {
+          "en": "Transgender",
+          "kn": "ಟ್ರಾನ್ಸ್‌ಜೆಂಡರ್"
+        }
+      },
+      {
+        "value": "notsay",
+        "label": {
+          "en": "Prefer not to say",
+          "kn": "ಹೇಳಲು ಇಚ್ಛಿಸುವುದಿಲ್ಲ"
+        }
+      }
+    ],
+    "cols": 2,
+    "stage": [
+      "full"
+    ]
+  },
+  {
+    "id": "marital",
+    "type": "single_select",
+    "label": {
+      "en": "What is your marital status?",
+      "kn": "ನಿಮ್ಮ ವೈವಾಹಿಕ ಸ್ಥಿತಿ ಯಾವುದು?"
+    },
+    "options": [
+      {
+        "value": "married",
+        "label": {
+          "en": "Married",
+          "kn": "ವಿವಾಹಿತ"
+        }
+      },
+      {
+        "value": "widowed",
+        "label": {
+          "en": "Widowed",
+          "kn": "ವಿಧವೆ"
+        }
+      },
+      {
+        "value": "unmarried",
+        "label": {
+          "en": "Unmarried",
+          "kn": "ಅವಿವಾಹಿತ"
+        }
+      },
+      {
+        "value": "divorced",
+        "label": {
+          "en": "Divorced",
+          "kn": "ವಿಚ್ಛೇದಿತ"
+        }
+      }
+    ],
+    "cols": 2,
+    "showIf": {
+      "gender": [
+        "woman"
+      ]
+    },
+    "stage": [
+      "full"
+    ]
+  },
+  {
+    "id": "student",
+    "type": "single_select",
+    "label": {
+      "en": "Are you currently studying?",
+      "kn": "ನೀವು ಪ್ರಸ್ತುತ ಓದುತ್ತಿದ್ದೀರಾ?"
+    },
+    "options": [
+      {
+        "value": "yes",
+        "label": {
+          "en": "Yes",
+          "kn": "ಹೌದು"
+        }
+      },
+      {
+        "value": "no",
+        "label": {
+          "en": "No",
+          "kn": "ಇಲ್ಲ"
+        }
+      }
+    ],
+    "cols": 2,
+    "stage": [
+      "full"
+    ]
+  },
+  {
+    "id": "courseLevel",
+    "type": "single_select",
+    "label": {
+      "en": "Which course are you studying now, or have you most recently finished?",
+      "kn": "ನೀವು ಈಗ ಓದುತ್ತಿರುವ, ಅಥವಾ ಇತ್ತೀಚೆಗೆ ಪೂರ್ಣಗೊಳಿಸಿದ ಕೋರ್ಸ್ ಯಾವುದು?"
+    },
+    "options": [
+      {
+        "value": "matric-pass",
+        "label": {
+          "en": "Passed 10th standard (SSLC)",
+          "kn": "10ನೇ ತರಗತಿ (ಎಸ್‌ಎಸ್‌ಎಲ್‌ಸಿ) ಉತ್ತೀರ್ಣ"
+        }
+      },
+      {
+        "value": "pre-university",
+        "label": {
+          "en": "Pre-university (PUC)",
+          "kn": "ಪಿಯುಸಿ (ಪೂರ್ವ ವಿಶ್ವವಿದ್ಯಾಲಯ)"
+        }
+      },
+      {
+        "value": "postmatric-diploma",
+        "label": {
+          "en": "Polytechnic diploma",
+          "kn": "ಪಾಲಿಟೆಕ್ನಿಕ್ ಡಿಪ್ಲೊಮಾ"
+        }
+      },
+      {
+        "value": "degree",
+        "label": {
+          "en": "Bachelor's degree",
+          "kn": "ಪದವಿ"
+        }
+      },
+      {
+        "value": "postgraduate",
+        "label": {
+          "en": "Master's degree",
+          "kn": "ಸ್ನಾತಕೋತ್ತರ ಪದವಿ"
+        }
+      },
+      {
+        "value": "professional",
+        "label": {
+          "en": "Professional course (law, teaching, etc.)",
+          "kn": "ವೃತ್ತಿಪರ ಕೋರ್ಸ್ (ಕಾನೂನು, ಶಿಕ್ಷಣ ಇತ್ಯಾದಿ)"
+        }
+      }
+    ],
+    "cols": 1,
+    "showIf": {
+      "student": [
+        "yes"
+      ]
+    },
+    "stage": [
+      "full"
+    ]
+  },
+  {
+    "id": "education",
+    "type": "single_select",
+    "label": {
+      "en": "What is your highest level of education?",
+      "kn": "ನಿಮ್ಮ ಅತಿ ಹೆಚ್ಚಿನ ಶೈಕ್ಷಣಿಕ ಅರ್ಹತೆ ಯಾವುದು?"
+    },
+    "options": [
+      {
+        "value": "below-matric",
+        "label": {
+          "en": "Below 10th standard",
+          "kn": "10ನೇ ತರಗತಿಗಿಂತ ಕಡಿಮೆ"
+        }
+      },
+      {
+        "value": "matric",
+        "label": {
+          "en": "Passed 10th standard (SSLC)",
+          "kn": "10ನೇ ತರಗತಿ (ಎಸ್‌ಎಸ್‌ಎಲ್‌ಸಿ) ಉತ್ತೀರ್ಣ"
+        }
+      },
+      {
+        "value": "pre-university",
+        "label": {
+          "en": "Pre-university (PUC)",
+          "kn": "ಪಿಯುಸಿ (ಪೂರ್ವ ವಿಶ್ವವಿದ್ಯಾಲಯ)"
+        }
+      },
+      {
+        "value": "diploma",
+        "label": {
+          "en": "Polytechnic diploma",
+          "kn": "ಪಾಲಿಟೆಕ್ನಿಕ್ ಡಿಪ್ಲೊಮಾ"
+        }
+      },
+      {
+        "value": "graduate",
+        "label": {
+          "en": "Bachelor's degree",
+          "kn": "ಪದವಿ"
+        }
+      },
+      {
+        "value": "postgraduate",
+        "label": {
+          "en": "Master's degree",
+          "kn": "ಸ್ನಾತಕೋತ್ತರ ಪದವಿ"
+        }
+      }
+    ],
+    "cols": 1,
+    "showIf": {
+      "student": [
+        "no"
+      ]
+    },
+    "stage": [
+      "full"
+    ]
+  },
+  {
+    "id": "category",
+    "type": "single_select",
+    "label": {
+      "en": "Which category does your family belong to?",
+      "kn": "ನಿಮ್ಮ ಕುಟುಂಬ ಯಾವ ವರ್ಗಕ್ಕೆ ಸೇರಿದೆ?"
+    },
+    "options": [
+      {
+        "value": "general",
+        "label": {
+          "en": "General",
+          "kn": "ಸಾಮಾನ್ಯ"
+        }
+      },
+      {
+        "value": "sc",
+        "label": {
+          "en": "Scheduled Caste (SC)",
+          "kn": "ಅಧಿಸೂಚಿತ ಜಾತಿ (ಎಸ್‌ಸಿ)"
+        }
+      },
+      {
+        "value": "st",
+        "label": {
+          "en": "Scheduled Tribe (ST)",
+          "kn": "ಅಧಿಸೂಚಿತ ಪಂಗಡ (ಎಸ್‌ಟಿ)"
+        }
+      },
+      {
+        "value": "obc",
+        "label": {
+          "en": "Other Backward Classes (OBC)",
+          "kn": "ಇತರ ಹಿಂದುಳಿದ ವರ್ಗಗಳು (ಒಬಿಸಿ)"
+        }
+      },
+      {
+        "value": "minority",
+        "label": {
+          "en": "Religious minority",
+          "kn": "ಧಾರ್ಮಿಕ ಅಲ್ಪಸಂಖ್ಯಾತ"
+        }
+      }
+    ],
+    "cols": 2,
+    "stage": [
+      "full"
+    ]
+  },
+  {
+    "id": "ration",
+    "type": "single_select",
+    "label": {
+      "en": "Which type of ration card does your family have?",
+      "kn": "ನಿಮ್ಮ ಕುಟುಂಬದ ರೇಷನ್ ಕಾರ್ಡ್ ಯಾವ ಬಗೆಯದು?"
+    },
+    "options": [
+      {
+        "value": "aay",
+        "label": {
+          "en": "Antyodaya (AAY)",
+          "kn": "ಅಂತ್ಯೋದಯ (ಎಎವೈ)"
+        }
+      },
+      {
+        "value": "bpl",
+        "label": {
+          "en": "BPL / Priority (PHH)",
+          "kn": "ಬಿಪಿಎಲ್ / ಆದ್ಯತೆ (ಪಿಎಚ್‌ಎಚ್)"
+        }
+      },
+      {
+        "value": "apl",
+        "label": {
+          "en": "APL",
+          "kn": "ಎಪಿಎಲ್"
+        }
+      },
+      {
+        "value": "none",
+        "label": {
+          "en": "No ration card",
+          "kn": "ರೇಷನ್ ಕಾರ್ಡ್ ಇಲ್ಲ"
+        }
+      }
+    ],
+    "cols": 1,
+    "stage": [
+      "full"
+    ]
+  },
+  {
+    "id": "income",
+    "type": "single_select",
+    "label": {
+      "en": "What is your family's total yearly income?",
+      "kn": "ನಿಮ್ಮ ಕುಟುಂಬದ ಒಟ್ಟು ವಾರ್ಷಿಕ ಆದಾಯ ಎಷ್ಟು?"
+    },
+    "options": [
+      {
+        "value": "lt-32k",
+        "label": {
+          "en": "Below ₹32,000",
+          "kn": "₹32,000ಕ್ಕಿಂತ ಕಡಿಮೆ"
+        }
+      },
+      {
+        "value": "32k-2.5l",
+        "label": {
+          "en": "₹32,000 – ₹2,50,000",
+          "kn": "₹32,000 – ₹2,50,000"
+        }
+      },
+      {
+        "value": "2.5l-6l",
+        "label": {
+          "en": "₹2,50,000 – ₹6,00,000",
+          "kn": "₹2,50,000 – ₹6,00,000"
+        }
+      },
+      {
+        "value": "6l-8l",
+        "label": {
+          "en": "₹6,00,000 – ₹8,00,000",
+          "kn": "₹6,00,000 – ₹8,00,000"
+        }
+      },
+      {
+        "value": "gt-8l",
+        "label": {
+          "en": "Above ₹8,00,000",
+          "kn": "₹8,00,000ಕ್ಕಿಂತ ಹೆಚ್ಚು"
+        }
+      }
+    ],
+    "cols": 1,
+    "stage": [
+      "quick",
+      "full"
+    ]
+  },
+  {
+    "id": "employment",
+    "type": "single_select",
+    "label": {
+      "en": "What is your current employment status?",
+      "kn": "ನಿಮ್ಮ ಪ್ರಸ್ತುತ ಉದ್ಯೋಗ ಸ್ಥಿತಿ ಏನು?"
+    },
+    "options": [
+      {
+        "value": "student",
+        "label": {
+          "en": "Student",
+          "kn": "ವಿದ್ಯಾರ್ಥಿ"
+        }
+      },
+      {
+        "value": "employed",
+        "label": {
+          "en": "Employed",
+          "kn": "ಉದ್ಯೋಗದಲ್ಲಿದ್ದೇನೆ"
+        }
+      },
+      {
+        "value": "self-employed",
+        "label": {
+          "en": "Self-employed",
+          "kn": "ಸ್ವಯಂ ಉದ್ಯೋಗಿ"
+        }
+      },
+      {
+        "value": "unemployed",
+        "label": {
+          "en": "Unemployed",
+          "kn": "ನಿರುದ್ಯೋಗಿ"
+        }
+      },
+      {
+        "value": "homemaker",
+        "label": {
+          "en": "Homemaker",
+          "kn": "ಗೃಹಿಣಿ"
+        }
+      },
+      {
+        "value": "retired",
+        "label": {
+          "en": "Retired",
+          "kn": "ನಿವೃತ್ತ"
+        }
+      }
+    ],
+    "cols": 2,
+    "stage": [
+      "quick",
+      "full"
+    ]
+  },
+  {
+    "id": "tax",
+    "type": "single_select",
+    "label": {
+      "en": "Does anyone in your household pay income tax or file GST returns?",
+      "kn": "ನಿಮ್ಮ ಮನೆಯಲ್ಲಿ ಯಾರಾದರೂ ಆದಾಯ ತೆರಿಗೆ ಕಟ್ಟುತ್ತಾರಾ ಅಥವಾ ಜಿಎಸ್‌ಟಿ ಸಲ್ಲಿಸುತ್ತಾರಾ?"
+    },
+    "options": [
+      {
+        "value": "yes",
+        "label": {
+          "en": "Yes",
+          "kn": "ಹೌದು"
+        }
+      },
+      {
+        "value": "no",
+        "label": {
+          "en": "No",
+          "kn": "ಇಲ್ಲ"
+        }
+      }
+    ],
+    "cols": 2,
+    "stage": [
+      "full"
+    ]
+  },
+  {
+    "id": "land",
+    "type": "single_select",
+    "label": {
+      "en": "How much agricultural land does your family own?",
+      "kn": "ನಿಮ್ಮ ಕುಟುಂಬದ ಬಳಿ ಎಷ್ಟು ಕೃಷಿ ಭೂಮಿ ಇದೆ?"
+    },
+    "options": [
+      {
+        "value": "none",
+        "label": {
+          "en": "No land",
+          "kn": "ಭೂಮಿ ಇಲ್ಲ"
+        }
+      },
+      {
+        "value": "lt1acre",
+        "label": {
+          "en": "Less than 1 acre",
+          "kn": "1 ಎಕರೆಗಿಂತ ಕಡಿಮೆ"
+        }
+      },
+      {
+        "value": "1to5",
+        "label": {
+          "en": "1 – 5 acres",
+          "kn": "1 – 5 ಎಕರೆ"
+        }
+      },
+      {
+        "value": "gt5",
+        "label": {
+          "en": "More than 5 acres",
+          "kn": "5 ಎಕರೆಗಿಂತ ಹೆಚ್ಚು"
+        }
+      }
+    ],
+    "cols": 1,
+    "stage": [
+      "full"
+    ]
+  },
+  {
+    "id": "farmer",
+    "type": "single_select",
+    "label": {
+      "en": "Do you or a family member cultivate that land as a farmer?",
+      "kn": "ಆ ಭೂಮಿಯನ್ನು ನೀವು ಅಥವಾ ಕುಟುಂಬದ ಸದಸ್ಯರು ರೈತರಾಗಿ ಬೇಸಾಯ ಮಾಡುತ್ತಿದ್ದೀರಾ?"
+    },
+    "options": [
+      {
+        "value": "yes",
+        "label": {
+          "en": "Yes",
+          "kn": "ಹೌದು"
+        }
+      },
+      {
+        "value": "no",
+        "label": {
+          "en": "No",
+          "kn": "ಇಲ್ಲ"
+        }
+      }
+    ],
+    "cols": 2,
+    "showIf": {
+      "land": [
+        "lt1acre",
+        "1to5",
+        "gt5"
+      ]
+    },
+    "stage": [
+      "full"
+    ]
+  },
+  {
+    "id": "womanhead",
+    "type": "single_select",
+    "label": {
+      "en": "Are you listed as the head of your household on the ration card?",
+      "kn": "ರೇಷನ್ ಕಾರ್ಡಿನಲ್ಲಿ ಮನೆಯ ಮುಖ್ಯಸ್ಥರಾಗಿ ನೀವು ದಾಖಲಾಗಿದ್ದೀರಾ?"
+    },
+    "options": [
+      {
+        "value": "yes",
+        "label": {
+          "en": "Yes",
+          "kn": "ಹೌದು"
+        }
+      },
+      {
+        "value": "no",
+        "label": {
+          "en": "No",
+          "kn": "ಇಲ್ಲ"
+        }
+      }
+    ],
+    "cols": 2,
+    "showIf": {
+      "gender": [
+        "woman"
+      ]
+    },
+    "stage": [
+      "full"
+    ]
+  },
+  {
+    "id": "electricity",
+    "type": "single_select",
+    "label": {
+      "en": "Do you have an electricity connection at your home?",
+      "kn": "ನಿಮ್ಮ ಮನೆಗೆ ವಿದ್ಯುತ್ ಸಂಪರ್ಕ ಇದೆಯಾ?"
+    },
+    "options": [
+      {
+        "value": "yes-own-name",
+        "label": {
+          "en": "Yes, in my name",
+          "kn": "ಹೌದು, ನನ್ನ ಹೆಸರಿನಲ್ಲಿದೆ"
+        }
+      },
+      {
+        "value": "yes-other-name",
+        "label": {
+          "en": "Yes, in a family member's name",
+          "kn": "ಹೌದು, ಕುಟುಂಬದ ಸದಸ್ಯರ ಹೆಸರಿನಲ್ಲಿದೆ"
+        }
+      },
+      {
+        "value": "no",
+        "label": {
+          "en": "No connection",
+          "kn": "ಸಂಪರ್ಕ ಇಲ್ಲ"
+        }
+      }
+    ],
+    "cols": 1,
+    "stage": [
+      "full"
+    ]
+  },
+  {
+    "id": "otherpension",
+    "type": "single_select",
+    "label": {
+      "en": "Do you already receive a government or private monthly pension?",
+      "kn": "ನೀವು ಈಗಾಗಲೇ ಸರ್ಕಾರಿ ಅಥವಾ ಖಾಸಗಿ ಮಾಸಿಕ ಪೆನ್ಷನ್ ಪಡೆಯುತ್ತಿದ್ದೀರಾ?"
+    },
+    "options": [
+      {
+        "value": "yes",
+        "label": {
+          "en": "Yes",
+          "kn": "ಹೌದು"
+        }
+      },
+      {
+        "value": "no",
+        "label": {
+          "en": "No",
+          "kn": "ಇಲ್ಲ"
+        }
+      }
+    ],
+    "cols": 2,
+    "showIf": {
+      "age": {
+        "min": 40
+      }
+    },
+    "stage": [
+      "full"
+    ]
+  },
+  {
+    "id": "disability",
+    "type": "single_select",
+    "label": {
+      "en": "Do you have a disability certificate?",
+      "kn": "ನಿಮ್ಮ ಬಳಿ ಅಂಗವೈಕಲ್ಯ ಪ್ರಮಾಣಪತ್ರ ಇದೆಯಾ?"
+    },
+    "options": [
+      {
+        "value": "yes",
+        "label": {
+          "en": "Yes",
+          "kn": "ಹೌದು"
+        }
+      },
+      {
+        "value": "no",
+        "label": {
+          "en": "No",
+          "kn": "ಇಲ್ಲ"
+        }
+      }
+    ],
+    "cols": 2,
+    "optional": true,
+    "stage": [
+      "full"
+    ]
+  },
+  {
+    "id": "disabilitypct",
+    "type": "single_select",
+    "label": {
+      "en": "What is the disability percentage on your certificate?",
+      "kn": "ನಿಮ್ಮ ಪ್ರಮಾಣಪತ್ರದಲ್ಲಿ ಅಂಗವೈಕಲ್ಯದ ಪ್ರತಿಶತ ಎಷ್ಟಿದೆ?"
+    },
+    "options": [
+      {
+        "value": "lt40",
+        "label": {
+          "en": "Less than 40%",
+          "kn": "40%ಕ್ಕಿಂತ ಕಡಿಮೆ"
+        }
+      },
+      {
+        "value": "40to74",
+        "label": {
+          "en": "40% – 74%",
+          "kn": "40% – 74%"
+        }
+      },
+      {
+        "value": "75plus",
+        "label": {
+          "en": "75% or more",
+          "kn": "75% ಅಥವಾ ಅದಕ್ಕಿಂತ ಹೆಚ್ಚು"
+        }
+      },
+      {
+        "value": "unsure",
+        "label": {
+          "en": "Not sure",
+          "kn": "ಖಚಿತವಿಲ್ಲ"
+        }
+      }
+    ],
+    "cols": 1,
+    "showIf": {
+      "disability": [
+        "yes"
+      ]
+    },
+    "stage": [
+      "full"
+    ]
+  },
+  {
+    "id": "drivinglicence",
+    "type": "single_select",
+    "label": {
+      "en": "Do you have a valid driving licence?",
+      "kn": "ನಿಮ್ಮ ಬಳಿ ಮಾನ್ಯ ಚಾಲನಾ ಪರವಾನಗಿ ಇದೆಯಾ?"
+    },
+    "options": [
+      {
+        "value": "yes",
+        "label": {
+          "en": "Yes",
+          "kn": "ಹೌದು"
+        }
+      },
+      {
+        "value": "no",
+        "label": {
+          "en": "No",
+          "kn": "ಇಲ್ಲ"
+        }
+      }
+    ],
+    "cols": 2,
+    "showIf": {
+      "category": [
+        "st",
+        "minority"
+      ]
+    },
+    "stage": [
+      "full"
+    ]
+  },
+  {
+    "id": "unemployed",
+    "type": "single_select",
+    "label": {
+      "en": "Are you currently unemployed and looking for work?",
+      "kn": "ನೀವು ಪ್ರಸ್ತುತ ನಿರುದ್ಯೋಗಿಯಾಗಿದ್ದು, ಕೆಲಸ ಹುಡುಕುತ್ತಿದ್ದೀರಾ?"
+    },
+    "options": [
+      {
+        "value": "yes",
+        "label": {
+          "en": "Yes",
+          "kn": "ಹೌದು"
+        }
+      },
+      {
+        "value": "no",
+        "label": {
+          "en": "No",
+          "kn": "ಇಲ್ಲ"
+        }
+      }
+    ],
+    "cols": 2,
+    "showIf": {
+      "student": [
+        "no"
+      ],
+      "education": [
+        "diploma",
+        "graduate",
+        "postgraduate"
+      ],
+      "age": {
+        "min": 18,
+        "max": 54
+      }
+    },
+    "stage": [
+      "full"
+    ]
+  },
+  {
+    "id": "bank",
+    "type": "single_select",
+    "label": {
+      "en": "Do you have a bank account linked to your Aadhaar?",
+      "kn": "ನಿಮ್ಮ ಆಧಾರ್‌ಗೆ ಸಂಪರ್ಕಿಸಿದ ಬ್ಯಾಂಕ್ ಖಾತೆ ನಿಮ್ಮ ಬಳಿ ಇದೆಯಾ?"
+    },
+    "options": [
+      {
+        "value": "yes",
+        "label": {
+          "en": "Yes",
+          "kn": "ಹೌದು"
+        }
+      },
+      {
+        "value": "no",
+        "label": {
+          "en": "No",
+          "kn": "ಇಲ್ಲ"
+        }
+      }
+    ],
+    "cols": 2,
+    "stage": [
+      "full"
+    ]
+  },
+  {
+    "id": "aadhaar",
+    "type": "single_select",
+    "label": {
+      "en": "Do you have an Aadhaar card?",
+      "kn": "ನಿಮ್ಮ ಬಳಿ ಆಧಾರ್ ಕಾರ್ಡ್ ಇದೆಯಾ?"
+    },
+    "options": [
+      {
+        "value": "yes",
+        "label": {
+          "en": "Yes",
+          "kn": "ಹೌದು"
+        }
+      },
+      {
+        "value": "no",
+        "label": {
+          "en": "No",
+          "kn": "ಇಲ್ಲ"
+        }
+      }
+    ],
+    "cols": 2,
+    "stage": [
+      "full"
+    ]
+  },
+  {
+    "id": "pincode",
+    "type": "pincode",
+    "label": {
+      "en": "What is your area's pincode? (used to find your nearest CSC centre)",
+      "kn": "ನಿಮ್ಮ ಪ್ರದೇಶದ ಪಿನ್‌ಕೋಡ್ ಯಾವುದು? (ನಿಮ್ಮ ಹತ್ತಿರದ ಸಿಎಸ್‌ಸಿ ಕೇಂದ್ರವನ್ನು ಹುಡುಕಲು ಬಳಸಲಾಗುತ್ತದೆ)"
+    },
+    "optional": true,
+    "stage": [
+      "full"
+    ]
+  },
+  {
+    "id": "dc_aadhaar_name_match",
+    "type": "single_select",
+    "label": {
+      "en": "Does your name in Aadhaar match your bank records?",
+      "kn": "ನಿಮ್ಮ ಆಧಾರ್‌ನಲ್ಲಿರುವ ಹೆಸರು ನಿಮ್ಮ ಬ್ಯಾಂಕ್ ದಾಖಲೆಗಳಿಗೆ ಹೊಂದಿಕೆಯಾಗುತ್ತದೆಯೇ?"
+    },
+    "options": [
+      {
+        "value": "yes",
+        "label": {
+          "en": "Yes",
+          "kn": "ಹೌದು"
+        }
+      },
+      {
+        "value": "no",
+        "label": {
+          "en": "No",
+          "kn": "ಇಲ್ಲ"
+        }
+      }
+    ],
+    "cols": 2,
+    "stage": [
+      "deep"
+    ],
+    "scheme_id": null
+  },
+  {
+    "id": "dc_aadhaar_mobile_linked",
+    "type": "single_select",
+    "label": {
+      "en": "Is your Aadhaar linked to your mobile number?",
+      "kn": "ನಿಮ್ಮ ಆಧಾರ್ ನಿಮ್ಮ ಮೊಬೈಲ್ ಸಂಖ್ಯೆಗೆ ಸಂಪರ್ಕಿಸಲಾಗಿದೆಯೇ?"
+    },
+    "options": [
+      {
+        "value": "yes",
+        "label": {
+          "en": "Yes",
+          "kn": "ಹೌದು"
+        }
+      },
+      {
+        "value": "no",
+        "label": {
+          "en": "No",
+          "kn": "ಇಲ್ಲ"
+        }
+      }
+    ],
+    "cols": 2,
+    "stage": [
+      "deep"
+    ],
+    "scheme_id": null
+  },
+  {
+    "id": "dc_aadhaar_bank_linked",
+    "type": "single_select",
+    "label": {
+      "en": "Is your Aadhaar linked to your bank account?",
+      "kn": "ನಿಮ್ಮ ಆಧಾರ್ ನಿಮ್ಮ ಬ್ಯಾಂಕ್ ಖಾತೆಗೆ ಸಂಪರ್ಕಿಸಲಾಗಿದೆಯೇ?"
+    },
+    "options": [
+      {
+        "value": "yes",
+        "label": {
+          "en": "Yes",
+          "kn": "ಹೌದು"
+        }
+      },
+      {
+        "value": "no",
+        "label": {
+          "en": "No",
+          "kn": "ಇಲ್ಲ"
+        }
+      }
+    ],
+    "cols": 2,
+    "stage": [
+      "deep"
+    ],
+    "scheme_id": null
+  },
+  {
+    "id": "dc_bank_active",
+    "type": "single_select",
+    "label": {
+      "en": "Is your bank account active and DBT-enabled?",
+      "kn": "ನಿಮ್ಮ ಬ್ಯಾಂಕ್ ಖಾತೆ ಸಕ್ರಿಯವಾಗಿದ್ದು, ಡಿಬಿಟಿ ಸಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆಯೇ?"
+    },
+    "options": [
+      {
+        "value": "yes",
+        "label": {
+          "en": "Yes",
+          "kn": "ಹೌದು"
+        }
+      },
+      {
+        "value": "no",
+        "label": {
+          "en": "No",
+          "kn": "ಇಲ್ಲ"
+        }
+      }
+    ],
+    "cols": 2,
+    "stage": [
+      "deep"
+    ],
+    "scheme_id": null
+  },
+  {
+    "id": "dc_docs_ready",
+    "type": "single_select",
+    "label": {
+      "en": "Do you have all the required documents ready?",
+      "kn": "ಅಗತ್ಯವಿರುವ ಎಲ್ಲಾ ದಾಖಲೆಗಳು ನಿಮ್ಮ ಬಳಿ ಸಿದ್ಧವಾಗಿವೆಯೇ?"
+    },
+    "options": [
+      {
+        "value": "yes",
+        "label": {
+          "en": "Yes",
+          "kn": "ಹೌದು"
+        }
+      },
+      {
+        "value": "no",
+        "label": {
+          "en": "No",
+          "kn": "ಇಲ್ಲ"
+        }
+      }
+    ],
+    "cols": 2,
+    "stage": [
+      "deep"
+    ],
+    "scheme_id": null
+  },
+  {
+    "id": "dc_ration_head",
+    "type": "single_select",
+    "label": {
+      "en": "Are you listed as head of household on the ration card?",
+      "kn": "ರೇಷನ್ ಕಾರ್ಡಿನಲ್ಲಿ ಮನೆಯ ಮುಖ್ಯಸ್ಥರಾಗಿ ನೀವು ದಾಖಲಾಗಿದ್ದೀರಾ?"
+    },
+    "options": [
+      {
+        "value": "yes",
+        "label": {
+          "en": "Yes",
+          "kn": "ಹೌದು"
+        }
+      },
+      {
+        "value": "no",
+        "label": {
+          "en": "No",
+          "kn": "ಇಲ್ಲ"
+        }
+      }
+    ],
+    "cols": 2,
+    "stage": [
+      "deep"
+    ],
+    "scheme_id": "gruha-lakshmi"
+  },
+  {
+    "id": "dc_land_own_name",
+    "type": "single_select",
+    "label": {
+      "en": "Is the farmland in your name?",
+      "kn": "ಕೃಷಿ ಭೂಮಿ ನಿಮ್ಮ ಹೆಸರಿನಲ್ಲಿದೆಯೇ?"
+    },
+    "options": [
+      {
+        "value": "yes",
+        "label": {
+          "en": "Yes",
+          "kn": "ಹೌದು"
+        }
+      },
+      {
+        "value": "no",
+        "label": {
+          "en": "No",
+          "kn": "ಇಲ್ಲ"
+        }
+      }
+    ],
+    "cols": 2,
+    "stage": [
+      "deep"
+    ],
+    "scheme_id": "pm-kisan"
+  },
+  {
+    "id": "dc_age_proof_ssy",
+    "type": "single_select",
+    "label": {
+      "en": "Does your age proof match your official records?",
+      "kn": "ನಿಮ್ಮ ವಯಸ್ಸಿನ ಪ್ರಮಾಣವು ನಿಮ್ಮ ಅಧಿಕೃತ ದಾಖಲೆಗಳಿಗೆ ಹೊಂದಿಕೆಯಾಗುತ್ತದೆಯೇ?"
+    },
+    "options": [
+      {
+        "value": "yes",
+        "label": {
+          "en": "Yes",
+          "kn": "ಹೌದು"
+        }
+      },
+      {
+        "value": "no",
+        "label": {
+          "en": "No",
+          "kn": "ಇಲ್ಲ"
+        }
+      }
+    ],
+    "cols": 2,
+    "stage": [
+      "deep"
+    ],
+    "scheme_id": "sandhya-suraksha"
+  },
+  {
+    "id": "dc_age_proof_wdp",
+    "type": "single_select",
+    "label": {
+      "en": "Does your age proof match your official records?",
+      "kn": "ನಿಮ್ಮ ವಯಸ್ಸಿನ ಪ್ರಮಾಣವು ನಿಮ್ಮ ಅಧಿಕೃತ ದಾಖಲೆಗಳಿಗೆ ಹೊಂದಿಕೆಯಾಗುತ್ತದೆಯೇ?"
+    },
+    "options": [
+      {
+        "value": "yes",
+        "label": {
+          "en": "Yes",
+          "kn": "ಹೌದು"
+        }
+      },
+      {
+        "value": "no",
+        "label": {
+          "en": "No",
+          "kn": "ಇಲ್ಲ"
+        }
+      }
+    ],
+    "cols": 2,
+    "stage": [
+      "deep"
+    ],
+    "scheme_id": "widow-pension"
+  },
+  {
+    "id": "dc_age_proof_dbp",
+    "type": "single_select",
+    "label": {
+      "en": "Does your age proof match your official records?",
+      "kn": "ನಿಮ್ಮ ವಯಸ್ಸಿನ ಪ್ರಮಾಣವು ನಿಮ್ಮ ಅಧಿಕೃತ ದಾಖಲೆಗಳಿಗೆ ಹೊಂದಿಕೆಯಾಗುತ್ತದೆಯೇ?"
+    },
+    "options": [
+      {
+        "value": "yes",
+        "label": {
+          "en": "Yes",
+          "kn": "ಹೌದು"
+        }
+      },
+      {
+        "value": "no",
+        "label": {
+          "en": "No",
+          "kn": "ಇಲ್ಲ"
+        }
+      }
+    ],
+    "cols": 2,
+    "stage": [
+      "deep"
+    ],
+    "scheme_id": "disability-pension"
+  },
+  {
+    "id": "dc_education_cert",
+    "type": "single_select",
+    "label": {
+      "en": "Do you have your education certificates ready?",
+      "kn": "ನಿಮ್ಮ ಶಿಕ್ಷಣ ಪ್ರಮಾಣಪತ್ರಗಳು ಸಿದ್ಧವಾಗಿವೆಯೇ?"
+    },
+    "options": [
+      {
+        "value": "yes",
+        "label": {
+          "en": "Yes",
+          "kn": "ಹೌದು"
+        }
+      },
+      {
+        "value": "no",
+        "label": {
+          "en": "No",
+          "kn": "ಇಲ್ಲ"
+        }
+      }
+    ],
+    "cols": 2,
+    "stage": [
+      "deep"
+    ],
+    "scheme_id": "yuva-nidhi"
+  }
+]

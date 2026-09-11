@@ -1,0 +1,230 @@
+{
+  "reason.ageRange": {
+    "message": {
+      "en": "This scheme is for people aged {min} to {max}.",
+      "kn": "ಈ ಯೋಜನೆಯು {min} ರಿಂದ {max} ವಯಸ್ಸಿನವರಿಗೆ ಅನ್ವಯವಾಗುತ್ತದೆ."
+    }
+  },
+  "reason.ageUnder": {
+    "message": {
+      "en": "You must be at least {min} years old for this scheme.",
+      "kn": "ಈ ಯೋಜನೆಗೆ ನಿಮ್ಮ ವಯಸ್ಸು ಕನಿಷ್ಠ {min} ವರ್ಷಗಳಾಗಿರಬೇಕು."
+    }
+  },
+  "reason.ageOver": {
+    "message": {
+      "en": "This scheme covers people up to {max} years old.",
+      "kn": "ಈ ಯೋಜನೆಯು {max} ವಯಸ್ಸಿನವರೆಗೆ ಅನ್ವಯವಾಗುತ್ತದೆ."
+    }
+  },
+  "reason.womenOnly": {
+    "message": {
+      "en": "This scheme is only for women and, where noted, transgender persons.",
+      "kn": "ಈ ಯೋಜನೆಯು ಮಹಿಳೆಯರಿಗೆ ಮತ್ತು, ಎಲ್ಲಿ ಉಲ್ಲೇಖಿಸಲಾಗಿದೆಯೋ ಅಲ್ಲಿ, ಟ್ರಾನ್ಸ್‌ಜೆಂಡರ್ ವ್ಯಕ್ತಿಗಳಿಗೆ ಮಾತ್ರ ಅನ್ವಯವಾಗುತ್ತದೆ."
+    }
+  },
+  "reason.notHouseholdHead": {
+    "message": {
+      "en": "The scheme supports the woman listed as head of the household.",
+      "kn": "ಈ ಯೋಜನೆಯು ರೇಷನ್ ಕಾರ್ಡಿನಲ್ಲಿ ಮನೆಯ ಮುಖ್ಯಸ್ಥರಾಗಿ ದಾಖಲಾಗಿರುವ ಮಹಿಳೆಗೆ ಸಹಾಯ ಮಾಡುತ್ತದೆ."
+    }
+  },
+  "reason.incomeAbove": {
+    "message": {
+      "en": "Your family's income band is above this scheme's limit of {limit}.",
+      "kn": "ನಿಮ್ಮ ಕುಟುಂಬದ ಆದಾಯ ವರ್ಗವು ಈ ಯೋಜನೆಯ {limit} ಮಿತಿಗಿಂತ ಹೆಚ್ಚಿದೆ."
+    }
+  },
+  "reason.incomeTaxPayer": {
+    "message": {
+      "en": "Households that pay income tax or file GST returns are excluded.",
+      "kn": "ಆದಾಯ ತೆರಿಗೆ ಕಟ್ಟುವ ಅಥವಾ ಜಿಎಸ್‌ಟಿ ಸಲ್ಲಿಸುವ ಕುಟುಂಬಗಳು ಇದರ ವ್ಯಾಪ್ತಿಯಿಂದ ಹೊರಗಿವೆ."
+    }
+  },
+  "reason.noRationCard": {
+    "message": {
+      "en": "This scheme requires a valid ration card.",
+      "kn": "ಈ ಯೋಜನೆಗೆ ಮಾನ್ಯ ರೇಷನ್ ಕಾರ್ಡ್ ಅಗತ್ಯವಿದೆ."
+    }
+  },
+  "reason.rationCategoryNotCovered": {
+    "message": {
+      "en": "Your ration card category is not covered by this scheme (needs {needed}).",
+      "kn": "ನಿಮ್ಮ ರೇಷನ್ ಕಾರ್ಡ್ ವರ್ಗವು ಈ ಯೋಜನೆಯ ವ್ಯಾಪ್ತಿಯಲ್ಲಿಲ್ಲ ({needed} ಅಗತ್ಯ)."
+    }
+  },
+  "reason.categoryNotCovered": {
+    "message": {
+      "en": "This scheme is for a different social category of applicants.",
+      "kn": "ಈ ಯೋಜನೆಯು ಬೇರೆ ಸಾಮಾಜಿಕ ವರ್ಗದ ಅರ್ಜಿದಾರರಿಗೆ ಅನ್ವಯವಾಗುತ್ತದೆ."
+    }
+  },
+  "reason.noLicence": {
+    "message": {
+      "en": "You need a valid driving licence for this scheme.",
+      "kn": "ಈ ಯೋಜನೆಗೆ ನಿಮ್ಮ ಬಳಿ ಮಾನ್ಯ ಚಾಲನಾ ಪರವಾನಗಿ ಇರಬೇಕು."
+    }
+  },
+  "reason.noAadhaar": {
+    "message": {
+      "en": "An Aadhaar card is required for this scheme.",
+      "kn": "ಈ ಯೋಜನೆಗೆ ಆಧಾರ್ ಕಾರ್ಡ್ ಅಗತ್ಯವಿದೆ."
+    }
+  },
+  "reason.noAadhaarLinkedBank": {
+    "message": {
+      "en": "A bank account linked to Aadhaar is required for payment.",
+      "kn": "ಪಾವತಿಗಾಗಿ ಆಧಾರ್‌ಗೆ ಸಂಪರ್ಕಿಸಿದ ಬ್ಯಾಂಕ್ ಖಾತೆ ಅಗತ್ಯವಿದೆ."
+    }
+  },
+  "reason.infoMissing": {
+    "message": {
+      "en": "We could not confirm this from your answers — check the full eligibility list.",
+      "kn": "ನಿಮ್ಮ ಉತ್ತರಗಳಿಂದ ಇದನ್ನು ದೃಢಪಡಿಸಲಾಗಲಿಲ್ಲ — ಸಂಪೂರ್ಣ ಅರ್ಹತಾ ಪಟ್ಟಿಯನ್ನು ಪರಿಶೀಲಿಸಿ."
+    }
+  },
+  "reason.otherPension": {
+    "message": {
+      "en": "You already receive a monthly pension, which overlaps with this scheme.",
+      "kn": "ನೀವು ಈಗಾಗಲೇ ಮಾಸಿಕ ಪೆನ್ಷನ್ ಪಡೆಯುತ್ತಿದ್ದೀರಿ, ಅದು ಈ ಯೋಜನೆಯೊಂದಿಗೆ ಅತಿಕ್ರಮಿಸುತ್ತದೆ."
+    }
+  },
+  "reason.notWidowed": {
+    "message": {
+      "en": "This pension is for widows only.",
+      "kn": "ಈ ಪೆನ್ಷನ್ ವಿಧವೆಯರಿಗೆ ಮಾತ್ರ ಅನ್ವಯವಾಗುತ್ತದೆ."
+    }
+  },
+  "reason.notUnmarriedOrDivorced": {
+    "message": {
+      "en": "This pension is for unmarried or divorced women only.",
+      "kn": "ಈ ಪೆನ್ಷನ್ ಅವಿವಾಹಿತ ಅಥವಾ ವಿಚ್ಛೇದಿತ ಮಹಿಳೆಯರಿಗೆ ಮಾತ್ರ ಅನ್ವಯವಾಗುತ್ತದೆ."
+    }
+  },
+  "reason.notDisabled": {
+    "message": {
+      "en": "This pension requires a disability certificate.",
+      "kn": "ಈ ಪೆನ್ಷನ್‌ಗೆ ಅಂಗವೈಕಲ್ಯ ಪ್ರಮಾಣಪತ್ರ ಅಗತ್ಯವಿದೆ."
+    }
+  },
+  "reason.disabilityBelowThreshold": {
+    "message": {
+      "en": "A disability of at least {min} is required.",
+      "kn": "ಕನಿಷ್ಠ {min} ಅಂಗವೈಕಲ್ಯ ಇರಬೇಕು."
+    }
+  },
+  "reason.notStudent": {
+    "message": {
+      "en": "This scheme requires you to be a student.",
+      "kn": "ಈ ಯೋಜನೆಗೆ ನೀವು ವಿದ್ಯಾರ್ಥಿಯಾಗಿರಬೇಕು."
+    }
+  },
+  "reason.educationBelowPostMatric": {
+    "message": {
+      "en": "This scheme needs a post-matric (after 10th) course.",
+      "kn": "ಈ ಯೋಜನೆಗೆ ಮೆಟ್ರಿಕ್ ನಂತರದ (10ನೇ ತರಗತಿಯ ನಂತರದ) ಕೋರ್ಸ್ ಅಗತ್ಯವಿದೆ."
+    }
+  },
+  "reason.notDiplomaOrGraduate": {
+    "message": {
+      "en": "This scheme is for diploma or degree holders.",
+      "kn": "ಈ ಯೋಜನೆಯು ಡಿಪ್ಲೊಮಾ ಅಥವಾ ಪದವೀಧರರಿಗೆ ಅನ್ವಯವಾಗುತ್ತದೆ."
+    }
+  },
+  "reason.employed": {
+    "message": {
+      "en": "This scheme requires you to be unemployed.",
+      "kn": "ಈ ಯೋಜನೆಗೆ ನೀವು ನಿರುದ್ಯೋಗಿಯಾಗಿರಬೇಕು."
+    }
+  },
+  "reason.noLand": {
+    "message": {
+      "en": "This scheme requires agricultural land.",
+      "kn": "ಈ ಯೋಜನೆಗೆ ಕೃಷಿ ಭೂಮಿ ಅಗತ್ಯವಿದೆ."
+    }
+  },
+  "reason.notFarmer": {
+    "message": {
+      "en": "This scheme requires that you (or a family member) cultivate the land.",
+      "kn": "ಈ ಯೋಜನೆಗೆ ಆ ಭೂಮಿಯನ್ನು ನೀವು (ಅಥವಾ ಕುಟುಂಬದ ಸದಸ್ಯರು) ಬೇಸಾಯ ಮಾಡುವುದು ಅಗತ್ಯವಿದೆ."
+    }
+  },
+  "reason.noElectricityConnection": {
+    "message": {
+      "en": "This scheme requires a domestic electricity connection.",
+      "kn": "ಈ ಯೋಜನೆಗೆ ಗೃಹಬಳಕೆಯ ವಿದ್ಯುತ್ ಸಂಪರ್ಕ ಅಗತ್ಯವಿದೆ."
+    }
+  },
+  "reason.notInYourName": {
+    "message": {
+      "en": "The connection must be registered in the applicant's own name.",
+      "kn": "ಸಂಪರ್ಕವು ಅರ್ಜಿದಾರರ ಸ್ವಂತ ಹೆಸರಿನಲ್ಲಿ ನೋಂದಾಯಿಸಲ್ಪಟ್ಟಿರಬೇಕು."
+    }
+  },
+  "reason.karnatakaOnly": {
+    "message": {
+      "en": "This scheme is only for Karnataka residents.",
+      "kn": "ಈ ಯೋಜನೆಯು ಕರ್ನಾಟಕದ ನಿವಾಸಿಗಳಿಗೆ ಮಾತ್ರ ಅನ್ವಯವಾಗುತ್ತದೆ."
+    }
+  },
+  "reason.unemployedOnly": {
+    "message": {
+      "en": "This scheme is only for unemployed persons.",
+      "kn": "ಈ ಯೋಜನೆಯು ನಿರುದ್ಯೋಗಿಗಳಿಗೆ ಮಾತ್ರ ಅನ್ವಯವಾಗುತ್ತದೆ."
+    }
+  },
+  "reason.dcAadhaarNameMismatch": {
+    "message": {
+      "en": "Your Aadhaar name does not match your bank records.",
+      "kn": "ನಿಮ್ಮ ಆಧಾರ್ ಹೆಸರು ನಿಮ್ಮ ಬ್ಯಾಂಕ್ ದಾಖಲೆಗಳಿಗೆ ಹೊಂದಿಕೆಯಾಗುವುದಿಲ್ಲ."
+    }
+  },
+  "reason.dcAadhaarMobileNotLinked": {
+    "message": {
+      "en": "Your mobile number is not linked to Aadhaar.",
+      "kn": "ನಿಮ್ಮ ಮೊಬೈಲ್ ಸಂಖ್ಯೆ ಆಧಾರ್‌ಗೆ ಸಂಪರ್ಕಿಸಲಾಗಿಲ್ಲ."
+    }
+  },
+  "reason.dcAadhaarNotLinkedBank": {
+    "message": {
+      "en": "Your Aadhaar is not linked to your bank account.",
+      "kn": "ನಿಮ್ಮ ಆಧಾರ್ ನಿಮ್ಮ ಬ್ಯಾಂಕ್ ಖಾತೆಗೆ ಸಂಪರ್ಕಿಸಲಾಗಿಲ್ಲ."
+    }
+  },
+  "reason.dcBankInactive": {
+    "message": {
+      "en": "Your bank account is not active / DBT-enabled.",
+      "kn": "ನಿಮ್ಮ ಬ್ಯಾಂಕ್ ಖಾತೆ ಸಕ್ರಿಯವಾಗಿಲ್ಲ / ಡಿಬಿಟಿ ಸಕ್ರಿಯವಾಗಿಲ್ಲ."
+    }
+  },
+  "reason.dcDocsNotReady": {
+    "message": {
+      "en": "You do not have all the required documents ready.",
+      "kn": "ಅಗತ್ಯವಿರುವ ಎಲ್ಲಾ ದಾಖಲೆಗಳು ನಿಮ್ಮ ಬಳಿ ಸಿದ್ಧವಾಗಿಲ್ಲ."
+    }
+  },
+  "reason.dcNotRationHead": {
+    "message": {
+      "en": "You are not listed as head of household on the ration card.",
+      "kn": "ರೇಷನ್ ಕಾರ್ಡಿನಲ್ಲಿ ಮನೆಯ ಮುಖ್ಯಸ್ಥರಾಗಿ ನೀವು ದಾಖಲಾಗಿಲ್ಲ."
+    }
+  },
+  "reason.dcLandNotOwnName": {
+    "message": {
+      "en": "The farmland is not in your name.",
+      "kn": "ಕೃಷಿ ಭೂಮಿ ನಿಮ್ಮ ಹೆಸರಿನಲ್ಲಿಲ್ಲ."
+    }
+  },
+  "reason.dcAgeProofMismatch": {
+    "message": {
+      "en": "Your age proof does not match your official records.",
+      "kn": "ನಿಮ್ಮ ವಯಸ್ಸಿನ ಪ್ರಮಾಣವು ನಿಮ್ಮ ಅಧಿಕೃತ ದಾಖಲೆಗಳಿಗೆ ಹೊಂದಿಕೆಯಾಗುವುದಿಲ್ಲ."
+    }
+  },
+  "reason.dcEducationCertMissing": {
+    "message": {
+      "en": "Your education certificates are not ready.",
+      "kn": "ನಿಮ್ಮ ಶಿಕ್ಷಣ ಪ್ರಮಾಣಪತ್ರಗಳು ಸಿದ್ಧವಾಗಿಲ್ಲ."
+    }
+  }
+}
