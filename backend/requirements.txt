@@ -1,0 +1,11 @@
+# Runtime (Django 5.2 LTS line, DRF 3.16 line, pydantic v2)
+Django==5.2.6
+djangorestframework==3.16.1
+django-cors-headers==4.7.0
+gunicorn==23.0.0
+whitenoise==6.9.0
+pydantic==2.11.7
+
+# Dev / test
+pytest==8.4.2
+pytest-django==4.11.1
