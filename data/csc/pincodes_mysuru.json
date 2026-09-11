@@ -1,0 +1,214 @@
+{
+  "pincodes": {
+    "570001": {
+      "lat": 12.3052,
+      "lng": 76.6551,
+      "taluk": "Mysuru",
+      "city": "Mysuru"
+    },
+    "570002": {
+      "lat": 12.309,
+      "lng": 76.653,
+      "taluk": "Mysuru",
+      "city": "Mysuru"
+    },
+    "570004": {
+      "lat": 12.2955,
+      "lng": 76.64,
+      "taluk": "Mysuru",
+      "city": "Mysuru"
+    },
+    "570005": {
+      "lat": 12.29,
+      "lng": 76.635,
+      "taluk": "Mysuru",
+      "city": "Mysuru"
+    },
+    "570006": {
+      "lat": 12.312,
+      "lng": 76.633,
+      "taluk": "Mysuru",
+      "city": "Mysuru"
+    },
+    "570007": {
+      "lat": 12.318,
+      "lng": 76.643,
+      "taluk": "Mysuru",
+      "city": "Mysuru"
+    },
+    "570008": {
+      "lat": 12.325,
+      "lng": 76.638,
+      "taluk": "Mysuru",
+      "city": "Mysuru"
+    },
+    "570010": {
+      "lat": 12.32,
+      "lng": 76.648,
+      "taluk": "Mysuru",
+      "city": "Mysuru"
+    },
+    "570011": {
+      "lat": 12.29,
+      "lng": 76.626,
+      "taluk": "Mysuru",
+      "city": "Mysuru"
+    },
+    "570012": {
+      "lat": 12.303,
+      "lng": 76.67,
+      "taluk": "Mysuru",
+      "city": "Mysuru"
+    },
+    "570015": {
+      "lat": 12.29,
+      "lng": 76.67,
+      "taluk": "Mysuru",
+      "city": "Mysuru"
+    },
+    "570016": {
+      "lat": 12.287,
+      "lng": 76.625,
+      "taluk": "Mysuru",
+      "city": "Mysuru"
+    },
+    "570017": {
+      "lat": 12.283,
+      "lng": 76.618,
+      "taluk": "Mysuru",
+      "city": "Mysuru"
+    },
+    "570019": {
+      "lat": 12.325,
+      "lng": 76.656,
+      "taluk": "Mysuru",
+      "city": "Mysuru"
+    },
+    "570020": {
+      "lat": 12.27,
+      "lng": 76.65,
+      "taluk": "Mysuru",
+      "city": "Mysuru"
+    },
+    "570022": {
+      "lat": 12.335,
+      "lng": 76.64,
+      "taluk": "Mysuru",
+      "city": "Mysuru"
+    },
+    "570023": {
+      "lat": 12.31,
+      "lng": 76.608,
+      "taluk": "Mysuru",
+      "city": "Mysuru"
+    },
+    "570026": {
+      "lat": 12.345,
+      "lng": 76.61,
+      "taluk": "Mysuru",
+      "city": "Mysuru"
+    },
+    "570028": {
+      "lat": 12.25,
+      "lng": 76.64,
+      "taluk": "Nanjangud",
+      "city": "Kadakola"
+    },
+    "570029": {
+      "lat": 12.28,
+      "lng": 76.59,
+      "taluk": "Mysuru",
+      "city": "Bogadi"
+    },
+    "571302": {
+      "lat": 12.123,
+      "lng": 76.682,
+      "taluk": "Nanjangud",
+      "city": "Nanjangud"
+    },
+    "571312": {
+      "lat": 12.18,
+      "lng": 76.66,
+      "taluk": "Nanjangud",
+      "city": "Tandavapura"
+    },
+    "571101": {
+      "lat": 12.2167,
+      "lng": 76.9,
+      "taluk": "T. Narasipur",
+      "city": "T. Narasipur"
+    },
+    "571103": {
+      "lat": 12.24,
+      "lng": 76.97,
+      "taluk": "T. Narasipur",
+      "city": "Bannur"
+    },
+    "571102": {
+      "lat": 12.3683,
+      "lng": 76.1,
+      "taluk": "Piriyapatna",
+      "city": "Piriyapatna"
+    },
+    "571104": {
+      "lat": 12.423,
+      "lng": 76.192,
+      "taluk": "Piriyapatna",
+      "city": "Bylakuppe"
+    },
+    "571105": {
+      "lat": 12.31,
+      "lng": 76.28,
+      "taluk": "Hunsur",
+      "city": "Hunsur"
+    },
+    "571106": {
+      "lat": 12.335,
+      "lng": 76.2,
+      "taluk": "Hunsur",
+      "city": "Bilikere"
+    },
+    "571107": {
+      "lat": 12.5218,
+      "lng": 76.0753,
+      "taluk": "Periyapatna",
+      "city": "Periyapatna"
+    },
+    "571114": {
+      "lat": 12.15,
+      "lng": 76.29,
+      "taluk": "H.D. Kote",
+      "city": "H.D. Kote"
+    },
+    "571121": {
+      "lat": 12.09,
+      "lng": 76.36,
+      "taluk": "H.D. Kote",
+      "city": "Sargur"
+    },
+    "571601": {
+      "lat": 12.4536,
+      "lng": 76.0934,
+      "taluk": "K.R. Nagar",
+      "city": "K.R. Nagar"
+    },
+    "571602": {
+      "lat": 12.47,
+      "lng": 76.12,
+      "taluk": "K.R. Nagar",
+      "city": "K.R. Nagar (rural)"
+    },
+    "571603": {
+      "lat": 12.43,
+      "lng": 76.07,
+      "taluk": "K.R. Nagar",
+      "city": "K.R. Nagar (rural)"
+    },
+    "571604": {
+      "lat": 12.48,
+      "lng": 76.06,
+      "taluk": "K.R. Nagar",
+      "city": "K.R. Nagar (rural)"
+    }
+  }
+}

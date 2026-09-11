@@ -1,0 +1,130 @@
+{
+  "meta": {
+    "title": "Namma Mitra · Find out what you're owed"
+  },
+  "brand": "Namma Mitra",
+  "language": "Language",
+  "back": "Back",
+  "home": "Home",
+  "landing": {
+    "start": "Start",
+    "headline": "Find out what you're owed",
+    "sub": "Answer a few simple questions and we'll tell you which government schemes your household qualifies for — and what's standing in the way.",
+    "privacy": "Free to use. Your answers stay on your phone and are never shared.",
+    "boardKicker": "{schemes} schemes, {questions} questions, about 5 minutes",
+    "cscTitle": "Visit a CSC centre",
+    "cscSub": "Trained operators help you apply for schemes, get certificates and correct your records.",
+    "cscLink": "Find your nearest CSC centre"
+  },
+  "intake": {
+    "continue": "Continue",
+    "skip": "Skip",
+    "stopOf": "Question {current} of {total}",
+    "finish": "See your results",
+    "pincodeNote": "Not sure? Skip this — we'll still check every scheme's eligibility.",
+    "loadError": "We couldn't load the questions just now.",
+    "loadErrorHint": "Check your connection and try again.",
+    "retry": "Try again"
+  },
+  "quickCheck": {
+    "title": "Quick check",
+    "sub": "Answer 3 quick questions to see which benefits you may qualify for.",
+    "teaserTitle": "You may be eligible for these benefits",
+    "teaserSub": "Log in for an exact match and the full list.",
+    "worthMonth": "Worth up to {amount} a month",
+    "worthOneTime": "Plus {amount} one-time",
+    "loginCta": "Log in for an exact match",
+    "registerCta": "Create an account",
+    "continueCta": "Continue to your exact match",
+    "backToQuestions": "Back to questions",
+    "error": "We couldn't check just now — please try again.",
+    "retry": "Try again"
+  },
+  "deepCheck": {
+    "title": "Deep-check",
+    "sub": "A few more questions about your documents to confirm your eligibility.",
+    "eligibleTitle": "Your documents are in order",
+    "eligibleSub": "You can proceed to apply for this scheme.",
+    "blockedTitle": "Almost there — a few things to fix",
+    "savedNote": "Your answers are saved and will be reused when you deep-check other schemes.",
+    "backToResults": "Back to results",
+    "error": "We couldn't check just now — please try again.",
+    "retry": "Try again"
+  },
+  "processing": {
+    "checking": "Checking {count} schemes against your answers",
+    "slow": "This can take a moment on slower connections",
+    "enRoute": "Checking",
+    "error": "We couldn't check the schemes just now.",
+    "errorHint": "Your answers are safe on this device — nothing was saved anywhere else.",
+    "retry": "Try again",
+    "backToIntake": "Back to questions"
+  },
+  "results": {
+    "title": "Your results",
+    "oneDiversion": "Almost eligible",
+    "fixesNeeded": "{count, plural, =1 {# fix needed} other {# fixes needed}}",
+    "deepCheck": "Deep-check"
+  },
+  "status": {
+    "eligible": "Eligible",
+    "eligibleAria": "You qualify — nothing is standing in the way",
+    "blockedAria": "You qualify, but something must be fixed first",
+    "notEligible": "Not eligible",
+    "notEligibleAria": "Not eligible for this scheme"
+  },
+  "detail": {
+    "whatYouGet": "What you get",
+    "whyBlocked": "Why it's blocked",
+    "howToFix": "How to fix it",
+    "eligibility": "Who is eligible",
+    "howToApply": "How to apply",
+    "whereToApply": "Where to apply",
+    "checklist": "Documents you'll need",
+    "deadline": "Apply by",
+    "verifiedOn": "Data verified {date}",
+    "source": "Official source",
+    "screeningOnly": "This is a screening, not a government decision — confirm eligibility with the department before you apply.",
+    "notEligibleReason": "Why not eligible",
+    "criteriaChange": "Eligibility criteria (like income limits) are updated every year — check back again later."
+  },
+  "csc": {
+    "title": "Find a CSC near you",
+    "sub": "CSC centres help you fill in applications, get certificates and correct your records.",
+    "enterPincode": "Enter your area's pincode",
+    "findButton": "Find centres",
+    "centersFound": "{count} centres near you",
+    "distanceKm": "{km} km away",
+    "notKarnataka": "That pincode is outside Karnataka — this service covers Karnataka only.",
+    "noCoverage": "No centres listed for that pincode yet.",
+    "fallbackNote": "Your pincode is outside our current coverage — showing Mysuru district centres.",
+    "error": "We couldn't look that up just now — please try again."
+  },
+  "auth": {
+    "loginTitle": "Log in",
+    "loginMobile": "Mobile number",
+    "loginPassword": "Password",
+    "loginSubmit": "Log in",
+    "registerTitle": "Create an account",
+    "registerName": "Your name (optional)",
+    "registerSubmit": "Create account",
+    "authErrorInvalid": "Invalid mobile number or password.",
+    "authErrorGeneric": "Something went wrong — please try again.",
+    "authErrorDuplicate": "An account with this mobile number already exists — try logging in instead.",
+    "authErrorWeakPassword": "Your password is too short — use at least 8 characters.",
+    "toRegister": "New here? Create an account",
+    "toLogin": "Already have an account? Log in",
+    "navLogin": "Log in"
+  },
+  "profile": {
+    "profileTitle": "Your profile",
+    "profileName": "Name",
+    "profileMobile": "Mobile number",
+    "profileSave": "Save",
+    "profileSaving": "Saving…",
+    "profileSaved": "Saved",
+    "profileLogout": "Log out",
+    "profileLoading": "Loading your profile…",
+    "navProfile": "Profile"
+  }
+}

@@ -2,6 +2,11 @@
   "name": "web",
   "version": "0.1.0",
   "private": true,
+  "allowScripts": [
+    "unrs-resolver",
+    "@parcel/watcher",
+    "@swc/core"
+  ],
   "scripts": {
     "dev": "next dev",
     "build": "next build",

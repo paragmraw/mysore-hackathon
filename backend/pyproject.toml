@@ -1,0 +1,8 @@
+[tool.pytest.ini_options]
+DJANGO_SETTINGS_MODULE = "config.settings"
+pythonpath = ["."]
+testpaths = ["apps"]
+python_files = ["test_*.py"]
+# WhiteNoise warns that backend/staticfiles/ does not exist until
+# `collectstatic` runs; tests never serve static files, so drop the noise.
+filterwarnings = ["ignore:No directory at:UserWarning"]
