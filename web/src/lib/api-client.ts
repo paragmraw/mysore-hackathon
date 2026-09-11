@@ -9,7 +9,7 @@ import type {
 
 export { ApiError } from "./api";
 
-const DEFAULT_BASE = "http://localhost:8000";
+const DEFAULT_BASE = "https://8000-kode-ws-169dee1f0.hebbale.academy";
 const TIMEOUT_MS = 15000;
 
 export function browserApiBase(): string {

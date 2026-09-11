@@ -521,7 +521,7 @@ def parse_args(argv=None):
         description="Namma Mitra SMS-flow demo CLI (stdlib only).",
     )
     parser.add_argument("--lang", choices=["en", "kn"], default="en", help="output language (default: en)")
-    parser.add_argument("--api", default="http://localhost:8000", help="base URL of the Namma Mitra API")
+    parser.add_argument("--api", default="https://8000-kode-ws-169dee1f0.hebbale.academy", help="base URL of the Namma Mitra API")
     parser.add_argument("--json", action="store_true", help="print the raw /match response JSON and exit")
     parser.add_argument("--short", action="store_true", help="print only the codes line and the footer (SMS-length simulation)")
     parser.add_argument("--answers-file", metavar="PATH", help="JSON file with a answers dict; skips all prompts")
