@@ -99,6 +99,16 @@ AUTH_PASSWORD_VALIDATORS = [
 ]
 
 
+# DRF default auth must never enforce CSRF (CsrfViewMiddleware is removed
+# above too) — see apps/accounts/authentication.py.
+REST_FRAMEWORK = {
+    "DEFAULT_AUTHENTICATION_CLASSES": [
+        "apps.accounts.authentication.SessionAuthWithoutCSRF",
+        "rest_framework.authentication.BasicAuthentication",
+    ],
+}
+
+
 # Internationalization
 
 LANGUAGE_CODE = "en-us"

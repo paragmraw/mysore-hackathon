@@ -1,12 +1,12 @@
 from django.contrib.auth import authenticate, login, logout
 from django.db import IntegrityError
 from rest_framework import status
-from rest_framework.authentication import SessionAuthentication
 from rest_framework.exceptions import ValidationError
 from rest_framework.permissions import AllowAny, IsAuthenticated
 from rest_framework.response import Response
 from rest_framework.views import APIView
 
+from apps.accounts.authentication import SessionAuthWithoutCSRF
 from apps.accounts.models import Profile, normalize_mobile
 from apps.accounts.serializers import RegisterSerializer
 
@@ -41,13 +41,6 @@ def _user_payload(user) -> dict:
         "answers": profile.answers if profile is not None else {},
         "deep_check_answers": profile.deep_check_answers if profile is not None else {},
     }
-
-
-class SessionAuthWithoutCSRF(SessionAuthentication):
-    """Session authentication with CSRF enforcement disabled."""
-
-    def enforce_csrf(self, request):
-        return None
 
 
 class SessionApiView(APIView):
