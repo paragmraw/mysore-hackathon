@@ -1,11 +1,7 @@
 from django.contrib.auth import authenticate, login, logout
 from django.db import IntegrityError
-from django.http import JsonResponse
-from django.views.decorators.csrf import ensure_csrf_cookie
-from django.views.decorators.http import require_GET
-
-from rest_framework import exceptions, status
-from rest_framework.authentication import CSRFCheck, SessionAuthentication
+from rest_framework import status
+from rest_framework.authentication import SessionAuthentication
 from rest_framework.exceptions import ValidationError
 from rest_framework.permissions import AllowAny, IsAuthenticated
 from rest_framework.response import Response
@@ -15,12 +11,6 @@ from apps.accounts.models import Profile, normalize_mobile
 from apps.accounts.serializers import RegisterSerializer
 
 INVALID_CREDENTIALS_MESSAGE = "Invalid mobile or password."
-
-
-@ensure_csrf_cookie
-@require_GET
-def csrf(request):
-    return JsonResponse({"detail": "ok"})
 
 
 def _request_data(request) -> dict:
@@ -53,23 +43,18 @@ def _user_payload(user) -> dict:
     }
 
 
-class CsrfProtectAPIView(APIView):
+class SessionAuthWithoutCSRF(SessionAuthentication):
+    """Session authentication with CSRF enforcement disabled."""
 
-    authentication_classes = [SessionAuthentication]
-
-    def initial(self, request, *args, **kwargs):
-        def dummy_get_response(_request): 
-            return None
-
-        check = CSRFCheck(dummy_get_response)
-        check.process_request(request)
-        reason = check.process_view(request, None, (), {})
-        if reason:
-            raise exceptions.PermissionDenied("CSRF Failed: %s" % reason)
-        super().initial(request, *args, **kwargs)
+    def enforce_csrf(self, request):
+        return None
 
 
-class RegisterView(CsrfProtectAPIView):
+class SessionApiView(APIView):
+    authentication_classes = [SessionAuthWithoutCSRF]
+
+
+class RegisterView(SessionApiView):
     permission_classes = [AllowAny]
 
     def post(self, request):
@@ -91,7 +76,7 @@ class RegisterView(CsrfProtectAPIView):
         return Response(_user_payload(user), status=status.HTTP_200_OK)
 
 
-class LoginView(CsrfProtectAPIView):
+class LoginView(SessionApiView):
     permission_classes = [AllowAny]
 
     def post(self, request):
@@ -108,7 +93,7 @@ class LoginView(CsrfProtectAPIView):
         return Response(_user_payload(user), status=status.HTTP_200_OK)
 
 
-class LogoutView(CsrfProtectAPIView):
+class LogoutView(SessionApiView):
     permission_classes = [AllowAny]
 
     def post(self, request):
@@ -116,7 +101,7 @@ class LogoutView(CsrfProtectAPIView):
         return Response({"detail": "ok"}, status=status.HTTP_200_OK)
 
 
-class MeView(CsrfProtectAPIView):
+class MeView(SessionApiView):
 
     permission_classes = [IsAuthenticated]
 

@@ -6,7 +6,6 @@ reused across schemes.
 """
 
 import pytest
-from django.conf import settings
 
 from apps.accounts.models import Profile, User
 from rest_framework.test import APIClient
@@ -48,21 +47,12 @@ DEEP_ALL_YES = {
 }
 
 
-def make_client(enforce_csrf_checks=False) -> APIClient:
-    return APIClient(enforce_csrf_checks=enforce_csrf_checks)
+def make_client() -> APIClient:
+    return APIClient()
 
 
-def fetch_csrf_token(client) -> str:
-    response = client.get("/auth/csrf")
-    assert response.status_code == 200
-    return client.cookies[settings.CSRF_COOKIE_NAME].value
-
-
-def post_json(client, path, data, *, with_csrf_token=True):
-    kwargs = {"format": "json"}
-    if with_csrf_token:
-        kwargs["headers"] = {"X-CSRFToken": fetch_csrf_token(client)}
-    return client.post(path, data, **kwargs)
+def post_json(client, path, data):
+    return client.post(path, data, format="json")
 
 
 def logged_in_client_with_profile() -> APIClient:

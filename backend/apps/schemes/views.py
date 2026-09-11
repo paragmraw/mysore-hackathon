@@ -4,7 +4,7 @@ from rest_framework.views import APIView
 from rest_framework.exceptions import NotFound
 from rest_framework.response import Response
 
-from apps.accounts.views import CsrfProtectAPIView
+from apps.accounts.views import SessionApiView
 from apps.schemes.bundle import get_bundle
 from apps.schemes.engine.evaluator import (
     EvalContext,
@@ -232,7 +232,7 @@ class QuickMatchView(APIView):
             }
         )
 
-class DeepCheckView(CsrfProtectAPIView):
+class DeepCheckView(SessionApiView):
 
     permission_classes = [IsAuthenticated]
 

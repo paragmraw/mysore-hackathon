@@ -1,5 +1,4 @@
 import { ApiError } from "./api";
-import { ensureCsrf } from "./csrf";
 import type {
   CscResponse,
   DeepCheckResponse,
@@ -35,10 +34,6 @@ export async function browserRequest<T>(
   const method = init.method ?? "GET";
   const headers: Record<string, string> = {};
   if (init.body !== undefined) headers["Content-Type"] = "application/json";
-  if (method === "POST" || method === "PATCH") {
-    const token = await ensureCsrf();
-    if (token) headers["X-CSRFToken"] = token;
-  }
 
   const controller = new AbortController();
   const timer = setTimeout(() => controller.abort(), TIMEOUT_MS);
