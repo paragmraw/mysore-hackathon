@@ -8,11 +8,17 @@ import type {
 
 export { ApiError } from "./api";
 
-const DEFAULT_BASE = "https://8000-kode-ws-169dee1f0.hebbale.academy";
 const TIMEOUT_MS = 15000;
 
+// Client-side data fetching: NEXT_PUBLIC_API_URL is inlined at build time.
 export function browserApiBase(): string {
-  return process.env.NEXT_PUBLIC_API_URL ?? DEFAULT_BASE;
+  const base = process.env.NEXT_PUBLIC_API_URL;
+  if (!base) {
+    throw new Error(
+      "NEXT_PUBLIC_API_URL is not configured — set it in web/.env (dev) or via the Docker build arg; see .env.example.",
+    );
+  }
+  return base;
 }
 
 export class BrowserApiError extends ApiError {

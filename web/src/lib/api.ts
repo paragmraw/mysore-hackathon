@@ -1,10 +1,17 @@
 import type { Meta, Question, SchemeRecord } from "./types";
 
-const DEFAULT_BASE = "https://8000-kode-ws-169dee1f0.hebbale.academy";
 const TIMEOUT_MS = 15000;
 
+// Server-side data fetching: prefer the runtime API_URL (docker-compose sets
+// it to the backend's internal address), falling back to the public URL.
 export function serverApiBase(): string {
-  return process.env.API_URL ?? DEFAULT_BASE;
+  const base = process.env.API_URL ?? process.env.NEXT_PUBLIC_API_URL;
+  if (!base) {
+    throw new Error(
+      "API base URL is not configured — set API_URL (or NEXT_PUBLIC_API_URL) in the environment; see .env.example.",
+    );
+  }
+  return base;
 }
 
 export class ApiError extends Error {
