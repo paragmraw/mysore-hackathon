@@ -3,11 +3,11 @@ services:
     build:
       context: ./web
       args:
-        - NEXT_PUBLIC_API_URL=http://localhost:8000
+        - NEXT_PUBLIC_API_URL=https://8000-kode-ws-169dee1f0.hebbale.academy
     ports:
       - "3000:3000"
     environment:
-      - API_URL=http://backend:8000
+      - API_URL=https://8000-kode-ws-169dee1f0.hebbale.academy
     restart: unless-stopped
 
   backend:
@@ -21,8 +21,6 @@ services:
       - DJANGO_SECRET_KEY=change-me-in-production
       - DJANGO_DEBUG=0
       - DJANGO_DB_PATH=/app/db/db.sqlite3
-      - CORS_ORIGINS=http://localhost:3000
-      - DJANGO_ALLOWED_HOSTS=localhost,backend,127.0.0.1
       - DATA_DIR=/app/data
       - FRESH_DB=1
       - DJANGO_SUPERUSER_MOBILE=${DJANGO_SUPERUSER_MOBILE:-}

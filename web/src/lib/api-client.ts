@@ -1,5 +1,4 @@
 import { ApiError } from "./api";
-import { ensureCsrf } from "./csrf";
 import type {
   CscResponse,
   DeepCheckResponse,
@@ -9,7 +8,7 @@ import type {
 
 export { ApiError } from "./api";
 
-const DEFAULT_BASE = "http://localhost:8000";
+const DEFAULT_BASE = "https://8000-kode-ws-169dee1f0.hebbale.academy";
 const TIMEOUT_MS = 15000;
 
 export function browserApiBase(): string {
@@ -35,10 +34,6 @@ export async function browserRequest<T>(
   const method = init.method ?? "GET";
   const headers: Record<string, string> = {};
   if (init.body !== undefined) headers["Content-Type"] = "application/json";
-  if (method === "POST" || method === "PATCH") {
-    const token = await ensureCsrf();
-    if (token) headers["X-CSRFToken"] = token;
-  }
 
   const controller = new AbortController();
   const timer = setTimeout(() => controller.abort(), TIMEOUT_MS);

@@ -27,4 +27,4 @@ docker compose up --build   # serves on port 3000
 - Scheme/question data is not bundled here — it comes from the FastAPI API
   (`/questions`, `/schemes`, `/match`, `/csc`). Point the app at it with
   `API_URL` (server-side) and `NEXT_PUBLIC_API_URL` (browser, inlined at
-  build time); both default to `http://localhost:8000`.
+  build time); both default to `https://8000-kode-ws-169dee1f0.hebbale.academy`.

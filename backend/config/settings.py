@@ -19,15 +19,10 @@ def _comma_split(value: str) -> list[str]:
     """Split a comma-separated env value, dropping blanks and whitespace."""
     return [part.strip() for part in value.split(",") if part.strip()]
 
+ALLOWED_HOSTS = ["*"]
 
-ALLOWED_HOSTS = _comma_split(os.environ.get("DJANGO_ALLOWED_HOSTS", "localhost,127.0.0.1"))
-
-CORS_ALLOWED_ORIGINS = _comma_split(
-    os.environ.get("CORS_ORIGINS", "http://localhost:3000")
-)
+CORS_ALLOW_ALL_ORIGINS = True
 CORS_ALLOW_CREDENTIALS = True
-CSRF_TRUSTED_ORIGINS = list(CORS_ALLOWED_ORIGINS)
-
 
 # Application definition
 
@@ -51,7 +46,6 @@ MIDDLEWARE = [
     "corsheaders.middleware.CorsMiddleware",
     "django.contrib.sessions.middleware.SessionMiddleware",
     "django.middleware.common.CommonMiddleware",
-    "django.middleware.csrf.CsrfViewMiddleware",
     "django.contrib.auth.middleware.AuthenticationMiddleware",
     "django.contrib.messages.middleware.MessageMiddleware",
 ]
@@ -103,6 +97,16 @@ AUTH_PASSWORD_VALIDATORS = [
     {"NAME": "django.contrib.auth.password_validation.CommonPasswordValidator"},
     {"NAME": "django.contrib.auth.password_validation.NumericPasswordValidator"},
 ]
+
+
+# DRF default auth must never enforce CSRF (CsrfViewMiddleware is removed
+# above too) — see apps/accounts/authentication.py.
+REST_FRAMEWORK = {
+    "DEFAULT_AUTHENTICATION_CLASSES": [
+        "apps.accounts.authentication.SessionAuthWithoutCSRF",
+        "rest_framework.authentication.BasicAuthentication",
+    ],
+}
 
 
 # Internationalization
